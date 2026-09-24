@@ -1,14 +1,15 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-24, corrida 15:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
+Corte verificado: 2026-09-24, corrida 16:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **24**
-- Comida: **7**
-- Vida cotidiana: **15**
+- Total generado y almacenado por la fábrica: **28**
+- Comida: **8**
+- Vida cotidiana: **17**
 - Economía y compras: **2**
+- Mascotas: **1**
 - Deportes: **0**
-- Pendientes en las seis corridas verificadas: **0**
+- Pendientes en las siete corridas verificadas: **0**
 
 ## Altas
 
@@ -43,4 +44,9 @@ Corte verificado: 2026-09-24, corrida 15:30 ART. Contar sólo archivos individua
 | 2026-09-24 15:30 | Olla con una cucharada | Comida | `/Humor Argentino/Comida/2026-09-24-1530-olla-cucharada.png` | Aprobado y guardado |
 | 2026-09-24 15:30 | Control en la heladera | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-1530-control-heladera.png` | Aprobado y guardado tras una corrección |
 
-Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md` y `produccion/corridas/2026-09-24-1530-art.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
+| 2026-09-24 16:30 | Gato elige caja | Mascotas | `/Humor Argentino/Mascotas/2026-09-24-1630-gato-caja.png` | Aprobado y guardado |
+| 2026-09-24 16:30 | Llavero gigante | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-1630-llavero-gigante.png` | Aprobado y guardado tras una corrección |
+| 2026-09-24 16:30 | Avalancha de recipientes | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-1630-avalancha-tuppers.png` | Aprobado y guardado |
+| 2026-09-24 16:30 | Heladera de sobres | Comida | `/Humor Argentino/Comida/2026-09-24-1630-heladera-sobres.png` | Aprobado y guardado |
+
+Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md` y `produccion/corridas/2026-09-24-1630-art.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
