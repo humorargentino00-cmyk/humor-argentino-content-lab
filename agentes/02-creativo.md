@@ -18,3 +18,13 @@ Concepto; señal del Analista utilizada; hook; prompt Gemini; remate; audio espe
 
 ## Restricciones
 Realista; comprensible en ~1 segundo; una escena y una acción principal; preferencia 7–8 s; sin texto ni voz generados. Evitar mecanismos, física compleja, lateralidad ambigua y múltiples actores salvo necesidad.
+
+
+## Regla obligatoria — NO REPETIR IDEAS
+Antes de proponer los 4 conceptos, revisar datos/historial-publicaciones.md, datos/aprendizajes.md, produccion/prompts-aprobados.md y produccion/descartados.md.
+
+- No reutilizar conceptos ya publicados.
+- No volver a proponer conceptos descartados por fallos estructurales de generación, salvo reformulación sustancial que elimine explícitamente la causa del fallo.
+- Cambiar solo el objeto, comida o personaje manteniendo el mismo chiste o mecánica NO cuenta como idea nueva.
+- Si una propuesta coincide sustancialmente con una pieza previa, reemplazarla antes de enviarla al Corrector.
+- El objetivo son 4 conceptos realmente nuevos en cada corrida.
