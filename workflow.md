@@ -16,3 +16,11 @@ No se saltean etapas.
 - No requiere una orden manual del usuario para cada corrida.
 - Generar stock NO implica publicar contenido ni gastar créditos de generación de video automáticamente.
 - Conservar historial suficiente para impedir repeticiones entre corridas.
+
+
+## Generación y Biblioteca — MAIN
+- Después de APROBADO PARA GENERAR, las piezas de imagen deben pasar de prompt a imagen final generada.
+- El entregable de stock visual es la IMAGEN, no solamente el prompt.
+- Cada imagen final debe guardarse en la Biblioteca del usuario cuando la ejecución disponga de generación de imagen y acceso de escritura a Biblioteca.
+- Conservar prompt/metadatos en el repositorio para trazabilidad, pero el inventario consumible por el usuario debe ser el archivo visual final.
+- No publicar automáticamente.
