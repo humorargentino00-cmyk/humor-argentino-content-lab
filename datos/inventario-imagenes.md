@@ -1,15 +1,15 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-24, corrida 17:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
+Corte verificado: 2026-09-24, corrida 18:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **32**
+- Total generado y almacenado por la fábrica: **35**
 - Comida: **9**
-- Vida cotidiana: **20**
+- Vida cotidiana: **23**
 - Economía y compras: **2**
 - Mascotas: **1**
 - Deportes: **0**
-- Pendientes en las ocho corridas verificadas: **0**
+- Pendientes en las nueve corridas verificadas: **1**
 
 ## Altas
 
@@ -54,4 +54,9 @@ Corte verificado: 2026-09-24, corrida 17:30 ART. Contar sólo archivos individua
 | 2026-09-24 17:30 | Juguetero vacío | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-1730-juguetero-vacio.png` | Aprobado y guardado |
 | 2026-09-24 17:30 | Sobras misteriosas | Comida | `/Humor Argentino/Comida/2026-09-24-1730-sobras-misteriosas.png` | Aprobado y guardado |
 
-Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` y `produccion/corridas/2026-09-24-1730-art.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
+| 2026-09-24 18:30 | Bicicleta perchero | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-1830-bici-perchero.png` | Aprobado y guardado |
+| 2026-09-24 18:30 | Espejo mini círculo | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-1830-espejo-mini-circulo.png` | Aprobado y guardado |
+| 2026-09-24 18:30 | Jabón de restos | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-1830-jabon-restos.png` | Aprobado y guardado |
+| 2026-09-24 18:30 | Cubitos de café | Comida | — | Pendiente: mostró tres cubos en ambos intentos; no guardado ni contabilizado |
+
+Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` y `produccion/corridas/2026-09-24-1830-art.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
