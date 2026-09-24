@@ -50,3 +50,52 @@ Variable: cotidianeidad + economía doméstica + formato real.
 
 ## Estado
 Los cuatro pasan al Validador.
+
+
+## Corrida productiva — 2026-09-24 08:06 ART
+
+### Analista
+Último corte sincronizado de Metricool: 15 publicaciones, con datos hasta 22/09. No hay todavía retención/watch time ni fuentes de tráfico. Señales que siguen vigentes: Boby original lidera afinidad; facturas real+audio lidera views del corte; existe señal de shares independiente de likes; tupper confirma que reconocimiento sin remate fuerte puede distribuir pero interactuar poco.
+
+### Creativo — 4 conceptos nuevos
+
+#### 1 — La bolsa que no pesa — FOTO REAL
+Señal: real + cotidianeidad argentina + bajo costo.
+Hook: **SALÍ DEL SÚPER CON $100.000 MENOS**
+Visual: dos bolsas de supermercado casi vacías, 4–6 productos comunes y ticket largo.
+Remate: **PERO TRANQUI, TRAJE DOS BOLSAS**
+Audio: **AUDIO NO VERIFICADO**. No inventar nombre; seleccionar uno concreto/verificado antes de publicar.
+Variable: economía doméstica + absurdo visual.
+
+#### 2 — Abrís el paquete y aparecen todos — VIDEO IA
+Señal: comida + situación familiar inmediata.
+Hook: **CUANDO ABRÍS ALGO PARA COMER EN SILENCIO**
+Prompt Gemini: "Realistic vertical smartphone video in a modest Argentine home kitchen. One adult quietly opens a small package of cookies at the kitchen counter. Immediately, two family members naturally appear in the doorway behind them and stare at the package. The package is already visible from the first frame. One continuous static shot, casual home lighting, realistic anatomy, simple natural movement, no dialogue, no text, no subtitles, no logos, 7 seconds."
+Remate: **AHORA SOMOS TODOS FAMILIA**
+Audio: **AUDIO NO VERIFICADO**.
+Variable: comida + aparición visual clara.
+
+#### 3 — La silla ya es placard — FOTO REAL
+Señal: la silla/ropa ya consiguió distribución; repetir estructura sin repetir pieza.
+Hook: **COMPRÉ UN PLACARD NUEVO**
+Visual: silla real completamente tapada por ropa, con el placard visible y prácticamente vacío al fondo.
+Remate: **LA SILLA: ¿Y YO QUÉ SOY?**
+Audio: **AUDIO NO VERIFICADO**.
+Variable: secuela temática con imagen real.
+
+#### 4 — Último pedazo de pizza — VIDEO IA
+Señal: conflicto de comida reconocible, simplificado para evitar el fallo técnico de manos.
+Hook: **QUEDA UNA SOLA**
+Prompt Gemini: "Realistic vertical smartphone video of an ordinary Argentine dining table. From the first frame, a pizza box is open with exactly one slice of pizza remaining in the center. Two adults are seated on opposite sides of the table. Both notice the last slice at the same time, stop moving, and slowly look at each other with serious competitive expressions. Their hands remain resting on the table and never touch the pizza. Static camera, one continuous shot, realistic anatomy, ordinary home lighting, subtle natural comedy, no dialogue, no text, no subtitles, no logos, 7 seconds."
+Remate: **AHÍ SE TERMINA LA DEMOCRACIA**
+Audio: **AUDIO NO VERIFICADO**.
+Variable: conflicto visual con geometría simplificada.
+
+### Corrector
+1 APROBADO. Hook visual inmediato; cero riesgo IA.
+2 APROBADO. Acción simple; aparición de dos personas es riesgo moderado, pero no requiere manos precisas ni audio para entenderse.
+3 APROBADO. Foto real; remate autosuficiente.
+4 APROBADO. Se eliminó la acción de agarrar la comida para reducir errores de anatomía/geometría.
+
+### Validador
+**APROBADO PARA GENERAR.** Hay 4 propuestas exactas, derivadas del último corte disponible, revisadas por Corrector. Los audios quedan explícitamente sin verificar en vez de inventarse.
