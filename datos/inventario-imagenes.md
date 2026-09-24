@@ -1,14 +1,14 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-24, corrida 14:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
+Corte verificado: 2026-09-24, corrida 15:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **20**
-- Comida: **6**
-- Vida cotidiana: **12**
+- Total generado y almacenado por la fábrica: **24**
+- Comida: **7**
+- Vida cotidiana: **15**
 - Economía y compras: **2**
 - Deportes: **0**
-- Pendientes en las cinco corridas verificadas: **0**
+- Pendientes en las seis corridas verificadas: **0**
 
 ## Altas
 
@@ -38,4 +38,9 @@ Corte verificado: 2026-09-24, corrida 14:30 ART. Contar sólo archivos individua
 | 2026-09-24 14:30 | Una media, doce broches | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-1430-media-doce-broches.png` | Aprobado y guardado |
 | 2026-09-24 14:30 | Medio limón blindado | Comida | `/Humor Argentino/Comida/2026-09-24-1430-medio-limon-blindado.png` | Aprobado y guardado |
 
-Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md` y `produccion/corridas/2026-09-24-1430-art.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
+| 2026-09-24 15:30 | Router sobre torre de libros | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-1530-router-torre.png` | Aprobado y guardado |
+| 2026-09-24 15:30 | Media roja culpable | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-1530-media-roja.png` | Aprobado y guardado |
+| 2026-09-24 15:30 | Olla con una cucharada | Comida | `/Humor Argentino/Comida/2026-09-24-1530-olla-cucharada.png` | Aprobado y guardado |
+| 2026-09-24 15:30 | Control en la heladera | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-1530-control-heladera.png` | Aprobado y guardado tras una corrección |
+
+Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md` y `produccion/corridas/2026-09-24-1530-art.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
