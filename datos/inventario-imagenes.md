@@ -1,14 +1,14 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-24, corrida 12:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
+Corte verificado: 2026-09-24, corrida 13:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **12**
-- Comida: **4**
-- Vida cotidiana: **6**
+- Total generado y almacenado por la fábrica: **16**
+- Comida: **5**
+- Vida cotidiana: **9**
 - Economía y compras: **2**
 - Deportes: **0**
-- Pendientes en las tres corridas verificadas: **0**
+- Pendientes en las cuatro corridas verificadas: **0**
 
 ## Altas
 
@@ -28,4 +28,9 @@ Corte verificado: 2026-09-24, corrida 12:30 ART. Contar sólo archivos individua
 | 2026-09-24 12:30 | Billetera tickets | Economía y compras | `/Humor Argentino/Economia y compras/2026-09-24-1230-billetera-tickets.png` | Aprobado y guardado |
 | 2026-09-24 12:30 | Cereal cinco | Comida | `/Humor Argentino/Comida/2026-09-24-1230-cereal-cinco.png` | Aprobado y guardado |
 
-Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md` y `produccion/corridas/2026-09-24-1230-art.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
+| 2026-09-24 13:30 | Sábana ajustable imposible | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-1330-sabana-ajustada.png` | Aprobado y guardado |
+| 2026-09-24 13:30 | Último cuadrado | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-1330-ultimo-cuadrado.png` | Aprobado y guardado |
+| 2026-09-24 13:30 | Tupper que no gira | Comida | `/Humor Argentino/Comida/2026-09-24-1330-tupper-microondas.png` | Aprobado y guardado |
+| 2026-09-24 13:30 | Zapatilla de tope | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-1330-zapatilla-tope.png` | Aprobado y guardado |
+
+Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md` y `produccion/corridas/2026-09-24-1330-art.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
