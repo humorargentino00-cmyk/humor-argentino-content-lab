@@ -17,3 +17,11 @@ Crear, medir y mejorar contenido corto de humor argentino para TikTok usando evi
 
 ## Principio
 Medir → aprender → crear → corregir → validar → generar/publicar → volver a medir.
+
+
+## Modo experimental — Reel listo para subir
+- En este branch, el entregable final no es una imagen: es un video vertical tipo Reel/TikTok listo para publicar.
+- Objetivo técnico: 9:16, preferencia 1080×1920, duración corta acorde al concepto.
+- El video debe contemplar hook, desarrollo/remate, texto en pantalla y audio específico recomendado.
+- La producción debe minimizar edición manual posterior. El objetivo es que el usuario reciba una pieza prácticamente publicable.
+- Mantener el máximo de 2 intentos de generación por concepto.
