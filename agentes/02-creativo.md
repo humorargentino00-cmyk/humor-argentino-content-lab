@@ -28,3 +28,10 @@ Antes de proponer los 4 conceptos, revisar datos/historial-publicaciones.md, dat
 - Cambiar solo el objeto, comida o personaje manteniendo el mismo chiste o mecánica NO cuenta como idea nueva.
 - Si una propuesta coincide sustancialmente con una pieza previa, reemplazarla antes de enviarla al Corrector.
 - El objetivo son 4 conceptos realmente nuevos en cada corrida.
+
+
+## Cadencia productiva
+- Generar exactamente 4 prompts NUEVOS por cada corrida horaria del workflow.
+- No existe límite diario de 4 prompts.
+- Objetivo: acumulación continua de stock creativo aprobado.
+- La regla NO REPETIR IDEAS tiene prioridad: si un concepto coincide con historial, aprobados o descartados, reemplazarlo dentro de la misma corrida.
