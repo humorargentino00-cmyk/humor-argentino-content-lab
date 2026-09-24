@@ -35,3 +35,6 @@ Antes de proponer los 4 conceptos, revisar datos/historial-publicaciones.md, dat
 - No existe límite diario de 4 prompts.
 - Objetivo: acumulación continua de stock creativo aprobado.
 - La regla NO REPETIR IDEAS tiene prioridad: si un concepto coincide con historial, aprobados o descartados, reemplazarlo dentro de la misma corrida.
+
+## Excepción diaria validada — «Alarma negociada»
+Juan publicó la versión «jueves...» con el audio «me levanto temprano a las 7am...». En la primera corrida matinal, reservar la primera de las cuatro plazas para esta serie: mismo gag visual y composición, rótulo del día real en español dentro de la imagen y fondo coherente con pronóstico de Ciudad Evita. Es una serie deliberada, no una idea nueva. Entregar otras tres propuestas realmente nuevas para completar cuatro archivos. No repetir la serie en las demás corridas del día. Seguir `workflow.md` para clima, horario, verificación visual y guardado.
