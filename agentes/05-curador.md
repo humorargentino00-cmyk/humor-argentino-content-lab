@@ -27,3 +27,11 @@ Preferir categorías estables y amplias (por ejemplo comida, mascotas, vida coti
 
 ## Integridad
 Los contadores se calculan desde el registro de stock de la fábrica y se contrastan con Biblioteca. Nunca inventar cantidades.
+
+
+## Formato obligatorio de entrega de imágenes
+- Cada concepto aprobado debe generar UN archivo de imagen independiente.
+- Una corrida de 4 conceptos debe producir exactamente 4 archivos visuales separados y abribles individualmente.
+- PROHIBIDO entregar mosaicos, collages, cuadrículas 2x2 o archivos compuestos que agrupen varias piezas.
+- Cada archivo conserva su propio nombre, temática, metadatos y entrada de inventario.
+- El Curador clasifica y almacena los cuatro archivos individualmente.
