@@ -99,3 +99,51 @@ Variable: conflicto visual con geometría simplificada.
 
 ### Validador
 **APROBADO PARA GENERAR.** Hay 4 propuestas exactas, derivadas del último corte disponible, revisadas por Corrector. Los audios quedan explícitamente sin verificar en vez de inventarse.
+
+## Corrida productiva — 2026-09-24 09:27 ART
+
+### Analista
+Metricool sigue devolviendo 15 publicaciones y el último post sincronizado continúa siendo del 22/09. No aparecieron métricas nuevas. Se usa el último corte válido sin inventar datos. Señales vigentes: real+audio tiene el mayor alcance observado; Boby conserva la mayor afinidad; una pieza alcanzó 4 compartidos aun con pocos likes; reconocimiento cotidiano necesita un remate fuerte.
+
+### Creativo — EXACTAMENTE 4 conceptos nuevos
+
+#### 1 — El cargador que llega justo — IMAGEN
+Concepto: celular sobre mesa de luz marcando batería crítica y un cable de carga que queda visiblemente a pocos centímetros del teléfono, sin alcanzarlo.
+Hook: **CUANDO EL CARGADOR MIDE 1 METRO**
+Remate: **Y EL ENCHUFE ESTÁ A 1,02**
+Prompt imagen: "Photorealistic vertical 9:16 candid smartphone photo in a modest Argentine bedroom. A smartphone lies on a bedside table with a clearly visible generic low-battery icon, while an ordinary charging cable stretched from a wall outlet stops just a few centimeters short of reaching the phone. No hands, no people, simple believable geometry, natural evening room light, slightly lived-in environment, instantly understandable everyday frustration, realistic cable physics, no brand logos, no embedded caption text, not advertising photography."
+Audio: **AUDIO NO VERIFICADO**.
+Variable: frustración doméstica universal con lectura visual inmediata.
+
+#### 2 — La bolsa de bolsas — IMAGEN
+Concepto: bajo mesada abierto con una bolsa reutilizable enorme desbordada exclusivamente de otras bolsas de supermercado prolijamente/improlijamente acumuladas.
+Hook: **NO COMPRO MÁS BOLSAS**
+Remate: **TENGO PARA ABRIR UNA SUCURSAL**
+Prompt imagen: "Photorealistic vertical 9:16 candid smartphone photo in an ordinary Argentine kitchen. An open under-sink cabinet reveals one oversized reusable shopping bag absurdly stuffed with dozens of clean folded and crumpled supermarket bags, all clearly bags rather than trash. No people, no hands, natural imperfect home lighting, believable clutter, strong visual abundance, realistic materials, subtle everyday Argentine household humor, no logos, no readable labels, no embedded text, not advertising photography."
+Audio: **AUDIO NO VERIFICADO**.
+Variable: costumbre doméstica reconocible sin repetir el chiste de compra cara/bolsas vacías.
+
+#### 3 — El vaso que nadie termina — IMAGEN
+Concepto: mesa familiar después de comer con varios vasos casi vacíos; uno tiene apenas un dedo de bebida y queda abandonado como si nadie quisiera admitir de quién es.
+Hook: **¿DE QUIÉN ES ESTE VASO?**
+Remate: **AUTOMÁTICAMENTE: DE NADIE**
+Prompt imagen: "Photorealistic vertical 9:16 candid smartphone photo of an ordinary Argentine family dining table immediately after a meal. Several used drinking glasses remain on the table; the visual focus is one glass with only a tiny amount of soda left at the bottom, isolated among plates and napkins. No people, no hands, natural home light, believable post-meal mess, simple composition with the nearly empty glass immediately noticeable, realistic everyday Argentine family atmosphere, no logos, no readable packaging, no embedded caption text, not advertising photography."
+Audio: **AUDIO NO VERIFICADO**.
+Variable: conducta familiar reconocible; comida es contexto, no conflicto por último pedazo.
+
+#### 4 — La alarma negociada — IMAGEN
+Concepto: mesa de luz de mañana con celular mostrando una fila de alarmas sucesivas separadas por pocos minutos y una mano saliendo de la frazada hacia el teléfono.
+Hook: **YO PONGO UNA ALARMA A LAS 7**
+Remate: **TAMBIÉN YO: 7:05 / 7:10 / 7:15 / 7:20**
+Prompt imagen: "Photorealistic vertical 9:16 candid smartphone-style scene in a modest Argentine bedroom at early morning. On a bedside table, a generic smartphone alarm screen visibly shows several simple alarm times in sequence: 07:00, 07:05, 07:10, 07:15 and 07:20. A single relaxed adult hand reaches out from under a rumpled blanket toward the phone. Soft natural dawn light, realistic hand anatomy, believable bedroom clutter, immediately understandable oversleeping humor, no brand logos, no extra text beyond the alarm times, not advertising photography."
+Audio: **AUDIO NO VERIFICADO**.
+Variable: rutina cotidiana de mañana, nueva dentro del historial.
+
+### Corrector
+1. APROBADO CON CORRECCIÓN aplicada: sin mano ni persona; el cable corto debe ser el único gag para minimizar geometría.
+2. APROBADO: escena estática, sin anatomía ni física compleja. Se diferencia de “bolsa que no pesa”: el chiste es acumular bolsas en casa, no el costo del supermercado.
+3. APROBADO: foco visual en un único vaso casi vacío; no depende de texto generado dentro de la imagen.
+4. APROBADO CON RIESGO BAJO/MODERADO: una sola mano; horarios simples son el único texto funcional necesario. Si el generador deforma horarios, la imagen sigue siendo usable añadiendo hook/remate después.
+
+### Validador
+**APROBADO PARA GENERAR 4 IMÁGENES INDIVIDUALES.** Son cuatro mecánicas distintas entre sí y respecto de historial/aprobados/descartados; no reutilizan silla/placard, último alimento disputado, Boby/heladera, tupper/tapas, supermercado caro ni medias perdidas. Las cuatro son composiciones estáticas de baja complejidad. Prohibido mosaico/collage. Cada concepto debe terminar en un archivo 9:16 independiente.
