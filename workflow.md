@@ -40,3 +40,11 @@ No se saltean etapas.
 
 ## Curaduría posterior
 Después de guardar las 4 imágenes finales de cada corrida en `/Humor Argentino`, ejecutar `agentes/05-curador.md`. El Curador clasifica y mueve las imágenes a subcarpetas temáticas, actualiza inventario total y por temática y deja el stock auditable. La generación termina antes de la curaduría; la curaduría no modifica el concepto ni la imagen.
+
+
+## Formato obligatorio de entrega de imágenes
+- Cada concepto aprobado debe generar UN archivo de imagen independiente.
+- Una corrida de 4 conceptos debe producir exactamente 4 archivos visuales separados y abribles individualmente.
+- PROHIBIDO entregar mosaicos, collages, cuadrículas 2x2 o archivos compuestos que agrupen varias piezas.
+- Cada archivo conserva su propio nombre, temática, metadatos y entrada de inventario.
+- El Curador clasifica y almacena los cuatro archivos individualmente.
