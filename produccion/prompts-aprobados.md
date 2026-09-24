@@ -27,3 +27,9 @@ No publicar las cuatro juntas. Revisar cada pieza terminada y definir espaciado 
 Estado: **APROBADO PARA GENERAR / STOCK**.
 
 Regla: este lote puede acumularse como stock creativo en Main. Generar no implica publicar. Antes de publicar: verificar audio específico, revisar pieza terminada y decidir timing según métricas disponibles.
+
+
+### Corrección de lote 2026-09-24
+- La silla ya es placard: RETIRADO. Concepto ya utilizado y publicado.
+- Último pedazo de pizza: RETIRADO. Repite una mecánica ya probada/descartada por problemas de geometría y comprensión por Gemini.
+Estas dos plazas deben reemplazarse por conceptos realmente nuevos en la próxima corrida.
