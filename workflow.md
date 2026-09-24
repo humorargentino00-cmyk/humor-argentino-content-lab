@@ -8,3 +8,11 @@
 6. **Producción/publicación** genera únicamente aprobados, máximo 2 intentos por concepto, revisa antes de publicar, registra el resultado y vuelve al Analista.
 
 No se saltean etapas.
+
+
+## Producción continua de stock
+- Main debe ejecutarse como workflow productivo recurrente una vez por hora.
+- Cada corrida: Analista → Creativo (4 ideas nuevas) → Corrector → corrección → Validador → guardar stock aprobado.
+- No requiere una orden manual del usuario para cada corrida.
+- Generar stock NO implica publicar contenido ni gastar créditos de generación de video automáticamente.
+- Conservar historial suficiente para impedir repeticiones entre corridas.
