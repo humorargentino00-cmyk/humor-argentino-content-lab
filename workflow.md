@@ -36,3 +36,7 @@ No se saltean etapas.
 7. Mantener prompts y metadatos en GitHub únicamente como trazabilidad.
 8. Si alguna imagen falla la generación o el guardado, registrar cuál quedó pendiente; no sustituirla por una idea repetida ni afirmar que fue almacenada.
 9. No publicar automáticamente.
+
+
+## Curaduría posterior
+Después de guardar las 4 imágenes finales de cada corrida en `/Humor Argentino`, ejecutar `agentes/05-curador.md`. El Curador clasifica y mueve las imágenes a subcarpetas temáticas, actualiza inventario total y por temática y deja el stock auditable. La generación termina antes de la curaduría; la curaduría no modifica el concepto ni la imagen.
