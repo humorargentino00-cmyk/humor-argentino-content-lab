@@ -24,3 +24,15 @@ No se saltean etapas.
 - Cada imagen final debe guardarse en la Biblioteca del usuario cuando la ejecución disponga de generación de imagen y acceso de escritura a Biblioteca.
 - Conservar prompt/metadatos en el repositorio para trazabilidad, pero el inventario consumible por el usuario debe ser el archivo visual final.
 - No publicar automáticamente.
+
+
+## Salida obligatoria por corrida horaria — MAIN
+1. El workflow produce exactamente 4 propuestas nuevas.
+2. Las 4 deben pasar Analista → Creativo → Corrector → corrección → Validador.
+3. Solo cuando las 4 queden verificadas como originales, viables y APROBADAS PARA GENERAR, generar las 4 imágenes finales.
+4. No considerar completada la corrida con prompts: el entregable son 4 archivos de imagen.
+5. Guardar automáticamente las 4 imágenes finales en la carpeta de Biblioteca `/Humor Argentino`.
+6. Usar nombres únicos y descriptivos para evitar sobrescrituras, incluyendo fecha/hora o identificador de corrida.
+7. Mantener prompts y metadatos en GitHub únicamente como trazabilidad.
+8. Si alguna imagen falla la generación o el guardado, registrar cuál quedó pendiente; no sustituirla por una idea repetida ni afirmar que fue almacenada.
+9. No publicar automáticamente.
