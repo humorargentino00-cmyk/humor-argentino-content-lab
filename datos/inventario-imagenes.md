@@ -1,15 +1,15 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-25, corrida 02:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
+Corte verificado: 2026-09-25, corrida 03:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **67**
-- Comida: **17**
-- Vida cotidiana: **40**
+- Total generado y almacenado por la fábrica: **71**
+- Comida: **19**
+- Vida cotidiana: **41**
 - Economía y compras: **4**
 - Mascotas: **2**
 - Deportes: **3**
-- Trabajo y oficina: **1**
+- Trabajo y oficina: **2**
 - Pendientes históricos: **2** (cubitos de café y planta artificial)
 
 ## Altas
@@ -101,6 +101,11 @@ Corte verificado: 2026-09-25, corrida 02:30 ART; rutas migradas a `/Humor Argent
 | 2026-09-25 02:30 | Esponja de spa | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-0230-main-esponja-spa.png` | Aprobado y guardado |
 | 2026-09-25 02:30 | Cactus con burbujas | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-0230-main-cactus-burbujas.png` | Aprobado y guardado |
 
+| 2026-09-25 03:30 | Media en solárium | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-0330-main-media-solarium.png` | Aprobado y guardado |
+| 2026-09-25 03:30 | Banana con candado | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0330-main-banana-candado.png` | Aprobado y guardado |
+| 2026-09-25 03:30 | Silla con cinturón | Trabajo y oficina | `/Humor Argentino/Main/Trabajo y oficina/2026-09-25-0330-main-silla-cinturon.png` | Aprobado y guardado |
+| 2026-09-25 03:30 | Mate con casco | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0330-main-mate-casco.png` | Aprobado y guardado |
+
 Nota: la corrida 01:30 procesó cinco conceptos, excediendo el cupo de cuatro; cuatro PNG están verificados y guardados, pero la ejecución no fue plenamente conforme.
 
-Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md`, `produccion/corridas/2026-09-25-0030-art.md`, `produccion/corridas/2026-09-25-0130-art.md`, `produccion/corridas/2026-09-25-0230-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
+Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md`, `produccion/corridas/2026-09-25-0030-art.md`, `produccion/corridas/2026-09-25-0130-art.md`, `produccion/corridas/2026-09-25-0230-art.md`, `produccion/corridas/2026-09-25-0330-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
