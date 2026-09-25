@@ -2,10 +2,10 @@
 
 Corte inicial: 2026-09-25. Este registro es independiente de `datos/inventario-imagenes.md`, que contiene el stock de imágenes individuales heredado de `main`.
 
-- Secuencias completas verificadas: **11**
+- Secuencias completas verificadas: **12**
 - Secuencias pendientes con imágenes guardadas: **1**
-- Imágenes nuevas aprobadas y guardadas en este branch: **47**
-- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **5 secuencias / 20 imágenes**; Comida **5 secuencias completas / 20 imágenes**, más **1 secuencia pendiente / 3 imágenes**.
+- Imágenes nuevas aprobadas y guardadas en este branch: **51**
+- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **5 secuencias / 20 imágenes**; Comida **5 secuencias completas / 20 imágenes**, más **1 secuencia pendiente / 3 imágenes**; Mascotas **1 secuencia / 4 imágenes**.
 
 Alta `secuencias-post-2026-09-25-0130-paquete-te`: cuatro cuadros 01–04 aprobados y confirmados en `/Humor Argentino/Branch 2 - Secuencias/Economia y compras/2026-09-25-0130-paquete-te/`. Prompts, revisión y manifiesto: `produccion/secuencias/2026-09-25-0130-paquete-te.md`. Sin fallos ni correcciones.
 
@@ -34,3 +34,6 @@ La aptitud editorial es distinta de la completitud técnica. Juan confirmó UTIL
 Alta `secuencias-post-2026-09-25-1330-medialuna-robada`: cuadros 01–04 aprobados al primer intento y guardados en `/Humor Argentino/Branch 2 - Secuencias/Comida/2026-09-25-1330-medialuna-robada/`. Misma mesa y perro marrón; tres medialunas al principio, dos luego, una en la boca del perro al fondo con escala coherente. **Secuencia técnicamente completa, aptitud editorial provisional**. Manifiesto con prompts y revisión: `produccion/secuencias/2026-09-25-1330-medialuna-robada.md`.
 
 Una secuencia se declara completa sólo con cuatro PNG independientes, inspeccionados, en orden 01–04 y confirmados en `/Humor Argentino/Branch 2 - Secuencias/<tema>/<id>/`. Contar imágenes parciales aparte sin declarar el post listo. El guion `produccion/secuencias/ejemplo-freezer-helado.md` no es stock hasta que existan esos archivos.
+
+
+Alta `secuencias-post-2026-09-25-1430-gato-ropa`: cuatro cuadros aprobados y confirmados en `/Humor Argentino/Branch 2 - Secuencias/Mascotas/2026-09-25-1430-gato-ropa/`. El cuadro 03 necesitó una corrección por una prenda fusionada; la versión final muestra seis capas. Estado técnico: **COMPLETA 4/4**. Aptitud editorial: **UTILIZABLE provisional**, pendiente de revisión final de Juan. Manifiesto: `produccion/secuencias/2026-09-25-1430-gato-ropa.md`.
