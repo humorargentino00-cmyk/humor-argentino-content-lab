@@ -1,12 +1,12 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-25, corrida 09:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 09:30: 93 PNG físicos bajo Main frente a 90 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
+Corte verificado: 2026-09-25, corrida 10:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 10:30: 97 PNG físicos bajo Main frente a 94 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **90**
+- Total generado y almacenado por la fábrica: **94**
 - Comida: **27**
-- Vida cotidiana: **47**
-- Economía y compras: **5**
+- Vida cotidiana: **50**
+- Economía y compras: **6**
 - Mascotas: **3**
 - Deportes: **3**
 - Trabajo y oficina: **5**
@@ -134,6 +134,11 @@ La cifra de 87 refleja archivos guardados, no 87 chistes listos para publicar. R
 | 2026-09-25 09:30 | Fideos de alta cocina | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0930-main-fideos-restaurante.png` | Generado, inspeccionado y guardado; UTILIZABLE |
 | 2026-09-25 09:30 | Videollamada en pijama | Trabajo y oficina | — | Pendiente tras una corrección: pantalla/cámara en tapa exterior de notebook; no guardado ni contabilizado |
 
+| 2026-09-25 10:30 | Bicicleta fija con pizza | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1030-main-bici-pizza.png` | Generado, inspeccionado y guardado; UTILIZABLE |
+| 2026-09-25 10:30 | Carrito con un huevo | Economía y compras | `/Humor Argentino/Main/Economia y compras/2026-09-25-1030-main-carrito-huevo.png` | Generado, inspeccionado y guardado; UTILIZABLE |
+| 2026-09-25 10:30 | Asado bajo paraguas | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1030-main-asado-lluvia.png` | Generado, inspeccionado y guardado; UTILIZABLE |
+| 2026-09-25 10:30 | Paraguas bajo la gotera | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1030-main-paraguas-gotera.png` | Generado, inspeccionado y guardado; UTILIZABLE |
+
 Nota: la corrida 01:30 procesó cinco conceptos, excediendo el cupo de cuatro; cuatro PNG están verificados y guardados, pero la ejecución no fue plenamente conforme.
 
-Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md`, `produccion/corridas/2026-09-25-0030-art.md`, `produccion/corridas/2026-09-25-0130-art.md`, `produccion/corridas/2026-09-25-0230-art.md`, `produccion/corridas/2026-09-25-0330-art.md`, `produccion/corridas/2026-09-25-0430-art.md`, `produccion/corridas/2026-09-25-0530-art.md`, `produccion/corridas/2026-09-25-0630-art.md`, `produccion/corridas/2026-09-25-0830-art.md` `produccion/corridas/2026-09-25-0930-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
+Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md`, `produccion/corridas/2026-09-25-0030-art.md`, `produccion/corridas/2026-09-25-0130-art.md`, `produccion/corridas/2026-09-25-0230-art.md`, `produccion/corridas/2026-09-25-0330-art.md`, `produccion/corridas/2026-09-25-0430-art.md`, `produccion/corridas/2026-09-25-0530-art.md`, `produccion/corridas/2026-09-25-0630-art.md`, `produccion/corridas/2026-09-25-0830-art.md` `produccion/corridas/2026-09-25-0930-art.md`, `produccion/corridas/2026-09-25-1030-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
