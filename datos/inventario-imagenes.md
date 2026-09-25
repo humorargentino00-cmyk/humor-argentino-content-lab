@@ -13,7 +13,8 @@ Corte verificado: 2026-09-25, corrida 12:30 ART; rutas migradas a `/Humor Argent
 - Pendientes históricos: **3** (cubitos de café, planta artificial y videollamada en pijama)
 
 ## Aptitud editorial
-La cifra de 87 refleja archivos guardados, no 87 chistes listos para publicar. Revisión de Juan sobre cuatro piezas de 08:30: **0 utilizables confirmadas, 1 requiere corrección, 3 descartar**. El resto del stock no fue reevaluado con este criterio; no inferir aptitud editorial de su estado técnico.
+
+Corrección de Juan (25/09/2026): **guardar no equivale a aprobar para publicar**. De las 16 piezas identificadas en las corridas 09:30–12:30 y el gato sobre teclado del 24/09, Juan rescata sin reparos cuatro (gato sobre teclado, tartita —no empanada—, fuentón de cereales y valija que no cierra); dos conceptos requieren corrección visible (brazo en parrilla bajo lluvia, enchufe en mano en heladera congelada); las otras diez piezas de 09:30–12:30 quedan DESCARTAR editorialmente por falta de comprensión o gracia inmediata. La discrepancia tartita/empanada se deja explícita. Las cuatro de 08:30 siguen: 0 utilizables, 1 requiere corrección, 3 descartar. Esto no modifica los **102 PNG verificados y guardados** ni presume evaluación de todo el stock histórico. Registro: `produccion/reportes/2026-09-25-feedback-juan.md`.
 
 ## Altas
 
@@ -81,7 +82,7 @@ La cifra de 87 refleja archivos guardados, no 87 chistes listos para publicar. R
 | 2026-09-24 22:30 | Ensalada con gorra de baño | Comida | `/Humor Argentino/Main/Comida/2026-09-24-2230-ensalada-gorra-bano.png` | Aprobado y guardado |
 | 2026-09-24 22:30 | Pan con broche de oficina | Comida | `/Humor Argentino/Main/Comida/2026-09-24-2230-pan-broche-oficina.png` | Aprobado y guardado |
 | 2026-09-24 22:30 | Frasco alcancía | Economía y compras | `/Humor Argentino/Main/Economia y compras/2026-09-24-2230-frasco-alcancia.png` | Aprobado y guardado tras una corrección |
-| 2026-09-24 22:30 | Gato sobre teclado | Mascotas | `/Humor Argentino/Main/Mascotas/2026-09-24-2230-gato-teclado.png` | Aprobado y guardado |
+| 2026-09-24 22:30 | Gato sobre teclado | Mascotas | `/Humor Argentino/Main/Mascotas/2026-09-24-2230-gato-teclado.png` | Guardado; UTILIZABLE según Juan: el chiste se entiende a primera vista |
 
 | 2026-09-24 23:30 | Mesa nivelada con cartones | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-24-2330-mesa-cartones.png` | Aprobado y guardado |
 | 2026-09-24 23:30 | Celular en arroz | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-24-2330-celular-arroz.png` | Aprobado y guardado |
@@ -129,25 +130,25 @@ La cifra de 87 refleja archivos guardados, no 87 chistes listos para publicar. R
 | 2026-09-25 08:30 | Pelapapas en estuche | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0830-main-pelapapas-estuche.png` | Guardado; DESCARTAR para publicación: el chiste no se entiende con la imagen sola |
 | 2026-09-25 08:30 | Huevo premium | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0830-main-huevo-premium.png` | Guardado; DESCARTAR para publicación: el chiste no se entiende con la imagen sola |
 
-| 2026-09-25 09:30 | Torta de pan de cumpleaños | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0930-main-torta-pan.png` | Generado, inspeccionado y guardado; UTILIZABLE |
-| 2026-09-25 09:30 | Sofá del perro | Mascotas | `/Humor Argentino/Main/Mascotas/2026-09-25-0930-main-perro-sofa.png` | Generado, inspeccionado y guardado; UTILIZABLE |
-| 2026-09-25 09:30 | Fideos de alta cocina | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0930-main-fideos-restaurante.png` | Generado, inspeccionado y guardado; UTILIZABLE |
+| 2026-09-25 09:30 | Torta de pan de cumpleaños | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0930-main-torta-pan.png` | Guardado; DESCARTAR editorialmente según revisión de Juan: no causa gracia o no se entiende de inmediato |
+| 2026-09-25 09:30 | Sofá del perro | Mascotas | `/Humor Argentino/Main/Mascotas/2026-09-25-0930-main-perro-sofa.png` | Guardado; DESCARTAR editorialmente según revisión de Juan: no causa gracia o no se entiende de inmediato |
+| 2026-09-25 09:30 | Fideos de alta cocina | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0930-main-fideos-restaurante.png` | Guardado; DESCARTAR editorialmente según revisión de Juan: no causa gracia o no se entiende de inmediato |
 | 2026-09-25 09:30 | Videollamada en pijama | Trabajo y oficina | — | Pendiente tras una corrección: pantalla/cámara en tapa exterior de notebook; no guardado ni contabilizado |
 
-| 2026-09-25 10:30 | Bicicleta fija con pizza | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1030-main-bici-pizza.png` | Generado, inspeccionado y guardado; UTILIZABLE |
-| 2026-09-25 10:30 | Carrito con un huevo | Economía y compras | `/Humor Argentino/Main/Economia y compras/2026-09-25-1030-main-carrito-huevo.png` | Generado, inspeccionado y guardado; UTILIZABLE |
-| 2026-09-25 10:30 | Asado bajo paraguas | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1030-main-asado-lluvia.png` | Generado, inspeccionado y guardado; UTILIZABLE |
-| 2026-09-25 10:30 | Paraguas bajo la gotera | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1030-main-paraguas-gotera.png` | Generado, inspeccionado y guardado; UTILIZABLE |
+| 2026-09-25 10:30 | Bicicleta fija con pizza | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1030-main-bici-pizza.png` | Guardado; DESCARTAR editorialmente según revisión de Juan: no causa gracia o no se entiende de inmediato |
+| 2026-09-25 10:30 | Carrito con un huevo | Economía y compras | `/Humor Argentino/Main/Economia y compras/2026-09-25-1030-main-carrito-huevo.png` | Guardado; DESCARTAR editorialmente según revisión de Juan: no causa gracia o no se entiende de inmediato |
+| 2026-09-25 10:30 | Asado bajo paraguas | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1030-main-asado-lluvia.png` | Guardado; REQUIERE CORRECCIÓN: Juan rescata el concepto, pero el brazo tiene geometría incorrecta |
+| 2026-09-25 10:30 | Paraguas bajo la gotera | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1030-main-paraguas-gotera.png` | Guardado; DESCARTAR editorialmente según revisión de Juan: no causa gracia o no se entiende de inmediato |
 
-| 2026-09-25 11:30 | Perro en cama, dueño en cucha | Mascotas | `/Humor Argentino/Main/Mascotas/2026-09-25-1130-main-perro-cama.png` | Generado, inspeccionado y guardado; UTILIZABLE |
-| 2026-09-25 11:30 | Una empanada para seis | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1130-main-empanada-seis.png` | Aprobado tras una corrección; UTILIZABLE |
-| 2026-09-25 11:30 | Escritorio de tabla de planchar | Trabajo y oficina | `/Humor Argentino/Main/Trabajo y oficina/2026-09-25-1130-main-escritorio-planchador.png` | Generado, inspeccionado y guardado; UTILIZABLE |
-| 2026-09-25 11:30 | Protección para freír panceta | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1130-main-tocino-proteccion.png` | Generado, inspeccionado y guardado; UTILIZABLE |
+| 2026-09-25 11:30 | Perro en cama, dueño en cucha | Mascotas | `/Humor Argentino/Main/Mascotas/2026-09-25-1130-main-perro-cama.png` | Guardado; DESCARTAR editorialmente según revisión de Juan: no causa gracia o no se entiende de inmediato |
+| 2026-09-25 11:30 | Una empanada para seis | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1130-main-empanada-seis.png` | Guardado; UTILIZABLE según Juan como tartita cortada en muchos pedazos, NO como empanada; discrepancia visual con prompt |
+| 2026-09-25 11:30 | Escritorio de tabla de planchar | Trabajo y oficina | `/Humor Argentino/Main/Trabajo y oficina/2026-09-25-1130-main-escritorio-planchador.png` | Guardado; DESCARTAR editorialmente según revisión de Juan: no causa gracia o no se entiende de inmediato |
+| 2026-09-25 11:30 | Protección para freír panceta | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1130-main-tocino-proteccion.png` | Guardado; DESCARTAR editorialmente según revisión de Juan: no causa gracia o no se entiende de inmediato |
 
-| 2026-09-25 12:30 | Cereal en olla | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1230-main-cereal-olla.png` | Generado, inspeccionado y guardado; UTILIZABLE |
-| 2026-09-25 12:30 | Valija imposible | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1230-main-valija-sentado.png` | Generado, inspeccionado y guardado; UTILIZABLE |
-| 2026-09-25 12:30 | Un solo viaje | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1230-main-un-solo-viaje.png` | Generado, inspeccionado y guardado; UTILIZABLE |
-| 2026-09-25 12:30 | Freezer contra secador | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1230-main-freezer-secador.png` | Generado, inspeccionado y guardado; UTILIZABLE |
+| 2026-09-25 12:30 | Cereal en olla | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1230-main-cereal-olla.png` | Guardado; UTILIZABLE según Juan como fuentón de cereales |
+| 2026-09-25 12:30 | Valija imposible | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1230-main-valija-sentado.png` | Guardado; UTILIZABLE según Juan: valija que no cierra |
+| 2026-09-25 12:30 | Un solo viaje | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1230-main-un-solo-viaje.png` | Guardado; DESCARTAR editorialmente según revisión de Juan: no causa gracia o no se entiende de inmediato |
+| 2026-09-25 12:30 | Freezer contra secador | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1230-main-freezer-secador.png` | Guardado; REQUIERE CORRECCIÓN: Juan rescata la heladera congelada, pero hay un enchufe en la mano; no utilizable tal cual |
 
 Nota: la corrida 01:30 procesó cinco conceptos, excediendo el cupo de cuatro; cuatro PNG están verificados y guardados, pero la ejecución no fue plenamente conforme.
 
