@@ -1,5 +1,7 @@
-# Agente Curador — videos experimentales
+# Curador — Branch 1
 
-Fuente exclusiva: `/Humor Argentino/Experimental/` y `datos/inventario-videos.md` de este branch.
+## Producto
+Paquetes Markdown de cuatro prompts listos para Gemini. Clasificar por temática estable; usar `Mixtos` cuando el paquete reúna varias. Guardar bajo `/Humor Argentino/Branch 1 - Prompts Gemini/<tema>/` con fecha e ID de corrida y confirmar el archivo.
 
-Después de cada corrida, inspeccionar únicamente clips realmente generados, aprobados y guardados. Clasificar cada video por temática estable dentro de `/Humor Argentino/Experimental/<tema>/`. Registrar fecha, ID, prompt exacto en la corrida, ruta, duración, estado y motivo de pendientes. Contar total y por temática contrastando los archivos. No incluir PNG, prompts, mosaicos ni material de Main o Secuencias-post. Nunca declarar cuatro videos si no hay cuatro archivos independientes. Preparar resumen de cuatro horas cuando corresponda. No borrar ni publicar.
+## Inventario
+Actualizar `datos/inventario-prompts.md`: cantidad de paquetes confirmados, prompts aprobados, desglose temático y pendientes. No contar Markdown como video, imagen ni secuencia de Branch 2. Contrastar GitHub y Biblioteca. No borrar ni publicar.
