@@ -1,12 +1,12 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-25, corrida 12:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 12:30: 105 PNG físicos bajo Main frente a 102 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
+Corte verificado: 2026-09-25, corrida 13:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 12:30: 107 PNG físicos bajo Main frente a 104 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **102**
-- Comida: **31**
+- Total generado y almacenado por la fábrica: **104**
+- Comida: **32**
 - Vida cotidiana: **52**
-- Economía y compras: **6**
+- Economía y compras: **7**
 - Mascotas: **4**
 - Deportes: **3**
 - Trabajo y oficina: **6**
@@ -149,6 +149,11 @@ Corrección de Juan (25/09/2026): **guardar no equivale a aprobar para publicar*
 | 2026-09-25 12:30 | Valija imposible | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1230-main-valija-sentado.png` | Guardado; UTILIZABLE según Juan: valija que no cierra |
 | 2026-09-25 12:30 | Un solo viaje | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1230-main-un-solo-viaje.png` | Guardado; DESCARTAR editorialmente según revisión de Juan: no causa gracia o no se entiende de inmediato |
 | 2026-09-25 12:30 | Freezer contra secador | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1230-main-freezer-secador.png` | Guardado; REQUIERE CORRECCIÓN: Juan rescata la heladera congelada, pero hay un enchufe en la mano; no utilizable tal cual |
+
+| 2026-09-25 13:30 | Cebolla con antiparras | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1330-main-cebolla-antiparras.png` | Guardado, aprobado visualmente; aptitud editorial provisional |
+| 2026-09-25 13:30 | Caja gigante con un cepillo de dientes | Economía y compras | `/Humor Argentino/Main/Economia y compras/2026-09-25-1330-main-caja-gigante.png` | Guardado, aprobado visualmente; aptitud editorial provisional |
+
+Nota: la corrida 13:30 fue parcial: 2/4 guardadas; anteojos en la cabeza rechazado por falta de remate gracioso, perro sobre ropa descartado antes de generar por repetición. No se cuentan ambos. Registro: `produccion/corridas/2026-09-25-1330-art.md`.
 
 Nota: la corrida 01:30 procesó cinco conceptos, excediendo el cupo de cuatro; cuatro PNG están verificados y guardados, pero la ejecución no fue plenamente conforme.
 
