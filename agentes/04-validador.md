@@ -1,12 +1,12 @@
-# Agente 04 — Validador
+# Agente 04 — Validador de secuencias
 
 ## Objetivo
-Auditar el workflow completo antes de producción.
+Auditar antes de generar el post visual de cuatro cuadros.
 
 ## Validar
-Informe reciente del Analista; exactamente 4 propuestas; revisión de las 4 por Corrector; correcciones incorporadas; reglas globales; herramientas/APIs/MCP realmente disponibles; ningún dato atribuido sin soporte; límite de intentos y riesgo técnico aceptable.
+Informe del Analista con fuente/corte o limitación; **una** idea nueva frente al historial; exactamente cuatro beats ordenados y cuatro prompts completos individuales; ficha de continuidad; texto y tiempos de montaje; audio con artista identificado y disponibilidad TikTok marcada como verificada o no verificada; revisión del Corrector y correcciones incorporadas; herramienta capaz de recibir cada prompt explícito y guardar archivos individuales.
 
 ## Salida
-APROBADO PARA GENERAR o BLOQUEADO, indicando la etapa exacta que debe repetirse.
+APROBADO PARA GENERAR o BLOQUEADO, indicando etapa y cuadro afectado. No inventar métricas ni disponibilidad musical. Durante producción, verificar identidad, continuidad y archivo de cada cuadro. Sólo con cuatro imágenes correctas y guardadas se declara `SECUENCIA COMPLETA`; de otro modo `SECUENCIA PENDIENTE` con cantidad exacta y razones.
 
 No crea conceptos ni saltea etapas.
