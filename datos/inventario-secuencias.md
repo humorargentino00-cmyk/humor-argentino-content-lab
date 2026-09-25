@@ -19,6 +19,8 @@ Alta `secuencias-post-2026-09-25-0530-vela-ventilador`: cuadros 01–04 aprobado
 
 Alta `secuencias-post-2026-09-25-0630-tostada-espera`: cuadros 01–04 aprobados al primer intento y guardados en `/Humor Argentino/Branch 2 - Secuencias/Comida/2026-09-25-0630-tostada-espera/`. Manifiesto: `produccion/secuencias/2026-09-25-0630-tostada-espera.md`.
 
-Alta `secuencias-post-2026-09-25-0830-galletita-cafe`: cuadros 01–04 aprobados al primer intento y guardados en `/Humor Argentino/Branch 2 - Secuencias/Comida/2026-09-25-0830-galletita-cafe/`. Manifiesto: `produccion/secuencias/2026-09-25-0830-galletita-cafe.md`.
+Alta `secuencias-post-2026-09-25-0830-galletita-cafe`: cuadros 01–04 aprobados al primer intento y guardados en `/Humor Argentino/Branch 2 - Secuencias/Comida/2026-09-25-0830-galletita-cafe/`. **UTILIZABLE según Juan**: el remate de la galletita en la taza se entiende visualmente. Manifiesto: `produccion/secuencias/2026-09-25-0830-galletita-cafe.md`.
+
+La aptitud editorial es distinta de la completitud técnica: 1 secuencia evaluada UTILIZABLE por Juan; las demás no fueron reevaluadas con este criterio. Los 28 cuadros guardados permanecen contados.
 
 Una secuencia se declara completa sólo con cuatro PNG independientes, inspeccionados, en orden 01–04 y confirmados en `/Humor Argentino/Branch 2 - Secuencias/<tema>/<id>/`. Contar imágenes parciales aparte sin declarar el post listo. El guion `produccion/secuencias/ejemplo-freezer-helado.md` no es stock hasta que existan esos archivos.
