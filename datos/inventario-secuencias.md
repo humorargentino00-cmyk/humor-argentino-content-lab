@@ -2,10 +2,10 @@
 
 Corte inicial: 2026-09-25. Este registro es independiente de `datos/inventario-imagenes.md`, que contiene el stock de imágenes individuales heredado de `main`.
 
-- Secuencias completas verificadas: **14**
+- Secuencias completas verificadas: **15**
 - Secuencias pendientes con imágenes guardadas: **1**
-- Imágenes nuevas aprobadas y guardadas en este branch: **59**
-- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **5 secuencias / 20 imágenes**; Comida **5 secuencias completas / 20 imágenes**, más **1 secuencia pendiente / 3 imágenes**; Mascotas **3 secuencias / 12 imágenes**.
+- Imágenes nuevas aprobadas y guardadas en este branch: **63**
+- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **5 secuencias / 20 imágenes**; Comida **6 secuencias completas / 24 imágenes**, más **1 secuencia pendiente / 3 imágenes**; Mascotas **3 secuencias / 12 imágenes**.
 
 Alta `secuencias-post-2026-09-25-0130-paquete-te`: cuatro cuadros 01–04 aprobados y confirmados en `/Humor Argentino/Branch 2 - Secuencias/Economia y compras/2026-09-25-0130-paquete-te/`. Prompts, revisión y manifiesto: `produccion/secuencias/2026-09-25-0130-paquete-te.md`. Sin fallos ni correcciones.
 
@@ -43,3 +43,6 @@ Alta `secuencias-post-2026-09-25-1530-gato-maceta`: cuatro cuadros aprobados y g
 
 
 Alta `secuencias-post-2026-09-25-1830-perro-bano`: cuatro cuadros aprobados al primer intento y guardados en `/Humor Argentino/Branch 2 - Secuencias/Mascotas/2026-09-25-1830-perro-bano/`. Mismo perro y baño; progresión baño, salida, sacudida y remate con el baño salpicado. Estado técnico **COMPLETA 4/4**; aptitud **UTILIZABLE provisional**, pendiente de revisión final de Juan. Manifiesto: `produccion/secuencias/2026-09-25-1830-perro-bano.md`.
+
+
+Alta `secuencias-post-2026-09-25-1930-remera-salsa`: cuatro cuadros aprobados al primer intento y guardados en `/Humor Argentino/Branch 2 - Secuencias/Comida/2026-09-25-1930-remera-salsa/`. Continuidad de persona, remera, mesa y plato verificada; progresión remera limpia, tenedor, tallarín suspendido y mancha final. Estado técnico **COMPLETA 4/4**; aptitud **UTILIZABLE provisional** hasta revisión de Juan. Manifiesto: `produccion/secuencias/2026-09-25-1930-remera-salsa.md`.
