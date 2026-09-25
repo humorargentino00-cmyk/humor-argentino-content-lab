@@ -1,11 +1,11 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-25, corrida 19:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 19:30: 123 PNG físicos bajo Main frente a 120 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
+Corte verificado: 2026-09-25, corrida 20:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 20:30: 126 PNG físicos bajo Main frente a 123 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **120**
+- Total generado y almacenado por la fábrica: **123**
 - Comida: **38**
-- Vida cotidiana: **60**
+- Vida cotidiana: **63**
 - Economía y compras: **8**
 - Mascotas: **5**
 - Deportes: **3**
@@ -206,3 +206,15 @@ Trazabilidad: `produccion/corridas/2026-09-25-1830-art.md`. Alta técnica separa
 | 2026-09-25 19:30 | Zapatillas con gorras de baño | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1930-main-zapatillas-gorra-bano.png` | Guardado; UTILIZABLE provisional; dos cobertores ajustados sin fusiones |
 
 Trazabilidad: `produccion/corridas/2026-09-25-1930-art.md`. Alta técnica separada de aprobación final de Juan.
+
+
+## Alta 2026-09-25 20:30
+
+| Corrida | Concepto | Temática | Archivo en Biblioteca | Estado |
+| --- | --- | --- | --- | --- |
+| 2026-09-25 20:30 | Café con cinturón | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-2030-main-cafe-cinturon.png` | Guardado; UTILIZABLE: chiste autónomo y geometría coherente |
+| 2026-09-25 20:30 | Dentífrico con palo de amasar | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-2030-main-dentifrico-palo-amasar.png` | Guardado; UTILIZABLE: contacto, flujo y escala legibles |
+| 2026-09-25 20:30 | Notebook durmiendo | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-2030-main-notebook-durmiendo.png` | Guardado; UTILIZABLE: remate inmediato y apoyos coherentes |
+| 2026-09-25 20:30 | Aceituna bajo campana | Comida | — | PENDIENTE: herramienta bloqueada por credencial inválida; no generado ni contado |
+
+Trazabilidad: `produccion/corridas/2026-09-25-2030-art.md`. Corrida parcial 3/4. Balance: `produccion/reportes/2026-09-25-balance-jornada.md`.
