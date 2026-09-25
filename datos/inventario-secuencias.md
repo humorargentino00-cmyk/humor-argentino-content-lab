@@ -7,4 +7,4 @@ Corte inicial: 2026-09-25. Este registro es independiente de `datos/inventario-i
 - Imágenes nuevas aprobadas y guardadas en este branch: **0**
 - Temáticas: sin altas.
 
-Una secuencia se declara completa sólo con cuatro PNG independientes, inspeccionados, en orden 01–04 y confirmados en `/Humor Argentino/Secuencias/<tema>/<id>/`. Contar imágenes parciales aparte sin declarar el post listo. El guion `produccion/secuencias/ejemplo-freezer-helado.md` no es stock hasta que existan esos archivos.
+Una secuencia se declara completa sólo con cuatro PNG independientes, inspeccionados, en orden 01–04 y confirmados en `/Humor Argentino/Secuencias-post/<tema>/<id>/`. Contar imágenes parciales aparte sin declarar el post listo. El guion `produccion/secuencias/ejemplo-freezer-helado.md` no es stock hasta que existan esos archivos.
