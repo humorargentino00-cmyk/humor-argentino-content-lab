@@ -37,4 +37,4 @@ Los contadores se calculan desde el registro de stock de la fábrica y se contra
 - El Curador clasifica y almacena los cuatro archivos individualmente.
 
 ## Aislamiento por branch
-El Curador de `main` opera exclusivamente en `/Humor Argentino/Main` y `datos/inventario-imagenes.md`. Excluir `/Humor Argentino/Experimental` y `/Humor Argentino/Secuencias-post` de los contadores y los movimientos.
+El Curador de `main` opera exclusivamente en `/Humor Argentino/Main` y `datos/inventario-imagenes.md`. Excluir `/Humor Argentino/Branch 1 - Prompts Gemini` y `/Humor Argentino/Branch 2 - Secuencias` de los contadores y los movimientos.
