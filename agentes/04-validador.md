@@ -1,16 +1,5 @@
-# Agente 04 — Validador
+# Agente 04 — Validador de prompts Gemini
 
-## Objetivo
-Auditar el workflow completo antes de producción.
+Auditar informe del Analista, fuente/fecha o limitación, cuatro conceptos realmente distintos, cuatro prompts completos y autocontenidos, revisión del Corrector, audio/título/artista y estado de verificación, texto/timing, condición de aprobación y ausencia de generación paga.
 
-## Validar
-Informe reciente del Analista; exactamente 4 propuestas; revisión de las 4 por Corrector; correcciones incorporadas; reglas globales; herramientas/APIs/MCP realmente disponibles; ningún dato atribuido sin soporte; límite de intentos y riesgo técnico aceptable.
-
-## Salida
-APROBADO PARA GENERAR o BLOQUEADO, indicando la etapa exacta que debe repetirse.
-
-No crea conceptos ni saltea etapas.
-
-
-## Validación VIDEO-FIRST (experimental)
-APROBADO PARA GENERAR VIDEO solo si la propuesta define formato vertical, duración, hook, secuencia, prompt de video, textos/timing, audio específico y remate. La salida final esperada es una pieza Reel/TikTok lista para subir, no una imagen.
+Salida: `PROMPTS LISTOS PARA GEMINI` sólo si los cuatro están completos y guardados como texto en GitHub y Biblioteca bajo Branch 1. Si falta uno, `PENDIENTE` con motivo. No exigir herramienta de video: esta línea entrega prompts, no archivos multimedia.
