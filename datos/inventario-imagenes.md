@@ -1,11 +1,11 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-25, corrida 15:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 15:30: 115 PNG físicos bajo Main frente a 112 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
+Corte verificado: 2026-09-25, corrida 18:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 18:30: 119 PNG físicos bajo Main frente a 116 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **112**
-- Comida: **35**
-- Vida cotidiana: **55**
+- Total generado y almacenado por la fábrica: **116**
+- Comida: **38**
+- Vida cotidiana: **56**
 - Economía y compras: **8**
 - Mascotas: **5**
 - Deportes: **3**
@@ -182,3 +182,15 @@ Trazabilidad: `produccion/corridas/2026-09-25-1430-art.md`. Las cuatro aptitudes
 | 2026-09-25 15:30 | Compra mínima, ticket interminable | Economía y compras | `/Humor Argentino/Main/Economia y compras/2026-09-25-1530-main-recibo-largo.png` | Guardado; UTILIZABLE provisional |
 
 Trazabilidad: `produccion/corridas/2026-09-25-1530-art.md`. Alta técnica separada de aprobación final de Juan.
+
+
+## Alta 2026-09-25 18:30
+
+| Corrida | Concepto | Temática | Archivo en Biblioteca | Estado |
+| --- | --- | --- | --- | --- |
+| 2026-09-25 18:30 | Papa frita bajo campana | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1830-main-papa-frita-campana.png` | Guardado; UTILIZABLE provisional: remate autónomo, escala y apoyos coherentes |
+| 2026-09-25 18:30 | Pizza mínima y cortador industrial | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1830-main-pizza-cortador.png` | Guardado; UTILIZABLE provisional: contraste de escala inmediato y geometría correcta |
+| 2026-09-25 18:30 | Tostada con extintor | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1830-main-tostada-extintor.png` | Guardado; UTILIZABLE provisional: chiste legible sin texto, contactos coherentes |
+| 2026-09-25 18:30 | Lavavajillas para una cucharita | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1830-main-lavavajillas-cuchara.png` | Guardado; UTILIZABLE provisional: contraste visual inmediato, bandejas y puerta coherentes |
+
+Trazabilidad: `produccion/corridas/2026-09-25-1830-art.md`. Alta técnica separada de aprobación final de Juan.
