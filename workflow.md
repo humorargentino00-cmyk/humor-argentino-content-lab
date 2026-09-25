@@ -1,6 +1,6 @@
 # Branch 1 — Prompts listos para Gemini
 
-Este es el branch Git `experimental`. Corre a la misma frecuencia horaria que `main` y Branch 2, con inventario y destino exclusivos. El entregable de cada corrida son **cuatro prompts diferentes, completos y listos para pegar en Gemini**, cada uno para un post distinto. **No genera imágenes ni videos y no usa créditos de Gemini.**
+Este es el branch Git `experimental`. Una sola tarea horaria invoca Main, Branch 1 y Branch 2 con la misma orden, y cada línea conserva inventario y destino exclusivos. El entregable de cada corrida son **cuatro prompts diferentes, completos y listos para pegar en Gemini**, cada uno para un post distinto. **No genera imágenes ni videos y no usa créditos de Gemini.**
 
 ## Flujo
 1. **Analista:** consultar métricas recientes verificables de @humor.argentino97 cuando estén disponibles; si no, usar el último corte confirmado, con fecha y limitaciones. Revisar historial de publicaciones, descartados, Main y Branch 2 para evitar repeticiones.
