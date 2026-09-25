@@ -1,59 +1,33 @@
-# Workflow principal — MAIN
+# Workflow experimental — secuencias para un post
 
-1. **Agente Analista** obtiene todas las métricas disponibles de @humor.argentino97, registra limitaciones y entrega señales verificables.
-2. **Agente Creativo** recibe el análisis, usa Instagram como radar de formatos transferibles y produce exactamente 4 propuestas nuevas sin copiar piezas.
-3. **Agente Corrector** revisa las 4 antes de gastar créditos y marca APROBADO o CORREGIR.
-4. **Agente Creativo** incorpora las correcciones.
-5. **Agente Validador** verifica orden, reglas, evidencia y herramientas/APIs/MCP disponibles. Solo marca APROBADO PARA GENERAR cuando corresponde.
-6. **Producción/publicación** genera únicamente aprobados, máximo 2 intentos por concepto, revisa antes de publicar, registra el resultado y vuelve al Analista.
+Este branch parte de `main` y conserva el circuito Analista → Creativo → Corrector → Validador → generación → Curador. Su diferencia es la unidad creativa: **una historia original por corrida, contada en cuatro imágenes independientes y ordenadas**, destinadas a formar un solo post o video corto. No se mezcla con el stock de cuatro conceptos independientes de `main`.
 
-No se saltean etapas.
+## 1. Analista
+Consultar las métricas recientes de @humor.argentino97 cuando estén disponibles, con fuente y fecha. Si no, usar el último corte verificado y declarar su antigüedad. Detectar el tipo de situación, hook y remate que merece una secuencia; no atribuir desempeño a métricas inexistentes. Revisar historial de publicaciones, aprobados, descartados y secuencias para evitar repetir el chiste.
 
+## 2. Creativo
+Entregar **un concepto y cuatro cuadros**: situación inicial, pista o expectativa, acercamiento y remate. Cada cuadro debe aportar información nueva al mismo chiste. Definir un objeto protagonista, escenario, iluminación, utilería y rasgos visuales invariantes para mantener continuidad. Escribir cuatro prompts completos, uno por cuadro, con identificadores `<fecha>-<secuencia>-01` a `04`. Imágenes fotorrealistas verticales 9:16, individuales, sin mosaicos ni textos integrados salvo decisión justificada.
 
-## Producción continua de stock
-- Main debe ejecutarse como workflow productivo recurrente una vez por hora.
-- Cada corrida: Analista → Creativo (4 ideas nuevas) → Corrector → corrección → Validador → guardar stock aprobado.
-- No requiere una orden manual del usuario para cada corrida.
-- Generar stock NO implica publicar contenido ni gastar créditos de generación de video automáticamente.
-- Conservar historial suficiente para impedir repeticiones entre corridas.
+Entregar además: hook, texto breve exacto por cuadro o en montaje, duración sugerida (preferencia 7–10 s), transición y momento del remate, nombre y artista del audio recomendado, y qué función cumple. Verificar título y artista en una fuente confiable. La disponibilidad de ese audio dentro de TikTok debe verificarse aparte; si no se pudo, marcar **AUDIO EN TIKTOK NO VERIFICADO**. No generar ni incrustar música.
 
+## 3. Corrector
+Revisar los cuatro cuadros **como una sola historia**. Comprobar que el primer cuadro atraiga, que cada cambio sea legible, que el remate no aparezca antes de tiempo, que objetos, tamaño, posición, fondo, luz y encuadre mantengan continuidad y que el texto se lea en el tiempo sugerido. Revisar originalidad frente al historial, realismo y facilidad de montar desde el teléfono. Marcar APROBADO o CORREGIR y entregar el prompt completo corregido del cuadro afectado.
 
-## Generación y Biblioteca — MAIN
-- Después de APROBADO PARA GENERAR, las piezas de imagen deben pasar de prompt a imagen final generada.
-- El entregable de stock visual es la IMAGEN, no solamente el prompt.
-- Cada imagen final debe guardarse en la Biblioteca del usuario cuando la ejecución disponga de generación de imagen y acceso de escritura a Biblioteca.
-- Conservar prompt/metadatos en el repositorio para trazabilidad, pero el inventario consumible por el usuario debe ser el archivo visual final.
-- No publicar automáticamente.
+## 4. Validador
+Aprobar únicamente cuando existan cuatro prompts completos y ordenados, una sola historia original, texto y audio identificados, revisión del Corrector y una vía real de generación/guardado. Registrar incertidumbres y estado por cuadro. Resultado: APROBADO PARA GENERAR o BLOQUEADO con etapa y motivo.
 
+## 5. Producción
+Procesar **cuadro por cuadro y en orden**. Para cada cuadro, enviar a la herramienta el texto completo de SU prompt aprobado, pedir UNA imagen vertical 9:16 y conservar identificador, prompt exacto y archivo devuelto asociados. Cuando la herramienta admita referencia a la imagen anterior, usarla para continuidad visual, sin perder el prompt explícito. Si no admite referencia, repetir los invariantes visuales en cada prompt.
 
-## Salida obligatoria por corrida horaria — MAIN
-1. El workflow produce exactamente 4 propuestas nuevas.
-2. Las 4 deben pasar Analista → Creativo → Corrector → corrección → Validador.
-3. Solo cuando las 4 queden verificadas como originales, viables y APROBADAS PARA GENERAR, generar las 4 imágenes finales.
-4. No considerar completada la corrida con prompts: el entregable son 4 archivos de imagen.
-5. Guardar automáticamente las 4 imágenes finales en la carpeta de Biblioteca `/Humor Argentino`.
-6. Usar nombres únicos y descriptivos para evitar sobrescrituras, incluyendo fecha/hora o identificador de corrida.
-7. Mantener prompts y metadatos en GitHub únicamente como trazabilidad.
-8. Si alguna imagen falla la generación o el guardado, registrar cuál quedó pendiente; no sustituirla por una idea repetida ni afirmar que fue almacenada.
-9. No publicar automáticamente.
+Inspeccionar visualmente sujeto, acción, encuadre, continuidad con los cuadros anteriores, legibilidad del remate y ausencia de collage. Permitir una sola corrección específica y una nueva generación por cuadro. Si vuelve a fallar, marcarlo pendiente y continuar los restantes; **la secuencia no está completa ni lista para montar** hasta que haya cuatro cuadros correctos. No sustituir un cuadro por una imagen de otro concepto.
 
+Guardar cada imagen aprobada como archivo individual en `/Humor Argentino`, con fecha, ID de secuencia y número de cuadro. Confirmar cada archivo antes de contarla. Registrar en GitHub prompt exacto enviado, intentos, revisión, estado generado/aprobado/guardado o pendiente, ruta y motivo de fallo. Conservar un manifiesto del post con el orden 01–04, textos, tiempos y audio. Los prompts no sustituyen a los PNG. No publicar ni generar video automáticamente.
 
-## Curaduría posterior
-Después de guardar las 4 imágenes finales de cada corrida en `/Humor Argentino`, ejecutar `agentes/05-curador.md`. El Curador clasifica y mueve las imágenes a subcarpetas temáticas, actualiza inventario total y por temática y deja el stock auditable. La generación termina antes de la curaduría; la curaduría no modifica el concepto ni la imagen.
+## 6. Curador
+Aplicar `agentes/05-curador.md` después del guardado. Clasificar la secuencia por **una temática principal** y mantener sus cuatro imágenes juntas en `/Humor Argentino/Secuencias/<tema>/<id>/`, en orden numérico. Contrastar cada alta con Biblioteca y registrar dos contadores distintos: imágenes individuales verificadas y secuencias completas de cuatro cuadros. Una secuencia incompleta queda pendiente aunque tenga imágenes parciales guardadas; no se presenta como post listo.
 
+## Cadencia y aislamiento
+La regla heredada de cuatro imágenes por corrida significa aquí cuatro cuadros de un post. Las ejecuciones existentes apuntan a `main`: crear este branch no las redirige ni dispara una corrida experimental. La serie diaria «Alarma negociada» y su prioridad matinal siguen en `main`; este branch produce su secuencia propia cuando se lo ejecute explícitamente. No fusionar ni activar una segunda generación recurrente sin revisar resultados y costos.
 
-## Formato obligatorio de entrega de imágenes
-- Cada concepto aprobado debe generar UN archivo de imagen independiente.
-- Una corrida de 4 conceptos debe producir exactamente 4 archivos visuales separados y abribles individualmente.
-- PROHIBIDO entregar mosaicos, collages, cuadrículas 2x2 o archivos compuestos que agrupen varias piezas.
-- Cada archivo conserva su propio nombre, temática, metadatos y entrada de inventario.
-- El Curador clasifica y almacena los cuatro archivos individualmente.
-
-## Primera corrida de la mañana — serie «Alarma negociada»
-- En la corrida de las 06:30, antes de generar el resto del stock, producir primero una versión diaria de la serie «Alarma negociada», lista para publicar antes de las 08:00 ART. Esta serie recurrente es una excepción explícita a NO REPETIR: cambia el día real del calendario y el fondo según el pronóstico; no cuenta como un concepto original nuevo.
-- Usar fecha y día de semana de America/Buenos_Aires para el día de publicación. El día debe estar integrado y legible en la imagen, en español (viernes, sábado, domingo, etc.), sin depender de un texto que Juan agregue después. No usar un día fijo en el prompt ni reciclar el archivo del día anterior.
-- Consultar el pronóstico actualizado para Ciudad Evita, Buenos Aires, para ese día. Lluvia → lluvia visible por ventana y luz gris; nublado → cielo cubierto y luz difusa; despejado → luz de amanecer y cielo claro. Si no hay pronóstico confiable, mantener fondo neutro y marcar clima no verificado. No presentar un pronóstico inventado.
-- Conservar la composición reconocible: dormitorio realista, cama, mano que se estira hacia el celular, alarmas 07:00/07:05/07:10/07:15/07:20. Cambiar solamente el rótulo del día y el clima del exterior/iluminación. Un archivo individual vertical 9:16, sin collage; inspeccionar visualmente día, horarios, situación y clima. Si el texto del día sale mal, corregir una sola vez y, si persiste, marcar pendiente sin afirmar que está listo para publicar.
-- Usar el texto breve del estilo publicado («jueves...», adaptado al día correcto) y registrar el audio de referencia «me levanto temprano a las 7am...» como referencia aportada por Juan. Verificar nombre/disponibilidad exactos en TikTok antes de recomendarlo como audio seleccionable; no incrustar audio en la imagen.
-- Guardar la imagen aprobada con fecha local y `alarma-negociada-<dia>` en `/Humor Argentino`; confirmar el archivo y registrar prompt exacto, pronóstico/fuente, revisión y estado en GitHub. Avisar a Juan con el archivo individual antes de las 08:00 cuando esté listo. No publicar automáticamente.
-- La corrida matinal conserva cuatro archivos totales: la imagen diaria de la serie + tres conceptos nuevos que siguen Analista → Creativo → Corrector → Validador. Las otras corridas horarias conservan cuatro conceptos originales nuevos, sin repetir la serie durante el mismo día.
+## Ejemplo de referencia
+Ver `produccion/secuencias/ejemplo-freezer-helado.md`: freezer cerrado → abierto con pote al fondo → pote afuera → pote abierto con otra comida. El video propuesto usaría «La noche sin ti» de Los Huayra como contraste dramático; verificar el sonido seleccionable en TikTok antes del montaje.
