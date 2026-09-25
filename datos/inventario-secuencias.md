@@ -2,10 +2,10 @@
 
 Corte inicial: 2026-09-25. Este registro es independiente de `datos/inventario-imagenes.md`, que contiene el stock de imágenes individuales heredado de `main`.
 
-- Secuencias completas verificadas: **10**
+- Secuencias completas verificadas: **11**
 - Secuencias pendientes con imágenes guardadas: **1**
-- Imágenes nuevas aprobadas y guardadas en este branch: **43**
-- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **5 secuencias / 20 imágenes**; Comida **4 secuencias completas / 16 imágenes**, más **1 secuencia pendiente / 3 imágenes**.
+- Imágenes nuevas aprobadas y guardadas en este branch: **47**
+- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **5 secuencias / 20 imágenes**; Comida **5 secuencias completas / 20 imágenes**, más **1 secuencia pendiente / 3 imágenes**.
 
 Alta `secuencias-post-2026-09-25-0130-paquete-te`: cuatro cuadros 01–04 aprobados y confirmados en `/Humor Argentino/Branch 2 - Secuencias/Economia y compras/2026-09-25-0130-paquete-te/`. Prompts, revisión y manifiesto: `produccion/secuencias/2026-09-25-0130-paquete-te.md`. Sin fallos ni correcciones.
 
@@ -30,5 +30,7 @@ Alta `secuencias-post-2026-09-25-1130-media-perdida`: cuadros 01–04 aprobados 
 Alta `secuencias-post-2026-09-25-1230-cafe-recalentado`: cuadros 01–04 aprobados y guardados en `/Humor Argentino/Branch 2 - Secuencias/Comida/2026-09-25-1230-cafe-recalentado/`. **DESCARTAR editorialmente según Juan**: la puerta del microondas tiene geometría incorrecta; la aprobación anterior fue errónea. Cuatro PNG guardados no equivalen a post utilizable. Manifiesto: `produccion/secuencias/2026-09-25-1230-cafe-recalentado.md`.
 
 La aptitud editorial es distinta de la completitud técnica. Juan confirmó UTILIZABLE la galletita en la taza; rechazó el helado caído por escala/perspectiva, café recalentado por puerta de microondas y las demás secuencias mostradas por falta de comprensión o gracia inmediata. La media perdida queda DESCARTAR; no extrapolar el juicio a las secuencias históricas que no hayan sido identificadas. Los **43 cuadros guardados** y las **10 secuencias técnicamente completas** permanecen contados, pero no son automáticamente stock publicable. Registro: `produccion/secuencias/2026-09-25-feedback-juan.md`.
+
+Alta `secuencias-post-2026-09-25-1330-medialuna-robada`: cuadros 01–04 aprobados al primer intento y guardados en `/Humor Argentino/Branch 2 - Secuencias/Comida/2026-09-25-1330-medialuna-robada/`. Misma mesa y perro marrón; tres medialunas al principio, dos luego, una en la boca del perro al fondo con escala coherente. **Secuencia técnicamente completa, aptitud editorial provisional**. Manifiesto con prompts y revisión: `produccion/secuencias/2026-09-25-1330-medialuna-robada.md`.
 
 Una secuencia se declara completa sólo con cuatro PNG independientes, inspeccionados, en orden 01–04 y confirmados en `/Humor Argentino/Branch 2 - Secuencias/<tema>/<id>/`. Contar imágenes parciales aparte sin declarar el post listo. El guion `produccion/secuencias/ejemplo-freezer-helado.md` no es stock hasta que existan esos archivos.
