@@ -1,17 +1,16 @@
-# Workflow experimental — video
+# Branch 1 — Prompts listos para Gemini
 
-Esta línea corre por separado de `main` y `secuencias-post`, con la misma frecuencia horaria. Su destino exclusivo es `/Humor Argentino/Experimental/` y sus registros propios del branch. Una corrida apunta a **cuatro conceptos de video distintos**. No contar sus productos en los inventarios de otras líneas.
+Este es el branch Git `experimental`. Corre a la misma frecuencia horaria que `main` y Branch 2, con inventario y destino exclusivos. El entregable de cada corrida son **cuatro prompts diferentes, completos y listos para pegar en Gemini**, cada uno para un post distinto. **No genera imágenes ni videos y no usa créditos de Gemini.**
 
-## Etapas
-1. Analista: consultar métricas recientes verificables o declarar último corte y limitaciones; revisar historial de los tres branches para no repetir el chiste.
-2. Creativo: proponer exactamente cuatro clips originales 9:16, de preferencia 7–8 s, con hook, una acción, remate, prompt de video completo, texto exacto y tiempos, audio específico (título y artista verificables), caption y condiciones de aprobación.
-3. Corrector: revisar originalidad, acción, continuidad, física, claridad, duración, audio y montaje mínimo. Entregar APROBADO o CORREGIR y el prompt completo corregido.
-4. Validador: verificar los cuatro y la vía real para producir un archivo de video individual guardable. Marcar APROBADO PARA GENERAR VIDEO o BLOQUEADO con motivo concreto.
-5. Producción: procesar cada clip por separado y en orden. Enviar el prompt completo a una herramienta de video que lo acepte explícitamente. Inspeccionar el video devuelto por objeto, acción, encuadre, duración, ausencia de mosaico y remate. Una corrección específica y una regeneración máxima por clip; si vuelve a fallar, marcar pendiente y seguir. Nunca usar el archivo de otro concepto.
-6. Curador: guardar cada clip aprobado como archivo de video individual en `/Humor Argentino/Experimental/<tema>/`, con fecha, ID y extensión real. Confirmar existencia, registrar prompt exacto, estado, archivo, intentos y fallo en `datos/inventario-videos.md` y corrida de GitHub. Sólo cuatro archivos correctos y guardados completan la corrida. No publicar.
+## Flujo
+1. **Analista:** consultar métricas recientes verificables de @humor.argentino97 cuando estén disponibles; si no, usar el último corte confirmado, con fecha y limitaciones. Revisar historial de publicaciones, descartados, Main y Branch 2 para evitar repeticiones.
+2. **Creativo:** proponer cuatro conceptos originales y distintos entre sí, cada uno con hook de 0–1 s, una acción realizable, remate visual, duración sugerida 7–8 s y un prompt Gemini autocontenido. Incluir formato vertical 9:16, realismo cotidiano, escena, sujeto, acción, encuadre, iluminación, continuidad, restricciones y qué resultado aceptar. Incluir texto exacto y timing de montaje fuera de la generación, caption breve y audio con título y artista; marcar disponibilidad TikTok no verificada cuando corresponda.
+3. **Corrector:** revisar originalidad, física, anatomía, claridad, probabilidades de generación y costo humano de editar. Corregir cada prompt **antes** de entregarlo. Máximo una propuesta de reemplazo por concepto si falla el filtro; no gastar generación.
+4. **Validador:** confirmar cuatro prompts íntegros, separados, originales y copiables, con análisis y corrección registrados. Estado final `PROMPTS LISTOS PARA GEMINI` o `PENDIENTE` con causa exacta.
+5. **Curador:** crear un archivo Markdown de corrida con cuatro secciones independientes, prompts exactos, instrucciones de uso, audio y texto, en `/Humor Argentino/Branch 1 - Prompts Gemini/<tema o mixtos>/`; confirmar guardado y registrar el mismo contenido, ruta y estado en GitHub bajo `produccion/corridas/`. Actualizar `datos/inventario-prompts.md` con paquetes y prompts aprobados por temática. No contar un archivo .md como imagen ni como video.
 
-## Capacidad y costo
-Antes de generar, comprobar si hay una herramienta de video disponible, con entrada explícita y salida individual guardable. No contratar servicios, introducir APIs pagas ni gastar créditos externos adicionales. Si sólo se pueden crear imágenes, no llamarlas videos terminados; registrar BLOQUEADO y explicar qué falta. Una generación de video imposible no se sustituye por un prompt o un clip de otro concepto. El audio se recomienda para seleccionar en TikTok al publicar; no incrustar una canción sin archivo o licencia disponible.
+## Regla de costo y alcance
+No llamar a generadores de imagen o video, ni abrir Gemini, ni contratar o conectar herramientas pagas. Juan elegirá qué prompts copiar y ejecutará Gemini con sus créditos cuando quiera. No publicar ni enviar contenido a redes. Si falta una métrica o un audio verificable, declararlo; no bloquear un buen prompt por indisponibilidad de generación.
 
 ## Aislamiento
-La programación horaria es independiente y el ID de corrida debe ser único por fecha/hora local y branch. Evitar duplicados si una ejecución tarda más de una hora. Los informes del Curador de esta línea usan sólo su inventario y sus archivos. Mantener los tres contadores separados.
+La carpeta de este branch es `/Humor Argentino/Branch 1 - Prompts Gemini`. `main` utiliza `/Humor Argentino/Main` y Branch 2 utiliza `/Humor Argentino/Branch 2 - Secuencias`. Cada corrida usa ID único por fecha/hora ART; evitar duplicados y mantener contadores separados.
