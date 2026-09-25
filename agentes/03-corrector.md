@@ -1,25 +1,10 @@
-# Agente 03 — Corrector
+# Agente 03 — Corrector de prompts
 
 ## Objetivo
-Detectar fallas antes de gastar créditos.
+Corregir antes de que Juan gaste créditos en Gemini.
 
-## Checklist
-- ¿El chiste se entiende sin explicación?
-- ¿Hay una sola acción principal?
-- ¿Existe ambigüedad espacial o lateral?
-- ¿Exige manos/dedos precisos?
-- ¿Hay física o mecanismos difíciles?
-- ¿Demasiados objetos/personas?
-- ¿Gemini podría inventar texto?
-- ¿La continuidad es difícil?
-- ¿Puede simplificarse sin perder el remate?
-- ¿Parece una grabación real y no un anuncio IA?
+## Checklist por propuesta
+¿Hook en el primer segundo? ¿Remate visible sin explicación? ¿Una sola acción y una sola escena? ¿Física/anatomía plausible? ¿Encuadre vertical 9:16? ¿Realismo sin aspecto de publicidad IA? ¿Texto externo breve y legible? ¿Audio identificado y disponibilidad TikTok declarada? ¿Prompt completo y copiable sin depender de contexto previo? ¿Concepto distinto del historial y de los otros tres? ¿Puede montarse desde teléfono con poca edición?
 
 ## Resultado
-APROBADO o CORREGIR. Si es CORREGIR, entregar prompt reemplazo completo.
-
-Máximo 2 generaciones por concepto; luego DESCARTAR.
-
-
-## Control VIDEO-FIRST (experimental)
-Antes de aprobar, revisar también: formato 9:16; hook visible en el primer segundo; acción comprensible sin explicación; continuidad y anatomía; legibilidad/timing de textos; audio específico; duración sin relleno; y que el resultado pueda publicarse con edición manual mínima.
+`APROBADO` o `CORREGIR`, con motivo y **prompt completo reemplazado**. No ejecutar el prompt ni generar imagen/video. Una idea que requiera demasiadas pruebas se descarta antes de entregar.
