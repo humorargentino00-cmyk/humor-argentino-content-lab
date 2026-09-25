@@ -1,16 +1,16 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-25, corrida 08:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
+Corte verificado: 2026-09-25, corrida 09:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **87**
-- Comida: **25**
+- Total generado y almacenado por la fábrica: **90**
+- Comida: **27**
 - Vida cotidiana: **47**
 - Economía y compras: **5**
-- Mascotas: **2**
+- Mascotas: **3**
 - Deportes: **3**
 - Trabajo y oficina: **5**
-- Pendientes históricos: **2** (cubitos de café y planta artificial)
+- Pendientes históricos: **3** (cubitos de café y planta artificial)
 
 ## Aptitud editorial
 La cifra de 87 refleja archivos guardados, no 87 chistes listos para publicar. Revisión de Juan sobre cuatro piezas de 08:30: **0 utilizables confirmadas, 1 requiere corrección, 3 descartar**. El resto del stock no fue reevaluado con este criterio; no inferir aptitud editorial de su estado técnico.
@@ -129,6 +129,11 @@ La cifra de 87 refleja archivos guardados, no 87 chistes listos para publicar. R
 | 2026-09-25 08:30 | Pelapapas en estuche | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0830-main-pelapapas-estuche.png` | Guardado; DESCARTAR para publicación: el chiste no se entiende con la imagen sola |
 | 2026-09-25 08:30 | Huevo premium | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0830-main-huevo-premium.png` | Guardado; DESCARTAR para publicación: el chiste no se entiende con la imagen sola |
 
+| 2026-09-25 09:30 | Torta de pan de cumpleaños | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0930-main-torta-pan.png` | Generado, inspeccionado y guardado; UTILIZABLE |
+| 2026-09-25 09:30 | Sofá del perro | Mascotas | `/Humor Argentino/Main/Mascotas/2026-09-25-0930-main-perro-sofa.png` | Generado, inspeccionado y guardado; UTILIZABLE |
+| 2026-09-25 09:30 | Fideos de alta cocina | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0930-main-fideos-restaurante.png` | Generado, inspeccionado y guardado; UTILIZABLE |
+| 2026-09-25 09:30 | Videollamada en pijama | Trabajo y oficina | — | Pendiente tras una corrección: pantalla/cámara en tapa exterior de notebook; no guardado ni contabilizado |
+
 Nota: la corrida 01:30 procesó cinco conceptos, excediendo el cupo de cuatro; cuatro PNG están verificados y guardados, pero la ejecución no fue plenamente conforme.
 
-Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md`, `produccion/corridas/2026-09-25-0030-art.md`, `produccion/corridas/2026-09-25-0130-art.md`, `produccion/corridas/2026-09-25-0230-art.md`, `produccion/corridas/2026-09-25-0330-art.md`, `produccion/corridas/2026-09-25-0430-art.md`, `produccion/corridas/2026-09-25-0530-art.md`, `produccion/corridas/2026-09-25-0630-art.md`, `produccion/corridas/2026-09-25-0830-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
+Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md`, `produccion/corridas/2026-09-25-0030-art.md`, `produccion/corridas/2026-09-25-0130-art.md`, `produccion/corridas/2026-09-25-0230-art.md`, `produccion/corridas/2026-09-25-0330-art.md`, `produccion/corridas/2026-09-25-0430-art.md`, `produccion/corridas/2026-09-25-0530-art.md`, `produccion/corridas/2026-09-25-0630-art.md`, `produccion/corridas/2026-09-25-0830-art.md` `produccion/corridas/2026-09-25-0930-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
