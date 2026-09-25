@@ -1,6 +1,6 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-25, corrida 09:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
+Corte verificado: 2026-09-25, corrida 09:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 09:30: 93 PNG físicos bajo Main frente a 90 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
 - Total generado y almacenado por la fábrica: **90**
@@ -10,7 +10,7 @@ Corte verificado: 2026-09-25, corrida 09:30 ART; rutas migradas a `/Humor Argent
 - Mascotas: **3**
 - Deportes: **3**
 - Trabajo y oficina: **5**
-- Pendientes históricos: **3** (cubitos de café y planta artificial)
+- Pendientes históricos: **3** (cubitos de café, planta artificial y videollamada en pijama)
 
 ## Aptitud editorial
 La cifra de 87 refleja archivos guardados, no 87 chistes listos para publicar. Revisión de Juan sobre cuatro piezas de 08:30: **0 utilizables confirmadas, 1 requiere corrección, 3 descartar**. El resto del stock no fue reevaluado con este criterio; no inferir aptitud editorial de su estado técnico.
