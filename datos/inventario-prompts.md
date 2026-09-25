@@ -2,10 +2,10 @@
 
 Corte inicial: 2026-09-25. Contar sólo paquetes Markdown de cuatro prompts completos, revisados y confirmados en Biblioteca bajo `/Humor Argentino/Branch 1 - Prompts Gemini/`.
 
-- Paquetes de corrida guardados: **10**
-- Prompts individuales aprobados: **40**
+- Paquetes de corrida guardados: **11**
+- Prompts individuales aprobados: **44**
 - Pendientes: **0**
-- Desglose temático: Mixtos **10 paquetes / 40 prompts**.
+- Desglose temático: Mixtos **11 paquetes / 44 prompts**.
 
 | Corrida ART | Paquete | Temática | Archivo en Biblioteca | Prompts aprobados | Estado |
 | --- | --- | --- | --- | ---: | --- |
@@ -24,5 +24,7 @@ Corte inicial: 2026-09-25. Contar sólo paquetes Markdown de cuatro prompts comp
 | 2026-09-25 10:30 | `experimental-2026-09-25-1030-art` | Mixtos | `/Humor Argentino/Branch 1 - Prompts Gemini/Mixtos/2026-09-25-1030-b1-prompts-gemini.md` | 4 | Verificado y guardado; `produccion/corridas/2026-09-25-1030-art.md` |
 
 | 2026-09-25 11:30 | `experimental-2026-09-25-1130-art` | Mixtos | `/Humor Argentino/Branch 1 - Prompts Gemini/Mixtos/2026-09-25-1130-b1-prompts-gemini.md` | 4 | Verificado y guardado; `produccion/corridas/2026-09-25-1130-art.md` |
+
+| 2026-09-25 12:30 | `experimental-2026-09-25-1230-art` | Mixtos | `/Humor Argentino/Branch 1 - Prompts Gemini/Mixtos/2026-09-25-1230-b1-prompts-gemini.md` | 4 | Verificado y guardado; `produccion/corridas/2026-09-25-1230-art.md` |
 
 Los prompts no son imágenes ni videos generados. Cada alta debe enlazar el registro de la corrida en GitHub y confirmar el archivo de Biblioteca.
