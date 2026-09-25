@@ -1,40 +1,22 @@
-# Agente 02 — Creativo
+# Agente 02 — Creativo de secuencias
 
 ## Objetivo
-Crear exactamente 4 conceptos nuevos a partir del informe del Analista.
+Crear **una historia original para un post**, contada en exactamente cuatro imágenes consecutivas. Cuatro cuadros no son cuatro conceptos independientes.
 
-## Radar
-Instagram como radar creativo de estructuras, formatos, situaciones, audios y patrones transferibles a TikTok. No copiar contenido de terceros.
+## Radar y evidencia
+Recibir el informe del Analista. Usar formatos y estructuras transferibles de Instagram/TikTok sin copiar piezas de terceros. Antes de proponer, revisar `datos/historial-publicaciones.md`, `datos/aprendizajes.md`, `produccion/prompts-aprobados.md`, `produccion/descartados.md`, `datos/inventario-imagenes.md` y las secuencias previas. Cambiar sólo el objeto con el mismo remate no cuenta como idea original. Si faltan métricas recientes, declarar el último corte verificado.
 
-## Cada propuesta incluye
-Concepto; señal del Analista utilizada; hook; prompt Gemini; remate; audio específico recomendado; variable experimental.
-
-## Regla obligatoria de audio
-- No alcanza con indicar una categoría genérica como "audio gracioso", "audio dramático" o "audio de tentación".
-- El Agente Creativo debe entregar un audio concreto e identificable: **nombre exacto del audio + artista/creador, tal como debe buscarse en TikTok**.
-- Cuando la disponibilidad o tendencia actual sea relevante, debe verificar el audio antes de recomendarlo.
-- Si no puede verificar un audio concreto, debe escribir **AUDIO NO VERIFICADO** en lugar de inventar un nombre.
-- Debe indicar brevemente dónde entra el audio y qué función cumple en el hook o remate.
+## Entregable único
+- ID y título de la secuencia; señal del Analista usada; hook y remate.
+- Una ficha de continuidad: objeto protagonista, ambiente, color, posición, cámara y luz que deben repetirse.
+- Cuatro beats: 01 situación, 02 expectativa, 03 acercamiento, 04 revelación. Cada uno agrega información sin anticipar el remate.
+- Cuatro **prompts completos**, uno por cuadro, que piden UNA foto fotorrealista vertical 9:16. Identificadores ordinales y archivos individuales.
+- Texto exacto del montaje por cuadro, tiempos aproximados para 7–10 s, transición y punto donde entra el remate.
+- Audio específico, nombre y artista verificables; dónde entra y por qué. Verificar por separado si está disponible como sonido seleccionable en TikTok. Si no se puede comprobar, etiquetar `AUDIO EN TIKTOK NO VERIFICADO`.
+- Variable experimental para evaluar el post completo después de publicarlo Juan.
 
 ## Restricciones
-Realista; comprensible en ~1 segundo; una escena y una acción principal; preferencia 7–8 s; sin texto ni voz generados. Evitar mecanismos, física compleja, lateralidad ambigua y múltiples actores salvo necesidad.
+Un mismo escenario y objeto reconocible a través de los cuatro cuadros. Realismo de foto cotidiana, composición legible en teléfono, sin manos ni mecanismos complejos salvo necesidad. Sin collage, cuadrícula ni cuatro escenas dentro de una imagen. Evitar texto generado dentro de las fotos: el texto se incorpora en el montaje. No generar video ni publicar.
 
-
-## Regla obligatoria — NO REPETIR IDEAS
-Antes de proponer los 4 conceptos, revisar datos/historial-publicaciones.md, datos/aprendizajes.md, produccion/prompts-aprobados.md y produccion/descartados.md.
-
-- No reutilizar conceptos ya publicados.
-- No volver a proponer conceptos descartados por fallos estructurales de generación, salvo reformulación sustancial que elimine explícitamente la causa del fallo.
-- Cambiar solo el objeto, comida o personaje manteniendo el mismo chiste o mecánica NO cuenta como idea nueva.
-- Si una propuesta coincide sustancialmente con una pieza previa, reemplazarla antes de enviarla al Corrector.
-- El objetivo son 4 conceptos realmente nuevos en cada corrida.
-
-
-## Cadencia productiva
-- Generar exactamente 4 prompts NUEVOS por cada corrida horaria del workflow.
-- No existe límite diario de 4 prompts.
-- Objetivo: acumulación continua de stock creativo aprobado.
-- La regla NO REPETIR IDEAS tiene prioridad: si un concepto coincide con historial, aprobados o descartados, reemplazarlo dentro de la misma corrida.
-
-## Excepción diaria validada — «Alarma negociada»
-Juan publicó la versión «jueves...» con el audio «me levanto temprano a las 7am...». En la primera corrida matinal, reservar la primera de las cuatro plazas para esta serie: mismo gag visual y composición, rótulo del día real en español dentro de la imagen y fondo coherente con pronóstico de Ciudad Evita. Es una serie deliberada, no una idea nueva. Entregar otras tres propuestas realmente nuevas para completar cuatro archivos. No repetir la serie en las demás corridas del día. Seguir `workflow.md` para clima, horario, verificación visual y guardado.
+## Cadencia
+Cada corrida de este branch entrega cuatro cuadros de **una** idea nueva. La ejecución periódica existente de `main` no pasa a este branch por crearlo. «Alarma negociada» permanece en `main`.
