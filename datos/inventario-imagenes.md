@@ -1,11 +1,11 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-25, corrida 11:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 11:30: 101 PNG físicos bajo Main frente a 98 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
+Corte verificado: 2026-09-25, corrida 12:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 12:30: 105 PNG físicos bajo Main frente a 102 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **98**
-- Comida: **29**
-- Vida cotidiana: **50**
+- Total generado y almacenado por la fábrica: **102**
+- Comida: **31**
+- Vida cotidiana: **52**
 - Economía y compras: **6**
 - Mascotas: **4**
 - Deportes: **3**
@@ -144,6 +144,11 @@ La cifra de 87 refleja archivos guardados, no 87 chistes listos para publicar. R
 | 2026-09-25 11:30 | Escritorio de tabla de planchar | Trabajo y oficina | `/Humor Argentino/Main/Trabajo y oficina/2026-09-25-1130-main-escritorio-planchador.png` | Generado, inspeccionado y guardado; UTILIZABLE |
 | 2026-09-25 11:30 | Protección para freír panceta | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1130-main-tocino-proteccion.png` | Generado, inspeccionado y guardado; UTILIZABLE |
 
+| 2026-09-25 12:30 | Cereal en olla | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1230-main-cereal-olla.png` | Generado, inspeccionado y guardado; UTILIZABLE |
+| 2026-09-25 12:30 | Valija imposible | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1230-main-valija-sentado.png` | Generado, inspeccionado y guardado; UTILIZABLE |
+| 2026-09-25 12:30 | Un solo viaje | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1230-main-un-solo-viaje.png` | Generado, inspeccionado y guardado; UTILIZABLE |
+| 2026-09-25 12:30 | Freezer contra secador | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1230-main-freezer-secador.png` | Generado, inspeccionado y guardado; UTILIZABLE |
+
 Nota: la corrida 01:30 procesó cinco conceptos, excediendo el cupo de cuatro; cuatro PNG están verificados y guardados, pero la ejecución no fue plenamente conforme.
 
-Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md`, `produccion/corridas/2026-09-25-0030-art.md`, `produccion/corridas/2026-09-25-0130-art.md`, `produccion/corridas/2026-09-25-0230-art.md`, `produccion/corridas/2026-09-25-0330-art.md`, `produccion/corridas/2026-09-25-0430-art.md`, `produccion/corridas/2026-09-25-0530-art.md`, `produccion/corridas/2026-09-25-0630-art.md`, `produccion/corridas/2026-09-25-0830-art.md` `produccion/corridas/2026-09-25-0930-art.md`, `produccion/corridas/2026-09-25-1030-art.md`, `produccion/corridas/2026-09-25-1130-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
+Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md`, `produccion/corridas/2026-09-25-0030-art.md`, `produccion/corridas/2026-09-25-0130-art.md`, `produccion/corridas/2026-09-25-0230-art.md`, `produccion/corridas/2026-09-25-0330-art.md`, `produccion/corridas/2026-09-25-0430-art.md`, `produccion/corridas/2026-09-25-0530-art.md`, `produccion/corridas/2026-09-25-0630-art.md`, `produccion/corridas/2026-09-25-0830-art.md` `produccion/corridas/2026-09-25-0930-art.md`, `produccion/corridas/2026-09-25-1030-art.md`, `produccion/corridas/2026-09-25-1130-art.md`, `produccion/corridas/2026-09-25-1230-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
