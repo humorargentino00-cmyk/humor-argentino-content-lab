@@ -1,15 +1,15 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-24, corrida 22:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
+Corte verificado: 2026-09-24, corrida 23:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **51**
+- Total generado y almacenado por la fábrica: **55**
 - Comida: **14**
-- Vida cotidiana: **31**
+- Vida cotidiana: **34**
 - Economía y compras: **3**
 - Mascotas: **2**
-- Deportes: **1**
-- Pendientes en las trece corridas verificadas: **1**
+- Deportes: **2**
+- Pendientes en las catorce corridas verificadas: **1**
 
 ## Altas
 
@@ -79,4 +79,9 @@ Corte verificado: 2026-09-24, corrida 22:30 ART. Contar sólo archivos individua
 | 2026-09-24 22:30 | Frasco alcancía | Economía y compras | `/Humor Argentino/Economia y compras/2026-09-24-2230-frasco-alcancia.png` | Aprobado y guardado tras una corrección |
 | 2026-09-24 22:30 | Gato sobre teclado | Mascotas | `/Humor Argentino/Mascotas/2026-09-24-2230-gato-teclado.png` | Aprobado y guardado |
 
-Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
+| 2026-09-24 23:30 | Mesa nivelada con cartones | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-2330-mesa-cartones.png` | Aprobado y guardado |
+| 2026-09-24 23:30 | Celular en arroz | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-2330-celular-arroz.png` | Aprobado y guardado |
+| 2026-09-24 23:30 | Mochila con broche | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-2330-mochila-broche.png` | Aprobado y guardado tras una corrección |
+| 2026-09-24 23:30 | Botines con diario | Deportes | `/Humor Argentino/Deportes/2026-09-24-2330-botines-diario.png` | Aprobado y guardado |
+
+Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
