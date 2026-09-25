@@ -1,15 +1,15 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-24, corrida 20:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
+Corte verificado: 2026-09-24, corrida 21:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **43**
-- Comida: **11**
-- Vida cotidiana: **29**
+- Total generado y almacenado por la fábrica: **47**
+- Comida: **12**
+- Vida cotidiana: **31**
 - Economía y compras: **2**
 - Mascotas: **1**
-- Deportes: **0**
-- Pendientes en las once corridas verificadas: **1**
+- Deportes: **1**
+- Pendientes en las doce corridas verificadas: **1**
 
 ## Altas
 
@@ -69,4 +69,9 @@ Corte verificado: 2026-09-24, corrida 20:30 ART. Contar sólo archivos individua
 | 2026-09-24 20:30 | Colador sobre milanesas | Comida | `/Humor Argentino/Comida/2026-09-24-2030-colador-milanesas.png` | Aprobado y guardado |
 | 2026-09-24 20:30 | Notebook sobre maples | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-2030-notebook-maples.png` | Aprobado y guardado |
 
-Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
+| 2026-09-24 21:30 | Silla con medias | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-2130-silla-medias.png` | Aprobado y guardado |
+| 2026-09-24 21:30 | Sartén con plato | Comida | `/Humor Argentino/Comida/2026-09-24-2130-sarten-plato.png` | Aprobado y guardado |
+| 2026-09-24 21:30 | Pelota remendada | Deportes | `/Humor Argentino/Deportes/2026-09-24-2130-pelota-remendada.png` | Aprobado y guardado |
+| 2026-09-24 21:30 | Ventilador con hielo | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-2130-ventilador-hielo.png` | Aprobado y guardado |
+
+Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
