@@ -1,15 +1,15 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-24, corrida 21:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
+Corte verificado: 2026-09-24, corrida 22:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **47**
-- Comida: **12**
+- Total generado y almacenado por la fábrica: **51**
+- Comida: **14**
 - Vida cotidiana: **31**
-- Economía y compras: **2**
-- Mascotas: **1**
+- Economía y compras: **3**
+- Mascotas: **2**
 - Deportes: **1**
-- Pendientes en las doce corridas verificadas: **1**
+- Pendientes en las trece corridas verificadas: **1**
 
 ## Altas
 
@@ -74,4 +74,9 @@ Corte verificado: 2026-09-24, corrida 21:30 ART. Contar sólo archivos individua
 | 2026-09-24 21:30 | Pelota remendada | Deportes | `/Humor Argentino/Deportes/2026-09-24-2130-pelota-remendada.png` | Aprobado y guardado |
 | 2026-09-24 21:30 | Ventilador con hielo | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-2130-ventilador-hielo.png` | Aprobado y guardado |
 
-Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
+| 2026-09-24 22:30 | Ensalada con gorra de baño | Comida | `/Humor Argentino/Comida/2026-09-24-2230-ensalada-gorra-bano.png` | Aprobado y guardado |
+| 2026-09-24 22:30 | Pan con broche de oficina | Comida | `/Humor Argentino/Comida/2026-09-24-2230-pan-broche-oficina.png` | Aprobado y guardado |
+| 2026-09-24 22:30 | Frasco alcancía | Economía y compras | `/Humor Argentino/Economia y compras/2026-09-24-2230-frasco-alcancia.png` | Aprobado y guardado tras una corrección |
+| 2026-09-24 22:30 | Gato sobre teclado | Mascotas | `/Humor Argentino/Mascotas/2026-09-24-2230-gato-teclado.png` | Aprobado y guardado |
+
+Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
