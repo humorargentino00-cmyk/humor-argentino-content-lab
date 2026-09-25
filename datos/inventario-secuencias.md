@@ -2,10 +2,10 @@
 
 Corte inicial: 2026-09-25. Este registro es independiente de `datos/inventario-imagenes.md`, que contiene el stock de imágenes individuales heredado de `main`.
 
-- Secuencias completas verificadas: **7**
+- Secuencias completas verificadas: **8**
 - Secuencias pendientes con imágenes guardadas: **1**
-- Imágenes nuevas aprobadas y guardadas en este branch: **31**
-- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **4 secuencias / 16 imágenes**; Comida **2 secuencias completas / 8 imágenes**, más **1 secuencia pendiente / 3 imágenes**.
+- Imágenes nuevas aprobadas y guardadas en este branch: **35**
+- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **4 secuencias / 16 imágenes**; Comida **3 secuencias completas / 12 imágenes**, más **1 secuencia pendiente / 3 imágenes**.
 
 Alta `secuencias-post-2026-09-25-0130-paquete-te`: cuatro cuadros 01–04 aprobados y confirmados en `/Humor Argentino/Branch 2 - Secuencias/Economia y compras/2026-09-25-0130-paquete-te/`. Prompts, revisión y manifiesto: `produccion/secuencias/2026-09-25-0130-paquete-te.md`. Sin fallos ni correcciones.
 
@@ -22,6 +22,8 @@ Alta `secuencias-post-2026-09-25-0630-tostada-espera`: cuadros 01–04 aprobados
 Alta `secuencias-post-2026-09-25-0830-galletita-cafe`: cuadros 01–04 aprobados al primer intento y guardados en `/Humor Argentino/Branch 2 - Secuencias/Comida/2026-09-25-0830-galletita-cafe/`. **UTILIZABLE según Juan**: el remate de la galletita en la taza se entiende visualmente. Manifiesto: `produccion/secuencias/2026-09-25-0830-galletita-cafe.md`.
 
 Alta parcial `secuencias-post-2026-09-25-0930-sandwich-aplastado`: cuadros 01–03 aprobados y confirmados en `/Humor Argentino/Branch 2 - Secuencias/Comida/2026-09-25-0930-sandwich-aplastado/`; 04 falló el remate tras una corrección y no se guardó. **SECUENCIA PENDIENTE, 3/4 cuadros, NO lista para montar**. Manifiesto y prompts exactos: `produccion/secuencias/2026-09-25-0930-sandwich-aplastado.md`.
+
+Alta `secuencias-post-2026-09-25-1030-helado-caida`: cuadros 01–04 aprobados al primer intento y confirmados en `/Humor Argentino/Branch 2 - Secuencias/Comida/2026-09-25-1030-helado-caida/`. **UTILIZABLE**: progresión y remate se entienden sin texto; continuidad y gravedad plausibles. Manifiesto: `produccion/secuencias/2026-09-25-1030-helado-caida.md`.
 
 La aptitud editorial es distinta de la completitud técnica: 1 secuencia evaluada UTILIZABLE por Juan; las demás no fueron reevaluadas con este criterio. Los 31 cuadros guardados permanecen contados; sólo la secuencia de galletita fue confirmada UTILIZABLE por Juan.
 
