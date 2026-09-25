@@ -12,6 +12,9 @@ Corte verificado: 2026-09-25, corrida 08:30 ART; rutas migradas a `/Humor Argent
 - Trabajo y oficina: **5**
 - Pendientes históricos: **2** (cubitos de café y planta artificial)
 
+## Aptitud editorial
+La cifra de 87 refleja archivos guardados, no 87 chistes listos para publicar. Revisión de Juan sobre cuatro piezas de 08:30: **0 utilizables confirmadas, 1 requiere corrección, 3 descartar**. El resto del stock no fue reevaluado con este criterio; no inferir aptitud editorial de su estado técnico.
+
 ## Altas
 
 | Corrida | Concepto | Temática | Archivo en Biblioteca | Estado |
@@ -121,10 +124,10 @@ Corte verificado: 2026-09-25, corrida 08:30 ART; rutas migradas a `/Humor Argent
 | 2026-09-25 06:30 | Calculadora con film | Trabajo y oficina | `/Humor Argentino/Main/Trabajo y oficina/2026-09-25-0630-main-calculadora-film.png` | Aprobado y guardado |
 | 2026-09-25 06:30 | Esponja en cartuchera | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-0630-main-esponja-cartuchera.png` | Aprobado y guardado |
 
-| 2026-09-25 08:30 | Pinza soporte | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0830-main-pinza-soporte.png` | Aprobado y guardado |
-| 2026-09-25 08:30 | Toalla con candado | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-0830-main-toalla-candado.png` | Aprobado y guardado |
-| 2026-09-25 08:30 | Pelapapas en estuche | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0830-main-pelapapas-estuche.png` | Aprobado y guardado |
-| 2026-09-25 08:30 | Huevo premium | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0830-main-huevo-premium.png` | Aprobado y guardado |
+| 2026-09-25 08:30 | Pinza soporte | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0830-main-pinza-soporte.png` | Guardado; DESCARTAR para publicación: geometría pinza/vaso incoherente y la premisa del celular mojado no se ve en la imagen |
+| 2026-09-25 08:30 | Toalla con candado | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-0830-main-toalla-candado.png` | Guardado; REQUIERE CORRECCIÓN: chiste apenas legible; reforzar visualmente la situación sin explicación |
+| 2026-09-25 08:30 | Pelapapas en estuche | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0830-main-pelapapas-estuche.png` | Guardado; DESCARTAR para publicación: el chiste no se entiende con la imagen sola |
+| 2026-09-25 08:30 | Huevo premium | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0830-main-huevo-premium.png` | Guardado; DESCARTAR para publicación: el chiste no se entiende con la imagen sola |
 
 Nota: la corrida 01:30 procesó cinco conceptos, excediendo el cupo de cuatro; cuatro PNG están verificados y guardados, pero la ejecución no fue plenamente conforme.
 
