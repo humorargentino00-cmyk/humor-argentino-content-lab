@@ -1,15 +1,16 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-25, corrida 00:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
+Corte verificado: 2026-09-25, corrida 01:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **59**
-- Comida: **15**
-- Vida cotidiana: **36**
+- Total generado y almacenado por la fábrica: **63**
+- Comida: **16**
+- Vida cotidiana: **38**
 - Economía y compras: **4**
 - Mascotas: **2**
 - Deportes: **2**
-- Pendientes en las quince corridas verificadas: **1**
+- Trabajo y oficina: **1**
+- Pendientes históricos: **2** (cubitos de café y planta artificial)
 
 ## Altas
 
@@ -89,4 +90,12 @@ Corte verificado: 2026-09-25, corrida 00:30 ART; rutas migradas a `/Humor Argent
 | 2026-09-25 00:30 | Empanada en caja de pizza | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0030-empanada-caja-pizza.png` | Aprobado y guardado |
 | 2026-09-25 00:30 | Ventilador secando medias | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-0030-ventilador-medias.png` | Aprobado y guardado |
 
-Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md`, `produccion/corridas/2026-09-25-0030-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
+| 2026-09-25 01:30 | Planta artificial | Vida cotidiana | — | Pendiente tras dos intentos: parece planta viva; no guardado ni contabilizado |
+| 2026-09-25 01:30 | Impresora en blanco | Trabajo y oficina | `/Humor Argentino/Main/Trabajo y oficina/2026-09-25-0130-main-impresora-blanco.png` | Aprobado y guardado |
+| 2026-09-25 01:30 | Un raviol en olla grande | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0130-main-raviol-olla.png` | Aprobado y guardado |
+| 2026-09-25 01:30 | Felpudo que se arruga | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-0130-main-felpudo-fuga.png` | Aprobado y guardado |
+| 2026-09-25 01:30 | Rollo sin cambiar | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-0130-main-rollo-sin-cambiar.png` | Aprobado y guardado |
+
+Nota: esta corrida procesó cinco conceptos, excediendo el cupo de cuatro; cuatro PNG están verificados y guardados, pero la ejecución no fue plenamente conforme.
+
+Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md`, `produccion/corridas/2026-09-25-0030-art.md`, `produccion/corridas/2026-09-25-0130-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
