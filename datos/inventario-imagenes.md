@@ -1,11 +1,11 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-25, corrida 18:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 18:30: 119 PNG físicos bajo Main frente a 116 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
+Corte verificado: 2026-09-25, corrida 19:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 19:30: 123 PNG físicos bajo Main frente a 120 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **116**
+- Total generado y almacenado por la fábrica: **120**
 - Comida: **38**
-- Vida cotidiana: **56**
+- Vida cotidiana: **60**
 - Economía y compras: **8**
 - Mascotas: **5**
 - Deportes: **3**
@@ -194,3 +194,15 @@ Trazabilidad: `produccion/corridas/2026-09-25-1530-art.md`. Alta técnica separa
 | 2026-09-25 18:30 | Lavavajillas para una cucharita | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1830-main-lavavajillas-cuchara.png` | Guardado; UTILIZABLE provisional: contraste visual inmediato, bandejas y puerta coherentes |
 
 Trazabilidad: `produccion/corridas/2026-09-25-1830-art.md`. Alta técnica separada de aprobación final de Juan.
+
+
+## Alta 2026-09-25 19:30
+
+| Corrida | Concepto | Temática | Archivo en Biblioteca | Estado |
+| --- | --- | --- | --- | --- |
+| 2026-09-25 19:30 | Heladera con candado | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1930-main-heladera-candado.png` | Guardado; UTILIZABLE provisional; segundo intento tras corregir cantidad de manijas |
+| 2026-09-25 19:30 | Alarma en jaula | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1930-main-alarma-jaula.png` | Guardado; UTILIZABLE provisional; 07:00 y geometría verificadas |
+| 2026-09-25 19:30 | Control remoto de museo | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1930-main-control-museo.png` | Guardado; UTILIZABLE provisional; urna y apoyos coherentes |
+| 2026-09-25 19:30 | Zapatillas con gorras de baño | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1930-main-zapatillas-gorra-bano.png` | Guardado; UTILIZABLE provisional; dos cobertores ajustados sin fusiones |
+
+Trazabilidad: `produccion/corridas/2026-09-25-1930-art.md`. Alta técnica separada de aprobación final de Juan.
