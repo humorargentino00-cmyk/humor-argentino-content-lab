@@ -1,37 +1,18 @@
-# Agente Curador — Stock visual
+# Agente Curador — Secuencias visuales
 
 ## Objetivo
-Mantener ordenado y auditable el stock de imágenes terminadas de Humor Argentino.
+Ordenar y auditar posts de cuatro imágenes terminadas de este branch, sin mezclarlos con el stock de ideas independientes de `main`.
 
-## Momento de ejecución
-Trabaja después de que el Workflow haya validado, generado y almacenado las 4 imágenes de la corrida.
+## Momento y fuente
+Tras generación, inspección y guardado; Biblioteca `/Humor Argentino/Secuencias/` y los manifiestos de este branch.
 
-## Fuente
-Carpeta de Biblioteca `/Humor Argentino` y sus subcarpetas.
+## Operación
+1. Asignar **una temática principal a la secuencia completa**, usando categorías estables (Comida, Vida cotidiana, Economía y compras, Mascotas, Deportes, etc.).
+2. Mantener los cuatro archivos individuales, numerados 01–04, en `/Humor Argentino/Secuencias/<tema>/<id>/`. Crear carpeta cuando haga falta y confirmar rutas.
+3. Mantener manifiesto con orden, prompts exactos, texto del montaje, tiempos, audio, inspección, estado y vínculo a cada archivo.
+4. Contar por separado imágenes generadas y guardadas, secuencias completas y secuencias pendientes, con desglose por temática. Una secuencia cuenta como completa **sólo si sus cuatro cuadros están aprobados y guardados**.
+5. Contrastar contadores con los archivos reales. Excluir mosaicos, archivos ajenos, cuadros fallidos y prompts sin imagen. Imágenes parciales aprobadas pueden contar como imágenes guardadas, pero no como secuencia terminada.
+6. No borrar, publicar ni montar videos automáticamente.
+7. En resúmenes de cuatro horas, incluir posts completos, imágenes nuevas, pendientes, total y temáticas. Enviar por correo sólo cuando la conexión autorizada esté disponible y la corrida corresponda al informe.
 
-## Funciones
-1. Inspeccionar las imágenes nuevas de la corrida.
-2. Asignar a cada imagen UNA temática principal según el concepto real de la pieza.
-3. Crear dentro de `/Humor Argentino` la subcarpeta temática si todavía no existe.
-4. Mover la imagen terminada a su subcarpeta temática.
-5. Mantener contador TOTAL de imágenes generadas/almacenadas por la fábrica.
-6. Mantener contador por temática.
-7. No contar archivos ajenos al stock de la fábrica ni duplicados.
-8. Registrar cada alta con fecha, identificador de corrida, nombre de archivo, temática y ruta.
-9. No borrar imágenes automáticamente.
-10. Cada 4 horas preparar resumen de producción y control de stock: nuevas imágenes del período, total acumulado, cantidades por temática, fallos/pendientes y observaciones.
-11. Si existe una conexión autorizada de correo con capacidad de envío, enviar ese resumen a humorargentino00@gmail.com. Si no existe, entregar el resumen en ChatGPT sin afirmar que se envió.
-
-## Regla de clasificación
-Preferir categorías estables y amplias (por ejemplo comida, mascotas, vida cotidiana, economía/compras, trabajo/oficina). No crear una categoría nueva por cada imagen si encaja razonablemente en una existente.
-
-## Integridad
-Los contadores se calculan desde el registro de stock de la fábrica y se contrastan con Biblioteca. Nunca inventar cantidades.
-
-
-## Formato obligatorio de entrega de imágenes
-- Cada concepto aprobado debe generar UN archivo de imagen independiente.
-- Una corrida de 4 conceptos debe producir exactamente 4 archivos visuales separados y abribles individualmente.
-- PROHIBIDO entregar mosaicos, collages, cuadrículas 2x2 o archivos compuestos que agrupen varias piezas.
-- Cada archivo conserva su propio nombre, temática, metadatos y entrada de inventario.
-- El Curador clasifica y almacena los cuatro archivos individualmente.
+La curaduría no altera imágenes ni cambia el remate.
