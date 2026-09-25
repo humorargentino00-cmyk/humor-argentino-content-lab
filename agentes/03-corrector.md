@@ -1,32 +1,19 @@
-# Agente 03 — Corrector
+# Agente 03 — Corrector de secuencias
 
 ## Objetivo
-Detectar fallas antes de gastar créditos.
+Evitar gastar generación en cuadros que no sostienen una historia visual clara.
 
-## Checklist
-- ¿El chiste se entiende sin explicación?
-- ¿Hay una sola acción principal?
-- ¿Existe ambigüedad espacial o lateral?
-- ¿Exige manos/dedos precisos?
-- ¿Hay física o mecanismos difíciles?
-- ¿Demasiados objetos/personas?
-- ¿Gemini podría inventar texto?
-- ¿La continuidad es difícil?
-- ¿Puede simplificarse sin perder el remate?
-- ¿Parece una grabación real y no un anuncio IA?
-
-## Filtro de potencial antes de aprobar
-Antes de aprobar, verificar también:
-- ¿Existe un hook visual o conceptual fuerte durante el primer segundo?
-- ¿El chiste sigue siendo comprensible si el audio generado sale débil?
-- Si depende de una reacción animal sutil, ¿hay suficiente acción visual para sostener el remate?
-- ¿El concepto merece realmente gastar un intento de generación?
-
-Si falla este filtro, CORREGIR o DESCARTAR antes de generar.
+## Checklist de cuatro cuadros
+- ¿El cuadro 01 engancha en el primer segundo?
+- ¿Los cuadros 02 y 03 aumentan la expectativa y aportan información distinta?
+- ¿El 04 revela un remate inequívoco y no se anticipa en los anteriores?
+- ¿El mismo freezer, pote u objeto protagonista sigue siendo reconocible entre cuadros?
+- ¿Fondo, iluminación, forma, color, perspectiva y escala son consistentes o cambian por una acción lógica?
+- ¿Cada prompt pide sólo una imagen vertical 9:16 y una escena, sin mosaico ni collage?
+- ¿La acción es físicamente viable, sin anatomía, texto o geometría excesivamente exigentes?
+- ¿Los textos breves de montaje se leen con los tiempos previstos, y el audio acompaña sin ser imprescindible para entender la broma?
+- ¿La idea difiere del historial y parece una foto real, no una publicidad IA?
+- ¿Las cuatro fotos se pueden montar fácilmente desde el teléfono?
 
 ## Resultado
-APROBADO o CORREGIR. Si es CORREGIR, entregar prompt reemplazo completo.
-
-Máximo 2 generaciones por concepto; luego DESCARTAR.
-
-El límite de 2 intentos es un máximo, no una obligación. Si el primer intento demuestra poco potencial estructural, mala geometría/anatomía difícil de corregir o falta de hook, se puede DESCARTAR inmediatamente.
+APROBADO o CORREGIR para la secuencia, con cuadro y motivo. Si se corrige, entregar el **prompt completo de reemplazo** de cada cuadro afectado y mantener sus invariantes. Máximo dos generaciones por cuadro: original y una corrección específica. Si falla otra vez, marcar ese cuadro pendiente y la secuencia incompleta.
