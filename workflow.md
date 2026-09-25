@@ -5,7 +5,7 @@
 3. **Agente Corrector** revisa las 4 antes de gastar créditos y marca APROBADO o CORREGIR.
 4. **Agente Creativo** incorpora las correcciones.
 5. **Agente Validador** verifica orden, reglas, evidencia y herramientas/APIs/MCP disponibles. Solo marca APROBADO PARA GENERAR cuando corresponde.
-6. **Producción/publicación** genera únicamente aprobados, máximo 2 intentos por concepto, revisa antes de publicar, registra el resultado y vuelve al Analista.
+6. **Producción y revisión editorial** genera únicamente aprobados, máximo 2 intentos por concepto; el Validador ve cada imagen sola y clasifica su aptitud para publicar antes de registrar el resultado y volver al Analista. Publicar requiere una orden aparte.
 
 No se saltean etapas.
 
@@ -37,6 +37,9 @@ No se saltean etapas.
 8. Si alguna imagen falla la generación o el guardado, registrar cuál quedó pendiente; no sustituirla por una idea repetida ni afirmar que fue almacenada.
 9. No publicar automáticamente.
 
+
+## Filtro editorial de la imagen final
+La conformidad con el prompt y el guardado no prueban que el chiste funcione. El Validador debe entender situación y remate viendo únicamente la imagen, sin título, caption, música ni explicación; debe verificar geometría, contacto y acción plausibles. Registrar por separado `UTILIZABLE`, `REQUIERE CORRECCIÓN` o `DESCARTAR`, con motivo. Sólo `UTILIZABLE` es candidato a publicar. No borrar ni descontar del historial técnico los archivos guardados que luego fallen este filtro.
 
 ## Curaduría posterior
 Después de guardar las 4 imágenes finales de cada corrida en `/Humor Argentino/Main`, ejecutar `agentes/05-curador.md`. El Curador clasifica y mueve las imágenes a subcarpetas temáticas, actualiza inventario total y por temática y deja el stock auditable. La generación termina antes de la curaduría; la curaduría no modifica el concepto ni la imagen.
