@@ -1,13 +1,13 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-25, corrida 14:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 14:30: 111 PNG físicos bajo Main frente a 108 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
+Corte verificado: 2026-09-25, corrida 15:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 15:30: 115 PNG físicos bajo Main frente a 112 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **108**
-- Comida: **33**
+- Total generado y almacenado por la fábrica: **112**
+- Comida: **35**
 - Vida cotidiana: **55**
-- Economía y compras: **7**
-- Mascotas: **4**
+- Economía y compras: **8**
+- Mascotas: **5**
 - Deportes: **3**
 - Trabajo y oficina: **6**
 - Pendientes históricos: **3** (cubitos de café, planta artificial y videollamada en pijama)
@@ -170,3 +170,15 @@ Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `producci
 | 2026-09-25 14:30 | Silla frente a la heladera | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1430-main-silla-heladera.png` | Guardado; UTILIZABLE provisional: puerta, cuerpo y silla sin intersecciones |
 
 Trazabilidad: `produccion/corridas/2026-09-25-1430-art.md`. Las cuatro aptitudes quedan sujetas a revisión final de Juan; el alta técnica no equivale a aprobación para publicar.
+
+
+## Alta 2026-09-25 15:30
+
+| Corrida | Concepto | Temática | Archivo en Biblioteca | Estado |
+| --- | --- | --- | --- | --- |
+| 2026-09-25 15:30 | Gato en canasto de ropa | Mascotas | `/Humor Argentino/Main/Mascotas/2026-09-25-1530-main-gato-canasto.png` | Guardado; UTILIZABLE provisional |
+| 2026-09-25 15:30 | Café con cucharón | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1530-main-cafe-cucharon.png` | Guardado; UTILIZABLE provisional |
+| 2026-09-25 15:30 | Sartén gigante con un huevo | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1530-main-sarten-huevo.png` | Guardado; UTILIZABLE provisional |
+| 2026-09-25 15:30 | Compra mínima, ticket interminable | Economía y compras | `/Humor Argentino/Main/Economia y compras/2026-09-25-1530-main-recibo-largo.png` | Guardado; UTILIZABLE provisional |
+
+Trazabilidad: `produccion/corridas/2026-09-25-1530-art.md`. Alta técnica separada de aprobación final de Juan.
