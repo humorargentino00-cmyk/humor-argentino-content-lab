@@ -7,12 +7,12 @@ Mantener ordenado y auditable el stock de imágenes terminadas de Humor Argentin
 Trabaja después de que el Workflow haya validado, generado y almacenado las 4 imágenes de la corrida.
 
 ## Fuente
-Carpeta de Biblioteca `/Humor Argentino` y sus subcarpetas.
+Carpeta de Biblioteca `/Humor Argentino/Main` y sus subcarpetas.
 
 ## Funciones
 1. Inspeccionar las imágenes nuevas de la corrida.
 2. Asignar a cada imagen UNA temática principal según el concepto real de la pieza.
-3. Crear dentro de `/Humor Argentino` la subcarpeta temática si todavía no existe.
+3. Crear dentro de `/Humor Argentino/Main` la subcarpeta temática si todavía no existe.
 4. Mover la imagen terminada a su subcarpeta temática.
 5. Mantener contador TOTAL de imágenes generadas/almacenadas por la fábrica.
 6. Mantener contador por temática.
@@ -35,3 +35,6 @@ Los contadores se calculan desde el registro de stock de la fábrica y se contra
 - PROHIBIDO entregar mosaicos, collages, cuadrículas 2x2 o archivos compuestos que agrupen varias piezas.
 - Cada archivo conserva su propio nombre, temática, metadatos y entrada de inventario.
 - El Curador clasifica y almacena los cuatro archivos individualmente.
+
+## Aislamiento por branch
+El Curador de `main` opera exclusivamente en `/Humor Argentino/Main` y `datos/inventario-imagenes.md`. Excluir `/Humor Argentino/Experimental` y `/Humor Argentino/Secuencias-post` de los contadores y los movimientos.
