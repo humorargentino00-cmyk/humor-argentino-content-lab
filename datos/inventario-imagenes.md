@@ -1,11 +1,11 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-25, corrida 06:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
+Corte verificado: 2026-09-25, corrida 08:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **83**
-- Comida: **22**
-- Vida cotidiana: **46**
+- Total generado y almacenado por la fábrica: **87**
+- Comida: **25**
+- Vida cotidiana: **47**
 - Economía y compras: **5**
 - Mascotas: **2**
 - Deportes: **3**
@@ -121,6 +121,11 @@ Corte verificado: 2026-09-25, corrida 06:30 ART; rutas migradas a `/Humor Argent
 | 2026-09-25 06:30 | Calculadora con film | Trabajo y oficina | `/Humor Argentino/Main/Trabajo y oficina/2026-09-25-0630-main-calculadora-film.png` | Aprobado y guardado |
 | 2026-09-25 06:30 | Esponja en cartuchera | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-0630-main-esponja-cartuchera.png` | Aprobado y guardado |
 
+| 2026-09-25 08:30 | Pinza soporte | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0830-main-pinza-soporte.png` | Aprobado y guardado |
+| 2026-09-25 08:30 | Toalla con candado | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-0830-main-toalla-candado.png` | Aprobado y guardado |
+| 2026-09-25 08:30 | Pelapapas en estuche | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0830-main-pelapapas-estuche.png` | Aprobado y guardado |
+| 2026-09-25 08:30 | Huevo premium | Comida | `/Humor Argentino/Main/Comida/2026-09-25-0830-main-huevo-premium.png` | Aprobado y guardado |
+
 Nota: la corrida 01:30 procesó cinco conceptos, excediendo el cupo de cuatro; cuatro PNG están verificados y guardados, pero la ejecución no fue plenamente conforme.
 
-Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md`, `produccion/corridas/2026-09-25-0030-art.md`, `produccion/corridas/2026-09-25-0130-art.md`, `produccion/corridas/2026-09-25-0230-art.md`, `produccion/corridas/2026-09-25-0330-art.md`, `produccion/corridas/2026-09-25-0430-art.md`, `produccion/corridas/2026-09-25-0530-art.md`, `produccion/corridas/2026-09-25-0630-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
+Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md`, `produccion/corridas/2026-09-25-0030-art.md`, `produccion/corridas/2026-09-25-0130-art.md`, `produccion/corridas/2026-09-25-0230-art.md`, `produccion/corridas/2026-09-25-0330-art.md`, `produccion/corridas/2026-09-25-0430-art.md`, `produccion/corridas/2026-09-25-0530-art.md`, `produccion/corridas/2026-09-25-0630-art.md`, `produccion/corridas/2026-09-25-0830-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
