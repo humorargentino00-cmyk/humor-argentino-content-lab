@@ -1,15 +1,15 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-24, corrida 23:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
+Corte verificado: 2026-09-25, corrida 00:30 ART. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **55**
-- Comida: **14**
-- Vida cotidiana: **34**
-- Economía y compras: **3**
+- Total generado y almacenado por la fábrica: **59**
+- Comida: **15**
+- Vida cotidiana: **36**
+- Economía y compras: **4**
 - Mascotas: **2**
 - Deportes: **2**
-- Pendientes en las catorce corridas verificadas: **1**
+- Pendientes en las quince corridas verificadas: **1**
 
 ## Altas
 
@@ -84,4 +84,9 @@ Corte verificado: 2026-09-24, corrida 23:30 ART. Contar sólo archivos individua
 | 2026-09-24 23:30 | Mochila con broche | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-24-2330-mochila-broche.png` | Aprobado y guardado tras una corrección |
 | 2026-09-24 23:30 | Botines con diario | Deportes | `/Humor Argentino/Deportes/2026-09-24-2330-botines-diario.png` | Aprobado y guardado |
 
-Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
+| 2026-09-25 00:30 | Heladera cubierta de recibos | Economía y compras | `/Humor Argentino/Economia y compras/2026-09-25-0030-heladera-recibos.png` | Aprobado y guardado |
+| 2026-09-25 00:30 | Silla con pata de palo de escoba | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-25-0030-silla-palo-escoba.png` | Aprobado y guardado |
+| 2026-09-25 00:30 | Empanada en caja de pizza | Comida | `/Humor Argentino/Comida/2026-09-25-0030-empanada-caja-pizza.png` | Aprobado y guardado |
+| 2026-09-25 00:30 | Ventilador secando medias | Vida cotidiana | `/Humor Argentino/Vida cotidiana/2026-09-25-0030-ventilador-medias.png` | Aprobado y guardado |
+
+Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md`, `produccion/corridas/2026-09-25-0030-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
