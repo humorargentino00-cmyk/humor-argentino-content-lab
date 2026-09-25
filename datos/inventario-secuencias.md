@@ -46,3 +46,6 @@ Alta `secuencias-post-2026-09-25-1830-perro-bano`: cuatro cuadros aprobados al p
 
 
 Alta `secuencias-post-2026-09-25-1930-remera-salsa`: cuatro cuadros aprobados al primer intento y guardados en `/Humor Argentino/Branch 2 - Secuencias/Comida/2026-09-25-1930-remera-salsa/`. Continuidad de persona, remera, mesa y plato verificada; progresión remera limpia, tenedor, tallarín suspendido y mancha final. Estado técnico **COMPLETA 4/4**; aptitud **UTILIZABLE provisional** hasta revisión de Juan. Manifiesto: `produccion/secuencias/2026-09-25-1930-remera-salsa.md`.
+
+
+Corrida `secuencias-post-2026-09-25-2030-rollo-papel`: **BLOQUEADA antes del cuadro 01** por rechazo de credenciales de la herramienta de imagen. 0 cuadros generados, aprobados o guardados; contadores sin cambios. Registro: `produccion/secuencias/2026-09-25-2030-rollo-papel.md`.
