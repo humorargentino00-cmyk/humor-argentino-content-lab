@@ -1,11 +1,11 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-25, corrida 13:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 12:30: 107 PNG físicos bajo Main frente a 104 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
+Corte verificado: 2026-09-25, corrida 14:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 14:30: 111 PNG físicos bajo Main frente a 108 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **104**
-- Comida: **32**
-- Vida cotidiana: **52**
+- Total generado y almacenado por la fábrica: **108**
+- Comida: **33**
+- Vida cotidiana: **55**
 - Economía y compras: **7**
 - Mascotas: **4**
 - Deportes: **3**
@@ -158,3 +158,15 @@ Nota: la corrida 13:30 fue parcial: 2/4 guardadas; anteojos en la cabeza rechaza
 Nota: la corrida 01:30 procesó cinco conceptos, excediendo el cupo de cuatro; cuatro PNG están verificados y guardados, pero la ejecución no fue plenamente conforme.
 
 Fuentes de trazabilidad: `produccion/corridas/2026-09-24-0939-art.md`, `produccion/corridas/2026-09-24-1130-art.md`, `produccion/corridas/2026-09-24-1230-art.md`, `produccion/corridas/2026-09-24-1330-art.md`, `produccion/corridas/2026-09-24-1430-art.md`, `produccion/corridas/2026-09-24-1530-art.md`, `produccion/corridas/2026-09-24-1630-art.md` `produccion/corridas/2026-09-24-1730-art.md` `produccion/corridas/2026-09-24-1830-art.md` `produccion/corridas/2026-09-24-1930-art.md`, `produccion/corridas/2026-09-24-2030-art.md`, `produccion/corridas/2026-09-24-2130-art.md`, `produccion/corridas/2026-09-24-2230-art.md`, `produccion/corridas/2026-09-24-2330-art.md`, `produccion/corridas/2026-09-25-0030-art.md`, `produccion/corridas/2026-09-25-0130-art.md`, `produccion/corridas/2026-09-25-0230-art.md`, `produccion/corridas/2026-09-25-0330-art.md`, `produccion/corridas/2026-09-25-0430-art.md`, `produccion/corridas/2026-09-25-0530-art.md`, `produccion/corridas/2026-09-25-0630-art.md`, `produccion/corridas/2026-09-25-0830-art.md` `produccion/corridas/2026-09-25-0930-art.md`, `produccion/corridas/2026-09-25-1030-art.md`, `produccion/corridas/2026-09-25-1130-art.md`, `produccion/corridas/2026-09-25-1230-art.md` y `produccion/reportes/2026-09-24-balance-jornada.md`. No borrar ni contar archivos por nombre solamente: contrastar cada alta con Biblioteca.
+
+
+## Alta 2026-09-25 14:30
+
+| Corrida | Concepto | Temática | Archivo en Biblioteca | Estado |
+| --- | --- | --- | --- | --- |
+| 2026-09-25 14:30 | Control remoto atado al sofá | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1430-main-control-atado.png` | Guardado; UTILIZABLE provisional: nudos y contacto plausibles, chiste autónomo |
+| 2026-09-25 14:30 | Tacho cerrado con mancuerna | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1430-main-tacho-pesa.png` | Guardado; UTILIZABLE provisional: apoyo y escala coherentes, chiste autónomo |
+| 2026-09-25 14:30 | Mate con bombilla larga | Comida | `/Humor Argentino/Main/Comida/2026-09-25-1430-main-mate-bombilla-larga.png` | Guardado; UTILIZABLE provisional: tubo continuo y perspectiva coherente |
+| 2026-09-25 14:30 | Silla frente a la heladera | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-25-1430-main-silla-heladera.png` | Guardado; UTILIZABLE provisional: puerta, cuerpo y silla sin intersecciones |
+
+Trazabilidad: `produccion/corridas/2026-09-25-1430-art.md`. Las cuatro aptitudes quedan sujetas a revisión final de Juan; el alta técnica no equivale a aprobación para publicar.
