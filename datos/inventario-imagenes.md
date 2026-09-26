@@ -10,7 +10,7 @@ Corte verificado: 2026-09-26, corrida 14:30 ART; rutas migradas a `/Humor Argent
 - Mascotas: **5**
 - Deportes: **3**
 - Trabajo y oficina: **6**
-- Pendientes históricos: **3** (cubitos de café, planta artificial y videollamada en pijama)
+- Pendientes históricos: **4** (cubitos de café, planta artificial y videollamada en pijama)
 
 ## Aptitud editorial
 
@@ -229,3 +229,11 @@ Trazabilidad: `produccion/corridas/2026-09-25-2030-art.md`. Corrida parcial 3/4.
 | 2026-09-26 14:30 | Papel higiénico en asiento infantil | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-26-1430-main-papel-asiento.png` | Guardado; UTILIZABLE |
 
 Trazabilidad: `produccion/corridas/2026-09-26-1430-art.md`.
+
+
+## Corrida 2026-09-26 15:30 ART
+- `main-2026-09-26-1530-art`: **0 altas confirmadas**, total permanece en **127**.
+- Un solo viaje con las bolsas: pendiente tras dos intentos por cantidad incorrecta; no guardado ni contado.
+- Gato se quedó con la cama y asado para un chorizo: generadas e inspeccionadas como UTILIZABLES, pero la transferencia persistente falló; archivos locales no contabilizados.
+- Media roja culpable: descartada por repetir `2026-09-24-1530-media-roja.png`; no contabilizada.
+- Registro completo: `produccion/corridas/2026-09-26-1530-art.md`.
