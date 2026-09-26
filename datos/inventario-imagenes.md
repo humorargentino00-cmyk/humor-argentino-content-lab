@@ -3,9 +3,9 @@
 Corte verificado: 2026-09-26, corrida 14:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 14:30 del 26/09: 130 PNG físicos bajo Main frente a 127 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **127**
+- Total generado y almacenado por la fábrica: **131**
 - Comida: **40**
-- Vida cotidiana: **65**
+- Vida cotidiana: **69**
 - Economía y compras: **8**
 - Mascotas: **5**
 - Deportes: **3**
@@ -249,3 +249,11 @@ Trazabilidad: `produccion/corridas/2026-09-26-1430-art.md`.
 ## Corrida 2026-09-26 17:30 ART
 - **0 imágenes generadas / 0 guardadas**. La comprobación de transferencia persistente devolvió `transfer_failed`; el Validador frenó antes de gastar generación.
 - Total confirmado permanece en **127**. Registro: `produccion/corridas/2026-09-26-1730-art.md`.
+
+
+## Corrida 2026-09-26 20:30 ART
+- `main-2026-09-26-2030-art`: **4 imágenes generadas, inspeccionadas y guardadas**.
+- Silla perchero, mosquito de máxima seguridad, mate con cinturón y lavadora de tapas: **UTILIZABLES** tras prueba ciega y control de anatomía, apoyos, escala, contacto y ausencia de collage.
+- Rutas confirmadas bajo `/Humor Argentino/Main/Vida cotidiana/`.
+- Total técnico actualizado: **131**; Vida cotidiana: **69**.
+- Registro completo: `produccion/corridas/2026-09-26-2030-art.md`.
