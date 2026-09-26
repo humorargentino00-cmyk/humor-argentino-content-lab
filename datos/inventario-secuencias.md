@@ -58,3 +58,6 @@ Corrida `secuencias-post-2026-09-26-1530-llaves-puerta`: cuatro cuadros generado
 
 
 Corrida `secuencias-post-2026-09-26-1630-robot-media`: cuatro cuadros 01–04 generados e inspeccionados; continuidad de living, robot, dock y media azul aprobada, con remate visual correcto. La transferencia persistente de los cuatro PNG falló con `transfer_failed`. **0 cuadros guardados / 0 secuencias nuevas**; contadores permanecen en **16 completas, 1 parcial y 67 cuadros**. Registro y prompts exactos: `produccion/secuencias/2026-09-26-1630-robot-media.md`.
+
+
+Corrida `secuencias-post-2026-09-26-1730-art`: bloqueada antes del cuadro 01 porque la comprobación de guardado persistente devolvió `transfer_failed`. **0 cuadros / 0 secuencias nuevas**; total **16 completas, 1 parcial y 67 cuadros**. Registro: `produccion/secuencias/2026-09-26-1730-art.md`.
