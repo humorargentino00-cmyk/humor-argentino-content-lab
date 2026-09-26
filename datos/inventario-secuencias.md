@@ -55,3 +55,6 @@ Alta `secuencias-post-2026-09-26-1430-rollo-repuesto`: cuatro cuadros 01–04 ap
 
 
 Corrida `secuencias-post-2026-09-26-1530-llaves-puerta`: cuatro cuadros generados, pero la idea fue descartada en la verificación final por repetir `secuencias-post-2026-09-25-0330-llaves-puestas`. La transferencia persistente también falló. **0 cuadros guardados / 0 secuencias nuevas**; contadores permanecen en **16 completas, 1 parcial y 67 cuadros**. Registro: `produccion/secuencias/2026-09-26-1530-llaves-puerta.md`.
+
+
+Corrida `secuencias-post-2026-09-26-1630-robot-media`: cuatro cuadros 01–04 generados e inspeccionados; continuidad de living, robot, dock y media azul aprobada, con remate visual correcto. La transferencia persistente de los cuatro PNG falló con `transfer_failed`. **0 cuadros guardados / 0 secuencias nuevas**; contadores permanecen en **16 completas, 1 parcial y 67 cuadros**. Registro y prompts exactos: `produccion/secuencias/2026-09-26-1630-robot-media.md`.
