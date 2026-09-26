@@ -244,3 +244,8 @@ Trazabilidad: `produccion/corridas/2026-09-26-1430-art.md`.
 - Cuatro PNG fueron generados e inspeccionados como UTILIZABLES provisionales (gato con salmón y dueño con fideos; gato en colchoneta; pileta en balcón mínimo; harina en toda la cocina), pero los cuatro guardados persistentes fallaron con `transfer_failed`.
 - No se contabilizan ni se clasifican como altas hasta contar con archivo persistente confirmado.
 - Registro con prompts exactos y revisión: `produccion/corridas/2026-09-26-1630-art.md`.
+
+
+## Corrida 2026-09-26 17:30 ART
+- **0 imágenes generadas / 0 guardadas**. La comprobación de transferencia persistente devolvió `transfer_failed`; el Validador frenó antes de gastar generación.
+- Total confirmado permanece en **127**. Registro: `produccion/corridas/2026-09-26-1730-art.md`.
