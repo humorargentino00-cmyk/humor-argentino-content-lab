@@ -2,10 +2,10 @@
 
 Corte inicial: 2026-09-25. Este registro es independiente de `datos/inventario-imagenes.md`, que contiene el stock de imágenes individuales heredado de `main`.
 
-- Secuencias completas verificadas: **16**
+- Secuencias completas verificadas: **17**
 - Secuencias pendientes con imágenes guardadas: **1**
-- Imágenes nuevas aprobadas y guardadas en este branch: **67**
-- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **6 secuencias / 24 imágenes**; Comida **6 secuencias completas / 24 imágenes**, más **1 secuencia pendiente / 3 imágenes**; Mascotas **3 secuencias / 12 imágenes**.
+- Imágenes nuevas aprobadas y guardadas en este branch: **71**
+- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **7 secuencias / 28 imágenes**; Comida **6 secuencias completas / 24 imágenes**, más **1 secuencia pendiente / 3 imágenes**; Mascotas **3 secuencias / 12 imágenes**.
 
 Alta `secuencias-post-2026-09-25-0130-paquete-te`: cuatro cuadros 01–04 aprobados y confirmados en `/Humor Argentino/Branch 2 - Secuencias/Economia y compras/2026-09-25-0130-paquete-te/`. Prompts, revisión y manifiesto: `produccion/secuencias/2026-09-25-0130-paquete-te.md`. Sin fallos ni correcciones.
 
@@ -61,3 +61,6 @@ Corrida `secuencias-post-2026-09-26-1630-robot-media`: cuatro cuadros 01–04 ge
 
 
 Corrida `secuencias-post-2026-09-26-1730-art`: bloqueada antes del cuadro 01 porque la comprobación de guardado persistente devolvió `transfer_failed`. **0 cuadros / 0 secuencias nuevas**; total **16 completas, 1 parcial y 67 cuadros**. Registro: `produccion/secuencias/2026-09-26-1730-art.md`.
+
+
+Alta `secuencias-post-2026-09-26-2030-heladera-revision`: cuatro cuadros 01–04 aprobados y guardados en `/Humor Argentino/Branch 2 - Secuencias/Vida cotidiana/2026-09-26-2030-heladera-revision/`. Continuidad de cocina, persona, heladera e interior verificada; progresión cerrada → vacía → retirada → reapertura. Estado técnico **COMPLETA 4/4**; aptitud **UTILIZABLE provisional**. Manifiesto: `produccion/secuencias/2026-09-26-2030-heladera-revision.md`.
