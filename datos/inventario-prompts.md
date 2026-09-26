@@ -4,7 +4,7 @@ Corte inicial: 2026-09-25. Contar sólo paquetes Markdown de cuatro prompts comp
 
 - Paquetes de corrida guardados: **18**
 - Prompts individuales aprobados: **72**
-- Pendientes: **1**
+- Pendientes: **2**
 - Desglose temático: Mixtos **18 paquetes / 72 prompts**.
 
 | Corrida ART | Paquete | Temática | Archivo en Biblioteca | Prompts aprobados | Estado |
@@ -48,3 +48,6 @@ Los prompts no son imágenes ni videos generados. Cada alta debe enlazar el regi
 
 
 Pendiente `experimental-2026-09-26-1530-art`: cuatro textos finales aprobados, pero el paquete `2026-09-26-1530-b1-prompts-gemini.md` no pudo confirmarse en Biblioteca por fallo de transferencia. No suma paquete ni prompts al total; contadores permanecen en **18 paquetes / 72 prompts**. Registro: `produccion/corridas/2026-09-26-1530-art.md`.
+
+
+Pendiente `experimental-2026-09-26-1630-art`: cuatro textos finales aprobados (dispensador automático, robot con media, café fuera de la taza y bolsa de naranjas), pero el paquete `2026-09-26-1630-b1-prompts-gemini.md` no pudo confirmarse en Biblioteca por `transfer_failed`. No suma paquete ni prompts: contadores permanecen en **18 paquetes / 72 prompts**. Registro con prompts completos: `produccion/corridas/2026-09-26-1630-art.md`.
