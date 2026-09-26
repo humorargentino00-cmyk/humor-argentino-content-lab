@@ -2,10 +2,10 @@
 
 Corte inicial: 2026-09-25. Contar sólo paquetes Markdown de cuatro prompts completos, revisados y confirmados en Biblioteca bajo `/Humor Argentino/Branch 1 - Prompts Gemini/`.
 
-- Paquetes de corrida guardados: **18**
-- Prompts individuales aprobados: **72**
+- Paquetes de corrida guardados: **19**
+- Prompts individuales aprobados: **76**
 - Pendientes: **3**
-- Desglose temático: Mixtos **18 paquetes / 72 prompts**.
+- Desglose temático: Mixtos **19 paquetes / 76 prompts**.
 
 | Corrida ART | Paquete | Temática | Archivo en Biblioteca | Prompts aprobados | Estado |
 | --- | --- | --- | --- | ---: | --- |
@@ -54,3 +54,8 @@ Pendiente `experimental-2026-09-26-1630-art`: cuatro textos finales aprobados (d
 
 
 Pendiente `experimental-2026-09-26-1730-art`: cuatro prompts completos aprobados; el paquete `2026-09-26-1730-b1-prompts-gemini.md` falló al transferirse (`transfer_failed`). No suma paquete ni prompts; total **18 paquetes / 72 prompts**. Registro: `produccion/corridas/2026-09-26-1730-art.md`.
+
+
+| 2026-09-26 20:30 | `experimental-2026-09-26-2030-art` | Mixtos | `/Humor Argentino/Branch 1 - Prompts Gemini/Mixtos/2026-09-26-2030-b1-prompts-gemini.md` | 4 | Verificado y guardado; `produccion/corridas/2026-09-26-2030-art.md` |
+
+El alta 20:30 no resuelve automáticamente los tres paquetes pendientes 15:30, 16:30 y 17:30; permanecen fuera de los contadores hasta guardado individual confirmado.
