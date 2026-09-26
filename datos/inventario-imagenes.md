@@ -1,11 +1,11 @@
 # Inventario de imágenes — fábrica Humor Argentino
 
-Corte verificado: 2026-09-25, corrida 20:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 20:30: 126 PNG físicos bajo Main frente a 123 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
+Corte verificado: 2026-09-26, corrida 14:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 14:30 del 26/09: 130 PNG físicos bajo Main frente a 127 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **123**
-- Comida: **38**
-- Vida cotidiana: **63**
+- Total generado y almacenado por la fábrica: **127**
+- Comida: **40**
+- Vida cotidiana: **65**
 - Economía y compras: **8**
 - Mascotas: **5**
 - Deportes: **3**
@@ -218,3 +218,14 @@ Trazabilidad: `produccion/corridas/2026-09-25-1930-art.md`. Alta técnica separa
 | 2026-09-25 20:30 | Aceituna bajo campana | Comida | — | PENDIENTE: herramienta bloqueada por credencial inválida; no generado ni contado |
 
 Trazabilidad: `produccion/corridas/2026-09-25-2030-art.md`. Corrida parcial 3/4. Balance: `produccion/reportes/2026-09-25-balance-jornada.md`.
+
+
+## Alta 2026-09-26 14:30
+| Corrida | Concepto | Temática | Archivo en Biblioteca | Estado |
+| --- | --- | --- | --- | --- |
+| 2026-09-26 14:30 | Alarma negociada — sábado | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-26-sabado-1430-main-alarma-negociada.png` | Guardado; UTILIZABLE; prioridad 06:30 recuperada con retraso por bloqueo |
+| 2026-09-26 14:30 | Empanada en caja fuerte | Comida | `/Humor Argentino/Main/Comida/2026-09-26-1430-main-empanada-caja-fuerte.png` | Guardado; UTILIZABLE |
+| 2026-09-26 14:30 | Galletita con candado | Comida | `/Humor Argentino/Main/Comida/2026-09-26-1430-main-galletita-candado.png` | Guardado; UTILIZABLE |
+| 2026-09-26 14:30 | Papel higiénico en asiento infantil | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-26-1430-main-papel-asiento.png` | Guardado; UTILIZABLE |
+
+Trazabilidad: `produccion/corridas/2026-09-26-1430-art.md`.
