@@ -2,10 +2,10 @@
 
 Corte inicial: 2026-09-25. Este registro es independiente de `datos/inventario-imagenes.md`, que contiene el stock de imágenes individuales heredado de `main`.
 
-- Secuencias completas verificadas: **15**
+- Secuencias completas verificadas: **16**
 - Secuencias pendientes con imágenes guardadas: **1**
-- Imágenes nuevas aprobadas y guardadas en este branch: **63**
-- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **5 secuencias / 20 imágenes**; Comida **6 secuencias completas / 24 imágenes**, más **1 secuencia pendiente / 3 imágenes**; Mascotas **3 secuencias / 12 imágenes**.
+- Imágenes nuevas aprobadas y guardadas en este branch: **67**
+- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **6 secuencias / 24 imágenes**; Comida **6 secuencias completas / 24 imágenes**, más **1 secuencia pendiente / 3 imágenes**; Mascotas **3 secuencias / 12 imágenes**.
 
 Alta `secuencias-post-2026-09-25-0130-paquete-te`: cuatro cuadros 01–04 aprobados y confirmados en `/Humor Argentino/Branch 2 - Secuencias/Economia y compras/2026-09-25-0130-paquete-te/`. Prompts, revisión y manifiesto: `produccion/secuencias/2026-09-25-0130-paquete-te.md`. Sin fallos ni correcciones.
 
@@ -49,3 +49,6 @@ Alta `secuencias-post-2026-09-25-1930-remera-salsa`: cuatro cuadros aprobados al
 
 
 Corrida `secuencias-post-2026-09-25-2030-rollo-papel`: **BLOQUEADA antes del cuadro 01** por rechazo de credenciales de la herramienta de imagen. 0 cuadros generados, aprobados o guardados; contadores sin cambios. Registro: `produccion/secuencias/2026-09-25-2030-rollo-papel.md`.
+
+
+Alta `secuencias-post-2026-09-26-1430-rollo-repuesto`: cuatro cuadros 01–04 aprobados y guardados en `/Humor Argentino/Branch 2 - Secuencias/Vida cotidiana/2026-09-26-1430-rollo-repuesto/`. Continuidad de baño, portarrollos, luz y cámara verificada; remate con repuesto sobre el depósito y tubo vacío en la pared. Estado técnico COMPLETA 4/4; aptitud UTILIZABLE provisional. Manifiesto: `produccion/secuencias/2026-09-26-1430-rollo-repuesto.md`.
