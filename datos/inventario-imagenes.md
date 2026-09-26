@@ -237,3 +237,10 @@ Trazabilidad: `produccion/corridas/2026-09-26-1430-art.md`.
 - Gato se quedó con la cama y asado para un chorizo: generadas e inspeccionadas como UTILIZABLES, pero la transferencia persistente falló; archivos locales no contabilizados.
 - Media roja culpable: descartada por repetir `2026-09-24-1530-media-roja.png`; no contabilizada.
 - Registro completo: `produccion/corridas/2026-09-26-1530-art.md`.
+
+
+## Corrida 2026-09-26 16:30 ART
+- `main-2026-09-26-1630-art`: **0 altas confirmadas**, total permanece en **127**.
+- Cuatro PNG fueron generados e inspeccionados como UTILIZABLES provisionales (gato con salmón y dueño con fideos; gato en colchoneta; pileta en balcón mínimo; harina en toda la cocina), pero los cuatro guardados persistentes fallaron con `transfer_failed`.
+- No se contabilizan ni se clasifican como altas hasta contar con archivo persistente confirmado.
+- Registro con prompts exactos y revisión: `produccion/corridas/2026-09-26-1630-art.md`.
