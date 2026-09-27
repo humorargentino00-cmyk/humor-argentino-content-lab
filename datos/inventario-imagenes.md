@@ -3,11 +3,11 @@
 Corte verificado: 2026-09-26, corrida 14:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 14:30 del 26/09: 130 PNG físicos bajo Main frente a 127 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **131**
+- Total generado y almacenado por la fábrica: **135**
 - Comida: **40**
-- Vida cotidiana: **69**
+- Vida cotidiana: **72**
 - Economía y compras: **8**
-- Mascotas: **5**
+- Mascotas: **6**
 - Deportes: **3**
 - Trabajo y oficina: **6**
 - Pendientes históricos: **4** (cubitos de café, planta artificial y videollamada en pijama)
@@ -257,3 +257,12 @@ Trazabilidad: `produccion/corridas/2026-09-26-1430-art.md`.
 - Rutas confirmadas bajo `/Humor Argentino/Main/Vida cotidiana/`.
 - Total técnico actualizado: **131**; Vida cotidiana: **69**.
 - Registro completo: `produccion/corridas/2026-09-26-2030-art.md`.
+
+
+## Corrida 2026-09-26 21:30 ART
+- `main-2026-09-26-2130-art`: **4 imágenes generadas, inspeccionadas y guardadas**.
+- Gato en bolsa de compras: `/Humor Argentino/Main/Mascotas/2026-09-26-2130-main-gato-bolsa-compras.png` — UTILIZABLE provisional.
+- Aromatizantes de auto: `/Humor Argentino/Main/Vida cotidiana/2026-09-26-2130-main-aromatizantes-auto.png` — UTILIZABLE provisional.
+- Comer de la olla: `/Humor Argentino/Main/Vida cotidiana/2026-09-26-2130-main-olla-sin-platos.png` — UTILIZABLE provisional.
+- Una zapatilla, tres ventiladores: `/Humor Argentino/Main/Vida cotidiana/2026-09-26-2130-main-zapatilla-tres-ventiladores.png` — UTILIZABLE provisional tras una corrección específica por duplicación de zapatilla.
+- Total técnico: **135**; Vida cotidiana **72**; Mascotas **6**. Registro: `produccion/corridas/2026-09-26-2130-art.md`.
