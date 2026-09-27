@@ -2,10 +2,10 @@
 
 Corte inicial: 2026-09-25. Este registro es independiente de `datos/inventario-imagenes.md`, que contiene el stock de imágenes individuales heredado de `main`.
 
-- Secuencias completas verificadas: **20**
+- Secuencias completas verificadas: **21**
 - Secuencias pendientes con imágenes guardadas: **1**
-- Imágenes nuevas aprobadas y guardadas en este branch: **83**
-- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **8 secuencias / 32 imágenes**; Comida **7 secuencias completas / 28 imágenes**, más **1 secuencia pendiente / 3 imágenes**; Mascotas **4 secuencias / 16 imágenes**.
+- Imágenes nuevas aprobadas y guardadas en este branch: **87**
+- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **9 secuencias / 36 imágenes**; Comida **7 secuencias completas / 28 imágenes**, más **1 secuencia pendiente / 3 imágenes**; Mascotas **4 secuencias / 16 imágenes**.
 
 Alta `secuencias-post-2026-09-25-0130-paquete-te`: cuatro cuadros 01–04 aprobados y confirmados en `/Humor Argentino/Branch 2 - Secuencias/Economia y compras/2026-09-25-0130-paquete-te/`. Prompts, revisión y manifiesto: `produccion/secuencias/2026-09-25-0130-paquete-te.md`. Sin fallos ni correcciones.
 
@@ -76,3 +76,6 @@ Alta `secuencias-post-2026-09-26-2330-tostada`: cuatro cuadros 01–04 aprobados
 
 
 Corrida `secuencias-post-2026-09-27-0030-frasco-galletitas`: cuatro cuadros generados y aprobados visualmente al primer intento, con continuidad de mujer, frasco, tapa y cocina. Los dos intentos de almacenamiento de los cuatro PNG devolvieron `transfer_failed`. **0 cuadros guardados / 0 secuencias nuevas**; contadores permanecen en **20 completas, 1 parcial con imágenes guardadas y 83 cuadros**. Registro y prompts exactos: `produccion/secuencias/2026-09-27-0030-frasco-galletitas.md`.
+
+
+Alta `secuencias-post-2026-09-27-0130-zapatilla-apagada`: cuatro cuadros 01–04 aprobados y guardados en `/Humor Argentino/Branch 2 - Secuencias/Vida cotidiana/2026-09-27-0130-zapatilla-apagada/`. Continuidad de teléfono rojo, cable blanco, mesa, lámpara y luz verificada; progresión 2% → conexión → zapatilla apagada → interruptor encendido y carga verde. El cuadro 03 requirió una corrección específica por estado ambiguo del interruptor. Estado técnico **COMPLETA 4/4**; aptitud **UTILIZABLE provisional**. Totales: **21 completas, 1 parcial y 87 cuadros**. Manifiesto: `produccion/secuencias/2026-09-27-0130-zapatilla-apagada.md`.
