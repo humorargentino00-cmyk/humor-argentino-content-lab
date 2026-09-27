@@ -82,3 +82,6 @@ Pendiente `experimental-2026-09-27-0030-art`: cuatro prompts completos aprobados
 | 2026-09-27 01:30 | `experimental-2026-09-27-0130` | Mixtos | `/Humor Argentino/Branch 1 - Prompts Gemini/Mixtos/2026-09-27-0130-b1-prompts-gemini.md` | 4 | Verificado y guardado; `produccion/corridas/2026-09-27-0130-art.md` |
 
 El alta 01:30 contiene exactamente cuatro prompts completos; no son imágenes ni videos, no se invocó Gemini y no se consumieron créditos. Los cuatro paquetes históricos pendientes permanecen fuera del total.
+
+
+Pendiente `experimental-2026-09-27-0230-art`: cuatro prompts finales aprobados (puerta automática, kétchup, silla de oficina y paraguas), pero el paquete `2026-09-27-0230-b1-prompts-gemini.md` no pudo confirmarse en Biblioteca por `transfer_failed`. No suma paquete ni prompts; total sin cambios: **23 paquetes / 92 prompts**, con **4 pendientes históricos** más este paquete no guardado. Registro: `produccion/corridas/2026-09-27-0230-art.md`.
