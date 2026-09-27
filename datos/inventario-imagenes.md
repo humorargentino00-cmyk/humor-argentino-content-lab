@@ -3,10 +3,10 @@
 Corte verificado: 2026-09-26, corrida 14:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 14:30 del 26/09: 130 PNG físicos bajo Main frente a 127 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **143**
-- Comida: **41**
-- Vida cotidiana: **76**
-- Economía y compras: **9**
+- Total generado y almacenado por la fábrica: **147**
+- Comida: **42**
+- Vida cotidiana: **78**
+- Economía y compras: **10**
 - Mascotas: **8**
 - Deportes: **3**
 - Trabajo y oficina: **6**
@@ -291,3 +291,13 @@ Trazabilidad: `produccion/corridas/2026-09-26-1430-art.md`.
 - `main-2026-09-27-0030-art`: cuatro imágenes generadas e inspeccionadas visualmente (mate con termómetro, alfajor con cubiertos, auto con cepillo de dientes y sello gigante), pero los dos intentos de almacenamiento devolvieron `transfer_failed` para cada PNG.
 - **0 imágenes guardadas / 0 altas**. Total confirmado sin cambios: **143**.
 - Registro con prompts y revisión: `produccion/corridas/2026-09-27-0030-art.md`.
+
+
+## Corrida 2026-09-27 01:30 ART
+- `main-2026-09-27-0130-art`: **4 imágenes generadas, inspeccionadas y guardadas**.
+- Barrer debajo de la alfombra — Vida cotidiana — `/Humor Argentino/Main/Vida cotidiana/2026-09-27-0130-main-barrer-bajo-alfombra.png` — UTILIZABLE provisional.
+- Recibo a la trituradora — Economía y compras — `/Humor Argentino/Main/Economia y compras/2026-09-27-0130-main-recibo-trituradora.png` — UTILIZABLE provisional.
+- Mate en cochecito — Comida — `/Humor Argentino/Main/Comida/2026-09-27-0130-main-mate-cochecito.png` — UTILIZABLE provisional.
+- Cactus con paraguas — Vida cotidiana — `/Humor Argentino/Main/Vida cotidiana/2026-09-27-0130-main-cactus-paraguas.png` — UTILIZABLE provisional.
+- Total técnico: **147**; Comida **42**; Vida cotidiana **78**; Economía y compras **10**; Mascotas **8**; Deportes **3**; Trabajo y oficina **6**.
+- Registro: `produccion/corridas/2026-09-27-0130-art.md`.
