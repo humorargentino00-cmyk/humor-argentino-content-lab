@@ -285,3 +285,9 @@ Trazabilidad: `produccion/corridas/2026-09-26-1430-art.md`.
 - `main-2026-09-26-2330-art`: **4 imágenes generadas, inspeccionadas y guardadas**.
 - Desglose de la corrida: Vida cotidiana 1, Comida 1, Economía y compras 1, Mascotas 1.
 - Total técnico: **143**. Registro: `produccion/corridas/2026-09-26-2330-art.md`.
+
+
+## Corrida bloqueada — 2026-09-27 00:30 ART
+- `main-2026-09-27-0030-art`: cuatro imágenes generadas e inspeccionadas visualmente (mate con termómetro, alfajor con cubiertos, auto con cepillo de dientes y sello gigante), pero los dos intentos de almacenamiento devolvieron `transfer_failed` para cada PNG.
+- **0 imágenes guardadas / 0 altas**. Total confirmado sin cambios: **143**.
+- Registro con prompts y revisión: `produccion/corridas/2026-09-27-0030-art.md`.
