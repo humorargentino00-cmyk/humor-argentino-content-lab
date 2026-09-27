@@ -3,11 +3,11 @@
 Corte verificado: 2026-09-26, corrida 14:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 14:30 del 26/09: 130 PNG físicos bajo Main frente a 127 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **139**
-- Comida: **40**
-- Vida cotidiana: **75**
-- Economía y compras: **8**
-- Mascotas: **7**
+- Total generado y almacenado por la fábrica: **143**
+- Comida: **41**
+- Vida cotidiana: **76**
+- Economía y compras: **9**
+- Mascotas: **8**
 - Deportes: **3**
 - Trabajo y oficina: **6**
 - Pendientes históricos: **4** (cubitos de café, planta artificial y videollamada en pijama)
@@ -274,3 +274,14 @@ Trazabilidad: `produccion/corridas/2026-09-26-1430-art.md`.
 - El perro exige paseo: Mascotas, UTILIZABLE provisional.
 - Rutas confirmadas bajo `/Humor Argentino/Main/Vida cotidiana/` y `/Humor Argentino/Main/Mascotas/`.
 - Total técnico: **139**; Vida cotidiana **75**; Mascotas **7**. Registro: `produccion/corridas/2026-09-26-2230-art.md`.
+
+
+| 2026-09-26 23:30 | Balanza con cinco globos | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-26-2330-main-balanza-globos.png` | Aprobado y guardado tras una corrección específica: seis globos iniciales → exactamente cinco |
+| 2026-09-26 23:30 | Un huevo, tres temporizadores | Comida | `/Humor Argentino/Main/Comida/2026-09-26-2330-main-huevo-tres-timers.png` | Aprobado y guardado |
+| 2026-09-26 23:30 | Cuenta con dos calculadoras | Economía y compras | `/Humor Argentino/Main/Economia y compras/2026-09-26-2330-main-cuenta-dos-calculadoras.png` | Aprobado y guardado |
+| 2026-09-26 23:30 | Gato en el lavamanos | Mascotas | `/Humor Argentino/Main/Mascotas/2026-09-26-2330-main-gato-lavamanos.png` | Aprobado y guardado |
+
+## Actualización 2026-09-26 23:30 ART
+- `main-2026-09-26-2330-art`: **4 imágenes generadas, inspeccionadas y guardadas**.
+- Desglose de la corrida: Vida cotidiana 1, Comida 1, Economía y compras 1, Mascotas 1.
+- Total técnico: **143**. Registro: `produccion/corridas/2026-09-26-2330-art.md`.
