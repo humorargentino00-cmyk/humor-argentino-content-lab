@@ -2,10 +2,10 @@
 
 Corte inicial: 2026-09-25. Este registro es independiente de `datos/inventario-imagenes.md`, que contiene el stock de imágenes individuales heredado de `main`.
 
-- Secuencias completas verificadas: **18**
+- Secuencias completas verificadas: **19**
 - Secuencias pendientes con imágenes guardadas: **1**
-- Imágenes nuevas aprobadas y guardadas en este branch: **75**
-- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **8 secuencias / 32 imágenes**; Comida **6 secuencias completas / 24 imágenes**, más **1 secuencia pendiente / 3 imágenes**; Mascotas **3 secuencias / 12 imágenes**.
+- Imágenes nuevas aprobadas y guardadas en este branch: **79**
+- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **8 secuencias / 32 imágenes**; Comida **6 secuencias completas / 24 imágenes**, más **1 secuencia pendiente / 3 imágenes**; Mascotas **4 secuencias / 16 imágenes**.
 
 Alta `secuencias-post-2026-09-25-0130-paquete-te`: cuatro cuadros 01–04 aprobados y confirmados en `/Humor Argentino/Branch 2 - Secuencias/Economia y compras/2026-09-25-0130-paquete-te/`. Prompts, revisión y manifiesto: `produccion/secuencias/2026-09-25-0130-paquete-te.md`. Sin fallos ni correcciones.
 
@@ -67,3 +67,6 @@ Alta `secuencias-post-2026-09-26-2030-heladera-revision`: cuatro cuadros 01–04
 
 
 Alta `secuencias-post-2026-09-26-2130-anteojos-puestos`: cuatro cuadros 01–04 aprobados al primer intento y guardados en `/Humor Argentino/Branch 2 - Secuencias/Vida cotidiana/2026-09-26-2130-anteojos-puestos/`. Continuidad de mujer, vestuario, living, estuche, anteojos y espejo verificada; progresión estuche vacío → sofá → linterna → descubrimiento en el espejo. Estado técnico **COMPLETA 4/4**; aptitud **UTILIZABLE provisional**. Manifiesto: `produccion/secuencias/2026-09-26-2130-anteojos-puestos.md`.
+
+
+Alta `secuencias-post-2026-09-26-2230-piso-limpio`: cuatro cuadros 01–04 aprobados al primer intento y guardados en `/Humor Argentino/Branch 2 - Secuencias/Mascotas/2026-09-26-2230-piso-limpio/`. Continuidad de mujer, perro, living, puerta, piso y lluvia verificada; progresión piso limpio → perro embarrado → primeras huellas → recorrido hasta el sofá. Estado técnico **COMPLETA 4/4**; aptitud **UTILIZABLE provisional**. Manifiesto: `produccion/secuencias/2026-09-26-2230-piso-limpio.md`.
