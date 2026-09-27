@@ -73,3 +73,6 @@ Alta `secuencias-post-2026-09-26-2230-piso-limpio`: cuatro cuadros 01–04 aprob
 
 
 Alta `secuencias-post-2026-09-26-2330-tostada`: cuatro cuadros 01–04 aprobados al primer intento y guardados en `/Humor Argentino/Branch 2 - Secuencias/Comida/2026-09-26-2330-tostada/`. Continuidad de mujer, vestuario, cocina, mesa, plato, tostada y luz verificada; progresión untado → tostada lista → caída → manteca contra el piso. Estado técnico **COMPLETA 4/4**; aptitud **UTILIZABLE provisional**. Manifiesto: `produccion/secuencias/2026-09-26-2330-tostada.md`.
+
+
+Corrida `secuencias-post-2026-09-27-0030-frasco-galletitas`: cuatro cuadros generados y aprobados visualmente al primer intento, con continuidad de mujer, frasco, tapa y cocina. Los dos intentos de almacenamiento de los cuatro PNG devolvieron `transfer_failed`. **0 cuadros guardados / 0 secuencias nuevas**; contadores permanecen en **20 completas, 1 parcial con imágenes guardadas y 83 cuadros**. Registro y prompts exactos: `produccion/secuencias/2026-09-27-0030-frasco-galletitas.md`.
