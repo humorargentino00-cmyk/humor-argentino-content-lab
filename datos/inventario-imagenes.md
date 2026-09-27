@@ -3,13 +3,13 @@
 Corte verificado: 2026-09-26, corrida 14:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 14:30 del 26/09: 130 PNG físicos bajo Main frente a 127 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **147**
-- Comida: **42**
-- Vida cotidiana: **78**
+- Total generado y almacenado por la fábrica: **151**
+- Comida: **44**
+- Vida cotidiana: **79**
 - Economía y compras: **10**
 - Mascotas: **8**
 - Deportes: **3**
-- Trabajo y oficina: **6**
+- Trabajo y oficina: **7**
 - Pendientes históricos: **4** (cubitos de café, planta artificial y videollamada en pijama)
 
 ## Aptitud editorial
@@ -307,3 +307,13 @@ Trazabilidad: `produccion/corridas/2026-09-26-1430-art.md`.
 - `main-2026-09-27-0230-art`: cuatro PNG fueron generados e inspeccionados (pinza al interruptor, sándwich con nivel, botas para una gotera y casco contra un bloque), pero el guardado devolvió `transfer_failed` para los cuatro.
 - **0 imágenes guardadas / 0 altas**. Total confirmado sin cambios: **147**; Comida **42**; Vida cotidiana **78**; Economía y compras **10**; Mascotas **8**; Deportes **3**; Trabajo y oficina **6**.
 - Registro con prompts y revisión: `produccion/corridas/2026-09-27-0230-art.md`.
+
+
+## Corrida 2026-09-27 03:30 ART
+- `main-2026-09-27-0330-art`: **4 imágenes generadas, inspeccionadas y guardadas**.
+- Chef de fideos instantáneos — Comida — `/Humor Argentino/Main/Comida/2026-09-27-0330-main-chef-fideos-instantaneos.png` — UTILIZABLE provisional.
+- Soplador de hojas para el teclado — Trabajo y oficina — `/Humor Argentino/Main/Trabajo y oficina/2026-09-27-0330-main-soplador-teclado.png` — UTILIZABLE provisional.
+- Sopa enfriada con ventilador — Comida — `/Humor Argentino/Main/Comida/2026-09-27-0330-main-sopa-ventilador.png` — UTILIZABLE provisional.
+- Linterna para leer con toda la casa encendida — Vida cotidiana — `/Humor Argentino/Main/Vida cotidiana/2026-09-27-0330-main-linterna-lectura.png` — UTILIZABLE provisional.
+- Total técnico: **151**; Comida **44**; Vida cotidiana **79**; Economía y compras **10**; Mascotas **8**; Deportes **3**; Trabajo y oficina **7**.
+- Registro: `produccion/corridas/2026-09-27-0330-art.md`.
