@@ -2,10 +2,10 @@
 
 Corte inicial: 2026-09-25. Este registro es independiente de `datos/inventario-imagenes.md`, que contiene el stock de imágenes individuales heredado de `main`.
 
-- Secuencias completas verificadas: **19**
+- Secuencias completas verificadas: **20**
 - Secuencias pendientes con imágenes guardadas: **1**
-- Imágenes nuevas aprobadas y guardadas en este branch: **79**
-- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **8 secuencias / 32 imágenes**; Comida **6 secuencias completas / 24 imágenes**, más **1 secuencia pendiente / 3 imágenes**; Mascotas **4 secuencias / 16 imágenes**.
+- Imágenes nuevas aprobadas y guardadas en este branch: **83**
+- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **8 secuencias / 32 imágenes**; Comida **7 secuencias completas / 28 imágenes**, más **1 secuencia pendiente / 3 imágenes**; Mascotas **4 secuencias / 16 imágenes**.
 
 Alta `secuencias-post-2026-09-25-0130-paquete-te`: cuatro cuadros 01–04 aprobados y confirmados en `/Humor Argentino/Branch 2 - Secuencias/Economia y compras/2026-09-25-0130-paquete-te/`. Prompts, revisión y manifiesto: `produccion/secuencias/2026-09-25-0130-paquete-te.md`. Sin fallos ni correcciones.
 
@@ -70,3 +70,6 @@ Alta `secuencias-post-2026-09-26-2130-anteojos-puestos`: cuatro cuadros 01–04 
 
 
 Alta `secuencias-post-2026-09-26-2230-piso-limpio`: cuatro cuadros 01–04 aprobados al primer intento y guardados en `/Humor Argentino/Branch 2 - Secuencias/Mascotas/2026-09-26-2230-piso-limpio/`. Continuidad de mujer, perro, living, puerta, piso y lluvia verificada; progresión piso limpio → perro embarrado → primeras huellas → recorrido hasta el sofá. Estado técnico **COMPLETA 4/4**; aptitud **UTILIZABLE provisional**. Manifiesto: `produccion/secuencias/2026-09-26-2230-piso-limpio.md`.
+
+
+Alta `secuencias-post-2026-09-26-2330-tostada`: cuatro cuadros 01–04 aprobados al primer intento y guardados en `/Humor Argentino/Branch 2 - Secuencias/Comida/2026-09-26-2330-tostada/`. Continuidad de mujer, vestuario, cocina, mesa, plato, tostada y luz verificada; progresión untado → tostada lista → caída → manteca contra el piso. Estado técnico **COMPLETA 4/4**; aptitud **UTILIZABLE provisional**. Manifiesto: `produccion/secuencias/2026-09-26-2330-tostada.md`.
