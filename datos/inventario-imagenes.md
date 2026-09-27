@@ -342,3 +342,10 @@ Trazabilidad: `produccion/corridas/2026-09-26-1430-art.md`.
 | 2026-09-27 08:30 | Chaleco salvavidas para un plato | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-27-0830-main-chaleco-plato.png` | Aprobado y guardado |
 | 2026-09-27 08:30 | Máscara industrial para rallar queso | Comida | `/Humor Argentino/Main/Comida/2026-09-27-0830-main-mascara-queso.png` | Aprobado y guardado |
 | 2026-09-27 08:30 | Equipo completo para cambiar una bombita baja | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-27-0830-main-casco-bombita.png` | Aprobado y guardado |
+
+
+## Corrida bloqueada — 2026-09-27 09:30 ART
+- `main-2026-09-27-0930-art`: cuatro imágenes generadas e inspeccionadas (broche gigante para papas, nivel láser para pantuflas, cinta métrica para fideos y guantes de horno para una galletita). El primer concepto requirió una corrección específica por papas extra.
+- La transferencia persistente devolvió `transfer_failed` para los cuatro PNG. **0 imágenes guardadas / 0 altas**.
+- Total confirmado sin cambios: **163**; Comida **50**; Vida cotidiana **85**; Economía y compras **10**; Mascotas **8**; Deportes **3**; Trabajo y oficina **7**.
+- Registro con prompts exactos y revisión: `produccion/corridas/2026-09-27-0930-art.md`.
