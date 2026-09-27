@@ -4,7 +4,7 @@ Corte inicial: 2026-09-25. Contar sólo paquetes Markdown de cuatro prompts comp
 
 - Paquetes de corrida guardados: **27**
 - Prompts individuales aprobados: **108**
-- Pendientes: **5**
+- Pendientes: **6**
 - Desglose temático: Mixtos **27 paquetes / 108 prompts**.
 
 | Corrida ART | Paquete | Temática | Archivo en Biblioteca | Prompts aprobados | Estado |
@@ -102,3 +102,6 @@ El alta 06:30 contiene exactamente cuatro prompts autocontenidos y validados; no
 El alta 07:30 contiene exactamente cuatro prompts completos; no son imágenes ni videos, no se invocó Gemini y no se consumieron créditos. Total: **26 paquetes / 104 prompts**.
 
 | 2026-09-27 08:30 | `experimental-2026-09-27-0830-art` | Mixtos | `/Humor Argentino/Branch 1 - Prompts Gemini/Mixtos/2026-09-27-0830-b1-prompts-gemini.md` | 4 | Verificado y guardado; `produccion/corridas/2026-09-27-0830-art.md` |
+
+
+Pendiente `experimental-2026-09-27-0930-art`: cuatro prompts finales aprobados (silla que baja, sábana ajustable, cargador en ángulo y rueda rebelde), pero el paquete `2026-09-27-0930-b1-prompts-gemini.md` no pudo confirmarse en Biblioteca por `transfer_failed`. No suma paquete ni prompts; total sin cambios: **27 paquetes / 108 prompts**, con **6 pendientes**. Registro con los textos completos: `produccion/corridas/2026-09-27-0930-art.md`.
