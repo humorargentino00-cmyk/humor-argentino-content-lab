@@ -301,3 +301,9 @@ Trazabilidad: `produccion/corridas/2026-09-26-1430-art.md`.
 - Cactus con paraguas — Vida cotidiana — `/Humor Argentino/Main/Vida cotidiana/2026-09-27-0130-main-cactus-paraguas.png` — UTILIZABLE provisional.
 - Total técnico: **147**; Comida **42**; Vida cotidiana **78**; Economía y compras **10**; Mascotas **8**; Deportes **3**; Trabajo y oficina **6**.
 - Registro: `produccion/corridas/2026-09-27-0130-art.md`.
+
+
+## Corrida bloqueada — 2026-09-27 02:30 ART
+- `main-2026-09-27-0230-art`: cuatro PNG fueron generados e inspeccionados (pinza al interruptor, sándwich con nivel, botas para una gotera y casco contra un bloque), pero el guardado devolvió `transfer_failed` para los cuatro.
+- **0 imágenes guardadas / 0 altas**. Total confirmado sin cambios: **147**; Comida **42**; Vida cotidiana **78**; Economía y compras **10**; Mascotas **8**; Deportes **3**; Trabajo y oficina **6**.
+- Registro con prompts y revisión: `produccion/corridas/2026-09-27-0230-art.md`.
