@@ -3,9 +3,9 @@
 Corte verificado: 2026-09-26, corrida 14:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 14:30 del 26/09: 130 PNG físicos bajo Main frente a 127 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **159**
-- Comida: **48**
-- Vida cotidiana: **83**
+- Total generado y almacenado por la fábrica: **163**
+- Comida: **50**
+- Vida cotidiana: **85**
 - Economía y compras: **10**
 - Mascotas: **8**
 - Deportes: **3**
@@ -337,3 +337,8 @@ Trazabilidad: `produccion/corridas/2026-09-26-1430-art.md`.
 - Pinza de parrilla para una media — Vida cotidiana — `/Humor Argentino/Main/Vida cotidiana/2026-09-27-0730-main-pinza-media.png` — UTILIZABLE provisional.
 - Total técnico: **159**; Comida **48**; Vida cotidiana **83**; Economía y compras **10**; Mascotas **8**; Deportes **3**; Trabajo y oficina **7**.
 - Registro: `produccion/corridas/2026-09-27-0730-art.md`.
+
+| 2026-09-27 08:30 | Llave de caño para una botella | Comida | `/Humor Argentino/Main/Comida/2026-09-27-0830-main-llave-botella.png` | Aprobado y guardado |
+| 2026-09-27 08:30 | Chaleco salvavidas para un plato | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-27-0830-main-chaleco-plato.png` | Aprobado y guardado |
+| 2026-09-27 08:30 | Máscara industrial para rallar queso | Comida | `/Humor Argentino/Main/Comida/2026-09-27-0830-main-mascara-queso.png` | Aprobado y guardado |
+| 2026-09-27 08:30 | Equipo completo para cambiar una bombita baja | Vida cotidiana | `/Humor Argentino/Main/Vida cotidiana/2026-09-27-0830-main-casco-bombita.png` | Aprobado y guardado |
