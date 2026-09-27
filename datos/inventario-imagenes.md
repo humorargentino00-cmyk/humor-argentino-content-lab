@@ -3,11 +3,11 @@
 Corte verificado: 2026-09-26, corrida 14:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 14:30 del 26/09: 130 PNG físicos bajo Main frente a 127 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **135**
+- Total generado y almacenado por la fábrica: **139**
 - Comida: **40**
-- Vida cotidiana: **72**
+- Vida cotidiana: **75**
 - Economía y compras: **8**
-- Mascotas: **6**
+- Mascotas: **7**
 - Deportes: **3**
 - Trabajo y oficina: **6**
 - Pendientes históricos: **4** (cubitos de café, planta artificial y videollamada en pijama)
@@ -266,3 +266,11 @@ Trazabilidad: `produccion/corridas/2026-09-26-1430-art.md`.
 - Comer de la olla: `/Humor Argentino/Main/Vida cotidiana/2026-09-26-2130-main-olla-sin-platos.png` — UTILIZABLE provisional.
 - Una zapatilla, tres ventiladores: `/Humor Argentino/Main/Vida cotidiana/2026-09-26-2130-main-zapatilla-tres-ventiladores.png` — UTILIZABLE provisional tras una corrección específica por duplicación de zapatilla.
 - Total técnico: **135**; Vida cotidiana **72**; Mascotas **6**. Registro: `produccion/corridas/2026-09-26-2130-art.md`.
+
+
+## Corrida 2026-09-26 22:30 ART
+- `main-2026-09-26-2230-art`: **4 imágenes generadas, inspeccionadas y guardadas**, todas al primer intento.
+- Fecha de leche con binoculares, secar un tenedor y un lavado para una media: Vida cotidiana, UTILIZABLES provisionales.
+- El perro exige paseo: Mascotas, UTILIZABLE provisional.
+- Rutas confirmadas bajo `/Humor Argentino/Main/Vida cotidiana/` y `/Humor Argentino/Main/Mascotas/`.
+- Total técnico: **139**; Vida cotidiana **75**; Mascotas **7**. Registro: `produccion/corridas/2026-09-26-2230-art.md`.
