@@ -3,9 +3,9 @@
 Corte verificado: 2026-09-26, corrida 14:30 ART; rutas migradas a `/Humor Argentino/Main` el 25/09/2026. Los contadores no cambian por mover carpetas. Contar sólo archivos individuales con generación, inspección visual y guardado confirmados. Los mosaicos antiguos, archivos ajenos y prompts sin PNG quedan excluidos. Contraste 14:30 del 26/09: 130 PNG físicos bajo Main frente a 127 altas verificadas; tres archivos previos no trazados quedan excluidos (`2026-09-24_stock-humor-argentino-03.png`, `2026-09-24_lote-humor-cotidiano.png`, `2026-09-24_bolsa-que-no-pesa.png`), sin borrarlos.
 
 ## Contadores
-- Total generado y almacenado por la fábrica: **151**
-- Comida: **44**
-- Vida cotidiana: **79**
+- Total generado y almacenado por la fábrica: **155**
+- Comida: **46**
+- Vida cotidiana: **81**
 - Economía y compras: **10**
 - Mascotas: **8**
 - Deportes: **3**
@@ -317,3 +317,13 @@ Trazabilidad: `produccion/corridas/2026-09-26-1430-art.md`.
 - Linterna para leer con toda la casa encendida — Vida cotidiana — `/Humor Argentino/Main/Vida cotidiana/2026-09-27-0330-main-linterna-lectura.png` — UTILIZABLE provisional.
 - Total técnico: **151**; Comida **44**; Vida cotidiana **79**; Economía y compras **10**; Mascotas **8**; Deportes **3**; Trabajo y oficina **7**.
 - Registro: `produccion/corridas/2026-09-27-0330-art.md`.
+
+
+## Corrida 2026-09-27 06:30 ART
+- `main-2026-09-27-0630-art`: **4 imágenes generadas, inspeccionadas y guardadas**.
+- Alarma negociada domingo — Vida cotidiana — `/Humor Argentino/Main/Vida cotidiana/2026-09-27-0630-main-alarma-negociada-domingo.png` — día, cinco horarios y clima aprobados.
+- Rodillo para un pelo — Vida cotidiana — `/Humor Argentino/Main/Vida cotidiana/2026-09-27-0630-main-rodillo-pelusa.png` — aprobado y guardado.
+- Taladro abrelatas — Comida — `/Humor Argentino/Main/Comida/2026-09-27-0630-main-taladro-abrelatas.png` — aprobado y guardado.
+- Lupa para instrucciones — Comida — `/Humor Argentino/Main/Comida/2026-09-27-0630-main-lupa-instrucciones.png` — aprobado y guardado.
+- Total técnico: **155**; Comida **46**; Vida cotidiana **81**; Economía y compras **10**; Mascotas **8**; Deportes **3**; Trabajo y oficina **7**.
+- Registro: `produccion/corridas/2026-09-27-0630-art.md`.
