@@ -2,10 +2,10 @@
 
 Corte inicial: 2026-09-25. Este registro es independiente de `datos/inventario-imagenes.md`, que contiene el stock de imágenes individuales heredado de `main`.
 
-- Secuencias completas verificadas: **24**
+- Secuencias completas verificadas: **25**
 - Secuencias pendientes con imágenes guardadas: **1**
-- Imágenes nuevas aprobadas y guardadas en este branch: **99**
-- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **11 secuencias / 44 imágenes**; Comida **8 secuencias completas / 32 imágenes**, más **1 secuencia pendiente / 3 imágenes**; Mascotas **4 secuencias / 16 imágenes**.
+- Imágenes nuevas aprobadas y guardadas en este branch: **103**
+- Temáticas: Economía y compras **1 secuencia / 4 imágenes**; Vida cotidiana **11 secuencias / 44 imágenes**; Comida **9 secuencias completas / 36 imágenes**, más **1 secuencia pendiente / 3 imágenes**; Mascotas **4 secuencias / 16 imágenes**.
 
 Alta `secuencias-post-2026-09-25-0130-paquete-te`: cuatro cuadros 01–04 aprobados y confirmados en `/Humor Argentino/Branch 2 - Secuencias/Economia y compras/2026-09-25-0130-paquete-te/`. Prompts, revisión y manifiesto: `produccion/secuencias/2026-09-25-0130-paquete-te.md`. Sin fallos ni correcciones.
 
@@ -94,3 +94,5 @@ Alta `secuencias-post-2026-09-27-0630-hielo-fugitivo`: cuatro cuadros 01–04 ap
 
 
 Alta `secuencias-post-2026-09-27-0730-cafe-sin-taza`: cuatro cuadros 01–04 aprobados y guardados en `/Humor Argentino/Branch 2 - Secuencias/Comida/2026-09-27-0730-cafe-sin-taza/`. Continuidad de mujer, taza, cafetera y bandeja verificada; progresión botón → café a bandeja → descubrimiento → bandeja como taza. Estado técnico **COMPLETA 4/4**; aptitud **UTILIZABLE provisional**. Totales: **24 completas, 1 parcial y 99 cuadros**. Manifiesto: `produccion/secuencias/2026-09-27-0730-cafe-sin-taza.md`.
+
+Alta `secuencias-post-2026-09-27-0830-galletita-cafe`: cuadros 01–04 aprobados al primer intento y guardados individualmente en `/Humor Argentino/Branch 2 - Secuencias/Comida/2026-09-27-0830-galletita-cafe/`. Continuidad, acción y ausencia de collage verificadas. Manifiesto: `produccion/secuencias/2026-09-27-0830-galletita-cafe.md`.
