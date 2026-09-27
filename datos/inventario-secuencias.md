@@ -85,3 +85,6 @@ Alta `secuencias-post-2026-09-27-0130-zapatilla-apagada`: cuatro cuadros 01–04
 - `secuencias-post-2026-09-27-0230-pochoclos-antes-pelicula`: cuatro cuadros fueron generados e inspeccionados, con continuidad aprobada, pero los cuatro guardados devolvieron `transfer_failed`.
 - **0 cuadros guardados / 0 secuencias completas nuevas**. Totales confirmados sin cambios: **21 secuencias completas, 1 parcial y 87 cuadros guardados**.
 - Registro con prompts exactos y revisión: `produccion/secuencias/2026-09-27-0230-pochoclos-antes-pelicula.md`.
+
+
+Alta `secuencias-post-2026-09-27-0330-lluvia-ventana`: cuatro cuadros 01–04 aprobados y guardados en `/Humor Argentino/Branch 2 - Secuencias/Vida cotidiana/2026-09-27-0330-lluvia-ventana/`. Continuidad de persona, ventana, lluvia y ambiente verificada. Estado técnico **COMPLETA 4/4**; aptitud **UTILIZABLE provisional**. Totales: **22 completas, 1 parcial y 91 cuadros**. Manifiesto: `produccion/secuencias/2026-09-27-0330-lluvia-ventana.md`.
