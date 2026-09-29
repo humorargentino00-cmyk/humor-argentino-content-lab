@@ -64,3 +64,16 @@ Después de guardar las 4 imágenes finales de cada corrida en `/Humor Argentino
 
 ## Aislamiento de líneas
 Esta línea guarda solamente su stock en `/Humor Argentino/Main/<temática>/`. Las otras líneas del repositorio tienen carpetas e inventarios propios: `/Humor Argentino/Branch 1 - Prompts Gemini` y `/Humor Argentino/Branch 2 - Secuencias`. No contar ni reclasificar archivos de esas líneas. Una sola tarea horaria activa invoca Main, Branch 1 y Branch 2; esta sección define únicamente el trabajo de Main. Cada línea conserva sus rutas y contadores propios.
+
+
+## ECC operativo — control antes de producción
+- **Orquestación:** el workflow hace avanzar Analista → Creativo → Corrector → Validador → Producción → Curador. Ningún agente se autoaprueba.
+- **Supervisor:** el Validador audita etapas, evidencia y guardrails; no crea conceptos ni sustituye al Creativo.
+- **Retrieval anti-repetición:** antes de crear, recuperar historial, aprobados, descartados, aprendizajes e inventario; comparar la mecánica/remate por significado, no sólo palabras. Si la similitud es dudosa, reemplazar antes de generar.
+- **Idempotencia y checkpoint:** cada corrida usa ID `MAIN-YYYYMMDD-HHMM-ART`; cada concepto `<run-id>-01..04`. Antes de generar o guardar, verificar que el ID no exista. Registrar etapa alcanzada, intentos, archivo y pendiente para poder retomar sin duplicar.
+- **Observabilidad:** separar `COMPLETADA_TECNICAMENTE` de `EXITOSA_EDITORIALMENTE`. Registrar output (archivos), outcome disponible (métricas posteriores), fallos y causa.
+- **Feedback loop:** feedback humano y métricas verificadas actualizan `datos/aprendizajes.md`; los descartes conservan motivo y alimentan futuras decisiones.
+- **Evals:** evaluar claridad del chiste, realismo, geometría, diseño/encuadre y resultado UTILIZABLE/CORREGIR/DESCARTAR. La decisión de Juan prevalece y forma dataset de referencia.
+- **Exploración/explotación:** «Alarma negociada» es explotación/identidad recurrente. Las otras plazas preservan exploración; una señal prometedora aumenta prioridad gradualmente, nunca ocupa automáticamente toda la producción.
+- **KPI:** views, likes y volumen son señales. El norte es crecimiento útil hacia monetización rentable; no optimizar una sola métrica sustituta.
+- **HITL/guardrails:** ningún gasto, publicación, borrado o cambio estructural de identidad sin autorización explícita de Juan.
