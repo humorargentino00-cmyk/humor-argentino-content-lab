@@ -59,3 +59,11 @@ Ver `produccion/secuencias/ejemplo-freezer-helado.md`: freezer cerrado → abier
 - Confirmar después el archivo en la carpeta destino antes de marcar `GUARDADO`.
 - Si falla el puente, detener nuevas generaciones visuales, registrar `BLOQUEADO_STORAGE` y conservar el identificador del archivo para recuperación. No regenerar una imagen correcta sólo por un fallo de transporte.
 - **Separación instrucción/contenido:** nunca enviar al generador el workflow, tablero de control, estados, checklist ni instrucciones de orquestación. El generador recibe exclusivamente el prompt visual aprobado de UNA pieza/cuadro. Los controles se ejecutan fuera del prompt.
+
+
+## Serialización estricta de generación visual
+- Los cuatro cuadros se generan con **cuatro llamadas independientes**. Nunca enviar los cuatro prompts juntos a ImageGen.
+- Ciclo obligatorio: `cuadro 01 → una llamada → un archivo → inspección → persistencia/verificación → cuadro 02`, manteniendo los invariantes de continuidad en cada prompt.
+- Cada llamada pide explícitamente **UNA sola imagen vertical 9:16, sin collage, sin paneles, sin cuadrícula y sin incluir otros cuadros de la secuencia**.
+- Si el resultado es multipanel, marcar `REQUIERE_CORRECCIÓN: EMPAQUETADO`, no guardarlo como cuadro válido y permitir una sola regeneración específica.
+- No avanzar al cuadro siguiente hasta verificar en Biblioteca el cuadro activo o dejarlo PENDIENTE tras agotar la corrección.
