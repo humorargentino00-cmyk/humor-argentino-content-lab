@@ -104,3 +104,11 @@ Esta línea guarda solamente su stock en `/Humor Argentino/Main/<temática>/`. L
 - Si ImageGen devuelve collage/mosaico/multipanel, clasificar `REQUIERE_CORRECCIÓN: EMPAQUETADO`; no guardar como stock ni contar sus paneles como archivos independientes. Permitir una sola regeneración del concepto activo con refuerzo de formato.
 - Sólo avanzar al concepto siguiente después de que el archivo activo haya sido inspeccionado y confirmado en Biblioteca, o haya quedado PENDIENTE tras agotar su corrección.
 - Si una pieza de una serie prioritaria ya fue producida/publicada manualmente por Juan ese día, registrar `RESUELTA_MANUALMENTE` y **no regenerarla**. La corrida continúa con el stock pendiente sin duplicarla.
+
+
+## Aislamiento de contexto visual
+- Cada llamada visual se construye desde cero usando únicamente el prompt aprobado de la pieza activa.
+- El historial, imágenes previas, series recurrentes y otras piezas de la corrida sirven sólo para retrieval/antirrepetición y **no se pasan como referencia visual implícita**.
+- Una pieza marcada `RESUELTA_MANUALMENTE` queda excluida de Producción durante el resto del día y no puede reaparecer como fallback, referencia ni sustituto.
+- Si el resultado no representa el concepto activo, marcar `DESCARTAR: CONTAMINACIÓN_DE_CONTEXTO`; no intentar corregirlo reutilizando esa imagen. La única corrección permitida reconstruye el prompt textual limpio del mismo concepto.
+- El estado de Producción debe nombrar explícitamente un único ID activo antes de llamar al generador; cualquier otro concepto permanece fuera del payload.
