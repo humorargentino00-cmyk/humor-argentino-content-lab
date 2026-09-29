@@ -94,3 +94,13 @@ Esta línea guarda solamente su stock en `/Humor Argentino/Main/<temática>/`. L
 - Confirmar después el archivo en la carpeta destino antes de marcar `GUARDADO`.
 - Si falla el puente, detener nuevas generaciones visuales, registrar `BLOQUEADO_STORAGE` y conservar el identificador del archivo para recuperación. No regenerar una imagen correcta sólo por un fallo de transporte.
 - **Separación instrucción/contenido:** nunca enviar al generador el workflow, tablero de control, estados, checklist ni instrucciones de orquestación. El generador recibe exclusivamente el prompt visual aprobado de UNA pieza/cuadro. Los controles se ejecutan fuera del prompt.
+
+
+## Serialización estricta de generación visual
+- **PROHIBIDO agrupar conceptos en una misma llamada al generador.** Aunque una corrida tenga cuatro piezas aprobadas, Producción procesa una sola pieza por vez.
+- Ciclo obligatorio: `concepto 01 → una llamada ImageGen → un archivo → inspección → persistencia/verificación → concepto 02`, y así sucesivamente.
+- La llamada de ImageGen contiene únicamente el prompt visual completo del concepto activo y debe pedir explícitamente **UNA sola imagen vertical 9:16, sin collage, sin paneles, sin cuadrícula, sin secuencia y sin mostrar otras ideas de la corrida**.
+- No enviar en una misma llamada nombres, resúmenes ni prompts de los otros conceptos.
+- Si ImageGen devuelve collage/mosaico/multipanel, clasificar `REQUIERE_CORRECCIÓN: EMPAQUETADO`; no guardar como stock ni contar sus paneles como archivos independientes. Permitir una sola regeneración del concepto activo con refuerzo de formato.
+- Sólo avanzar al concepto siguiente después de que el archivo activo haya sido inspeccionado y confirmado en Biblioteca, o haya quedado PENDIENTE tras agotar su corrección.
+- Si una pieza de una serie prioritaria ya fue producida/publicada manualmente por Juan ese día, registrar `RESUELTA_MANUALMENTE` y **no regenerarla**. La corrida continúa con el stock pendiente sin duplicarla.
