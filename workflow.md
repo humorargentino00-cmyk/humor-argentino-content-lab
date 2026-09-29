@@ -67,3 +67,9 @@ Ver `produccion/secuencias/ejemplo-freezer-helado.md`: freezer cerrado → abier
 - Cada llamada pide explícitamente **UNA sola imagen vertical 9:16, sin collage, sin paneles, sin cuadrícula y sin incluir otros cuadros de la secuencia**.
 - Si el resultado es multipanel, marcar `REQUIERE_CORRECCIÓN: EMPAQUETADO`, no guardarlo como cuadro válido y permitir una sola regeneración específica.
 - No avanzar al cuadro siguiente hasta verificar en Biblioteca el cuadro activo o dejarlo PENDIENTE tras agotar la corrección.
+
+
+## Aislamiento de contexto visual
+- Cada cuadro se genera desde un prompt textual limpio que contiene sólo el cuadro activo y los invariantes necesarios de continuidad.
+- No pasar otras imágenes o resultados fallidos como referencia salvo que una imagen anterior APROBADA sea necesaria y la herramienta permita referencia explícita.
+- Resultados ajenos al cuadro activo se marcan `DESCARTAR: CONTAMINACIÓN_DE_CONTEXTO` y no se reutilizan como base de corrección.
