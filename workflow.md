@@ -14,23 +14,3 @@ No llamar a generadores de imagen o video, ni abrir Gemini, ni contratar o conec
 
 ## Aislamiento
 La carpeta de este branch es `/Humor Argentino/Branch 1 - Prompts Gemini`. `main` utiliza `/Humor Argentino/Main` y Branch 2 utiliza `/Humor Argentino/Branch 2 - Secuencias`. Cada corrida usa ID único por fecha/hora ART; evitar duplicados y mantener contadores separados.
-
-
-## Aplicación en Humor de conocimientos aprendidos en ECC
-- ID de corrida: `B1-YYYYMMDD-HHMM-ART`; prompts `<run-id>-01..04`. Verificar existencia antes de guardar para impedir duplicados.
-- Antes de crear, hacer retrieval semántico del historial de las tres líneas, aprobados, descartados, aprendizajes e inventarios. Coincidencia de mecánica/remate = repetición aunque cambie el objeto.
-- Mantener checkpoint por corrida: análisis → 4 conceptos → corrección → validación → paquete guardado → inventario actualizado.
-- Separar **output** (4 prompts guardados) de **outcome** (resultado del video/publicación cuando Juan lo aporte).
-- Crear dataset de evaluación de prompts con feedback de Juan. Por prompt registrar, cuando exista: `GENERO_BIEN / NECESITO_CORRECCION / FALLO`, número de regeneraciones, causa, facilidad de edición desde teléfono y métricas posteriores de la publicación.
-- Hasta reunir suficiente muestra personal, esas evaluaciones son evidencia en construcción: no sobreoptimizar con pocos casos.
-- Conservar exploración de formatos y aumentar explotación sólo cuando exista evidencia repetida. No confundir views aisladas con monetización.
-- Ningún generador, crédito, publicación o gasto se ejecuta desde este branch.
-
-
-## Relación con ECC y otros proyectos
-- **ECC es la capa de aprendizaje permanente de Juan:** los conceptos que allí quedan fijados como aprendidos continúan vigentes como conocimiento de diseño de sistemas con IA. No dependen del resultado de una implementación concreta en este Lab.
-- **Humor Argentino es el entorno de aplicación y experimentación:** aquí se implementan conocimientos aprendidos en ECC, se observa su funcionamiento real y se corrige la implementación cuando sea necesario. Un fallo en Humor no invalida el concepto aprendido en ECC.
-- El circuito conceptual es: **ECC (conocimiento) → Humor (implementación/prueba) → medición/validación de la implementación**.
-- Cuando una implementación resulte útil y suficientemente validada, puede proponerse su transferencia a otros proyectos. **No se copia automáticamente:** debe adaptarse a los objetivos, datos, reglas, métricas, identidad y riesgos del proyecto destino.
-- **Pimpollito permanece aislado operacionalmente de Humor.** No compartir automáticamente métricas, inventarios, memoria operativa, contenido, agentes ni objetivos entre ambos Labs.
-- La comunicación de contexto de Humor comprende el proyecto Humor, sus chats/Works relacionados y el conocimiento aplicable aprendido en ECC. La de Pimpollito comprende su propio proyecto y sus chats/Works; puede recibir patrones validados de Humor únicamente mediante adaptación explícita.
