@@ -33,7 +33,7 @@ La regla heredada de cuatro imágenes por corrida significa aquí cuatro cuadros
 Ver `produccion/secuencias/ejemplo-freezer-helado.md`: freezer cerrado → abierto con pote al fondo → pote afuera → pote abierto con otra comida. El video propuesto usaría «La noche sin ti» de Los Huayra como contraste dramático; verificar el sonido seleccionable en TikTok antes del montaje.
 
 
-## ECC operativo — control de secuencias
+## Aplicación en Humor de conocimientos aprendidos en ECC
 - ID de corrida: `B2-YYYYMMDD-HHMM-ART`; secuencia `<run-id>-SEQ01`; cuadros `-01..04`. Verificar IDs antes de generar/guardar.
 - Retrieval anti-repetición obligatorio sobre historial de las tres líneas, secuencias, descartes, aprendizajes e inventarios; comparar estructura y remate por significado.
 - Checkpoint por cuadro: prompt aprobado → intento → inspección → corrección opcional → guardado. Retomar desde el último cuadro confirmado sin regenerar los anteriores.
@@ -42,3 +42,12 @@ Ver `produccion/secuencias/ejemplo-freezer-helado.md`: freezer cerrado → abier
 - Los fallos de perspectiva, escala, manos, puertas o continuidad pasan a `datos/aprendizajes.md` y deben recuperarse antes de nuevas secuencias.
 - Preservar exploración: no clonar una secuencia exitosa cambiando sólo objetos. Aumentar prioridad de una mecánica sólo con evidencia repetida.
 - Ningún gasto, publicación o borrado automático sin autorización explícita.
+
+
+## Relación con ECC y otros proyectos
+- **ECC es la capa de aprendizaje permanente de Juan:** los conceptos que allí quedan fijados como aprendidos continúan vigentes como conocimiento de diseño de sistemas con IA. No dependen del resultado de una implementación concreta en este Lab.
+- **Humor Argentino es el entorno de aplicación y experimentación:** aquí se implementan conocimientos aprendidos en ECC, se observa su funcionamiento real y se corrige la implementación cuando sea necesario. Un fallo en Humor no invalida el concepto aprendido en ECC.
+- El circuito conceptual es: **ECC (conocimiento) → Humor (implementación/prueba) → medición/validación de la implementación**.
+- Cuando una implementación resulte útil y suficientemente validada, puede proponerse su transferencia a otros proyectos. **No se copia automáticamente:** debe adaptarse a los objetivos, datos, reglas, métricas, identidad y riesgos del proyecto destino.
+- **Pimpollito permanece aislado operacionalmente de Humor.** No compartir automáticamente métricas, inventarios, memoria operativa, contenido, agentes ni objetivos entre ambos Labs.
+- La comunicación de contexto de Humor comprende el proyecto Humor, sus chats/Works relacionados y el conocimiento aplicable aprendido en ECC. La de Pimpollito comprende su propio proyecto y sus chats/Works; puede recibir patrones validados de Humor únicamente mediante adaptación explícita.
