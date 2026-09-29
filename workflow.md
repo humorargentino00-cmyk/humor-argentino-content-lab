@@ -14,3 +14,14 @@ No llamar a generadores de imagen o video, ni abrir Gemini, ni contratar o conec
 
 ## Aislamiento
 La carpeta de este branch es `/Humor Argentino/Branch 1 - Prompts Gemini`. `main` utiliza `/Humor Argentino/Main` y Branch 2 utiliza `/Humor Argentino/Branch 2 - Secuencias`. Cada corrida usa ID único por fecha/hora ART; evitar duplicados y mantener contadores separados.
+
+
+## ECC operativo — aprendizaje de prompts Gemini
+- ID de corrida: `B1-YYYYMMDD-HHMM-ART`; prompts `<run-id>-01..04`. Verificar existencia antes de guardar para impedir duplicados.
+- Antes de crear, hacer retrieval semántico del historial de las tres líneas, aprobados, descartados, aprendizajes e inventarios. Coincidencia de mecánica/remate = repetición aunque cambie el objeto.
+- Mantener checkpoint por corrida: análisis → 4 conceptos → corrección → validación → paquete guardado → inventario actualizado.
+- Separar **output** (4 prompts guardados) de **outcome** (resultado del video/publicación cuando Juan lo aporte).
+- Crear dataset de evaluación de prompts con feedback de Juan. Por prompt registrar, cuando exista: `GENERO_BIEN / NECESITO_CORRECCION / FALLO`, número de regeneraciones, causa, facilidad de edición desde teléfono y métricas posteriores de la publicación.
+- Hasta reunir suficiente muestra personal, esas evaluaciones son evidencia en construcción: no sobreoptimizar con pocos casos.
+- Conservar exploración de formatos y aumentar explotación sólo cuando exista evidencia repetida. No confundir views aisladas con monetización.
+- Ningún generador, crédito, publicación o gasto se ejecuta desde este branch.
