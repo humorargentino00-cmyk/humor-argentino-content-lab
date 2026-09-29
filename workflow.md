@@ -86,3 +86,11 @@ Esta línea guarda solamente su stock en `/Humor Argentino/Main/<temática>/`. L
 - Cuando una implementación resulte útil y suficientemente validada, puede proponerse su transferencia a otros proyectos. **No se copia automáticamente:** debe adaptarse a los objetivos, datos, reglas, métricas, identidad y riesgos del proyecto destino.
 - **Pimpollito permanece aislado operacionalmente de Humor.** No compartir automáticamente métricas, inventarios, memoria operativa, contenido, agentes ni objetivos entre ambos Labs.
 - La comunicación de contexto de Humor comprende el proyecto Humor, sus chats/Works relacionados y el conocimiento aplicable aprendido en ECC. La de Pimpollito comprende su propio proyecto y sus chats/Works; puede recibir patrones validados de Humor únicamente mediante adaptación explícita.
+
+
+## Puente obligatorio ImageGen → Biblioteca
+- Cuando el generador devuelva una imagen como archivo de conversación con `file_id`, **no asumir que su ruta temporal pertenece al contenedor activo**.
+- Persistir usando el `file_id` exacto del archivo generado: materializarlo cuando sea necesario y subir a Biblioteca mediante referencia de archivo (`source_file_ref`), no reutilizando una ruta temporal del generador.
+- Confirmar después el archivo en la carpeta destino antes de marcar `GUARDADO`.
+- Si falla el puente, detener nuevas generaciones visuales, registrar `BLOQUEADO_STORAGE` y conservar el identificador del archivo para recuperación. No regenerar una imagen correcta sólo por un fallo de transporte.
+- **Separación instrucción/contenido:** nunca enviar al generador el workflow, tablero de control, estados, checklist ni instrucciones de orquestación. El generador recibe exclusivamente el prompt visual aprobado de UNA pieza/cuadro. Los controles se ejecutan fuera del prompt.
