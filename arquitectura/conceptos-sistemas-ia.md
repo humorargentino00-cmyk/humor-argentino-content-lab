@@ -140,3 +140,46 @@ Cada nuevo concepto del curso que tenga aplicación real en Humor debe:
 - Revisar qué componente cumple orquestación y cuál supervisión.
 - Establecer política de exploración/explotación y umbrales de confianza.
 - Revisar permisos y puntos HITL.
+
+
+## Línea recurrente de identidad — «Alarma negociada»
+
+«Alarma negociada» no debe evaluarse como una pieza aislada de performance. Su función principal es construir **identidad, reconocimiento y hábito** mediante repetición deliberada.
+
+### Brand consistency / Distinctive assets
+La serie conserva activos reconocibles:
+- mismo chiste o estructura base;
+- mismo audio de referencia;
+- composición visual altamente reconocible;
+- despertador/alarma como elemento distintivo.
+
+Cambian principalmente:
+- día de la semana;
+- fecha/contexto cuando corresponda;
+- meteorología real del día.
+
+Objetivo buscado: que el follower reconozca inmediatamente la serie y la asocie con Humor Argentino ("esta es la cuenta que todos los días me dice qué día es").
+
+### Serie de identidad vs contenido de performance
+No todas las publicaciones cumplen la misma función.
+- **Performance content:** prioriza alcance, engagement, adquisición de seguidores y señales hacia monetización.
+- **Identity content:** prioriza reconocimiento, familiaridad, hábito y asociación con la cuenta.
+
+Por lo tanto, una publicación individual de «Alarma negociada» con pocas views NO autoriza a descartar automáticamente la serie.
+
+### Evaluación longitudinal
+La unidad principal de evaluación es la **serie a lo largo del tiempo**, no una única publicación.
+Observar, entre otras señales:
+- estabilidad o crecimiento de audiencia recurrente;
+- interacción repetida de los mismos seguidores;
+- reconocimiento/comentarios asociados a la serie;
+- visitas al perfil y follows cuando puedan atribuirse razonablemente;
+- evolución de alcance/retención de la serie;
+- contribución indirecta al rendimiento general de la cuenta.
+
+### Guardrail de identidad
+El optimizador no puede eliminar, reemplazar ni transformar radicalmente esta serie solo porque otro formato tenga mayor rendimiento inmediato.
+Cualquier cambio estructural en chiste base, audio o identidad visual debe tratarse como una decisión de producto/identidad y no como una optimización automática de corto plazo.
+
+### Exploration / Exploitation dentro de la serie
+La consistencia es parte del producto. La exploración debe hacerse sobre variables periféricas sin destruir los activos distintivos. Si se experimenta, registrar claramente qué variable cambió y comparar longitudinalmente.
