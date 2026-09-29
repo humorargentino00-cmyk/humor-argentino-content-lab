@@ -31,3 +31,14 @@ La regla heredada de cuatro imágenes por corrida significa aquí cuatro cuadros
 
 ## Ejemplo de referencia
 Ver `produccion/secuencias/ejemplo-freezer-helado.md`: freezer cerrado → abierto con pote al fondo → pote afuera → pote abierto con otra comida. El video propuesto usaría «La noche sin ti» de Los Huayra como contraste dramático; verificar el sonido seleccionable en TikTok antes del montaje.
+
+
+## ECC operativo — control de secuencias
+- ID de corrida: `B2-YYYYMMDD-HHMM-ART`; secuencia `<run-id>-SEQ01`; cuadros `-01..04`. Verificar IDs antes de generar/guardar.
+- Retrieval anti-repetición obligatorio sobre historial de las tres líneas, secuencias, descartes, aprendizajes e inventarios; comparar estructura y remate por significado.
+- Checkpoint por cuadro: prompt aprobado → intento → inspección → corrección opcional → guardado. Retomar desde el último cuadro confirmado sin regenerar los anteriores.
+- Separar completitud técnica, aptitud editorial y outcome posterior. Cuatro PNG no implican automáticamente una buena pieza.
+- Feedback de Juan se registra como eval: claridad, continuidad, geometría/perspectiva, realismo, diseño/encuadre y UTILIZABLE/CORREGIR/DESCARTAR con motivo.
+- Los fallos de perspectiva, escala, manos, puertas o continuidad pasan a `datos/aprendizajes.md` y deben recuperarse antes de nuevas secuencias.
+- Preservar exploración: no clonar una secuencia exitosa cambiando sólo objetos. Aumentar prioridad de una mecánica sólo con evidencia repetida.
+- Ningún gasto, publicación o borrado automático sin autorización explícita.
