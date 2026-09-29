@@ -66,7 +66,7 @@ Después de guardar las 4 imágenes finales de cada corrida en `/Humor Argentino
 Esta línea guarda solamente su stock en `/Humor Argentino/Main/<temática>/`. Las otras líneas del repositorio tienen carpetas e inventarios propios: `/Humor Argentino/Branch 1 - Prompts Gemini` y `/Humor Argentino/Branch 2 - Secuencias`. No contar ni reclasificar archivos de esas líneas. Una sola tarea horaria activa invoca Main, Branch 1 y Branch 2; esta sección define únicamente el trabajo de Main. Cada línea conserva sus rutas y contadores propios.
 
 
-## ECC operativo — control antes de producción
+## Aplicación en Humor de conocimientos aprendidos en ECC
 - **Orquestación:** el workflow hace avanzar Analista → Creativo → Corrector → Validador → Producción → Curador. Ningún agente se autoaprueba.
 - **Supervisor:** el Validador audita etapas, evidencia y guardrails; no crea conceptos ni sustituye al Creativo.
 - **Retrieval anti-repetición:** antes de crear, recuperar historial, aprobados, descartados, aprendizajes e inventario; comparar la mecánica/remate por significado, no sólo palabras. Si la similitud es dudosa, reemplazar antes de generar.
@@ -77,3 +77,12 @@ Esta línea guarda solamente su stock en `/Humor Argentino/Main/<temática>/`. L
 - **Exploración/explotación:** «Alarma negociada» es explotación/identidad recurrente. Las otras plazas preservan exploración; una señal prometedora aumenta prioridad gradualmente, nunca ocupa automáticamente toda la producción.
 - **KPI:** views, likes y volumen son señales. El norte es crecimiento útil hacia monetización rentable; no optimizar una sola métrica sustituta.
 - **HITL/guardrails:** ningún gasto, publicación, borrado o cambio estructural de identidad sin autorización explícita de Juan.
+
+
+## Relación con ECC y otros proyectos
+- **ECC es la capa de aprendizaje permanente de Juan:** los conceptos que allí quedan fijados como aprendidos continúan vigentes como conocimiento de diseño de sistemas con IA. No dependen del resultado de una implementación concreta en este Lab.
+- **Humor Argentino es el entorno de aplicación y experimentación:** aquí se implementan conocimientos aprendidos en ECC, se observa su funcionamiento real y se corrige la implementación cuando sea necesario. Un fallo en Humor no invalida el concepto aprendido en ECC.
+- El circuito conceptual es: **ECC (conocimiento) → Humor (implementación/prueba) → medición/validación de la implementación**.
+- Cuando una implementación resulte útil y suficientemente validada, puede proponerse su transferencia a otros proyectos. **No se copia automáticamente:** debe adaptarse a los objetivos, datos, reglas, métricas, identidad y riesgos del proyecto destino.
+- **Pimpollito permanece aislado operacionalmente de Humor.** No compartir automáticamente métricas, inventarios, memoria operativa, contenido, agentes ni objetivos entre ambos Labs.
+- La comunicación de contexto de Humor comprende el proyecto Humor, sus chats/Works relacionados y el conocimiento aplicable aprendido en ECC. La de Pimpollito comprende su propio proyecto y sus chats/Works; puede recibir patrones validados de Humor únicamente mediante adaptación explícita.
