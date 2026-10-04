@@ -29,3 +29,13 @@
 - "Qué fruta noble el alfajor..." alcanzó 516 vistas, 9 likes y 1 compartido (engagement 1,94%) en el mismo corte. Señal: distribución alta para la cuenta, conversión a interacción moderada/baja frente a Boby original y Facturas.
 - Hipótesis a testear: el concepto/objeto alfajor consigue reconocimiento inmediato, pero el hook creativo y/o el audio pueden estar limitando la conversión de vistas en interacción.
 - Próximas variantes sobre alfajor deben aislar variables: mantener visual/concepto comparable y probar hooks más participativos/identitarios y audio más reconocible o con remate sincronizado. No atribuir causalidad a la música sin una prueba controlada.
+
+
+## Dirección editorial adicional — serie recurrente de alarma + actualidad (2026-10-04)
+Esto es contexto creativo/analítico para Main, NO una regla rígida de estructura.
+- La imagen matinal del despertador es una serie recurrente: conserva reconocibilidad (alarma/despertar + día + hora + clima), pero debe incorporar actualidad relevante cuando exista.
+- Antes de diseñar cada entrega, el Analista debe revisar señales recientes disponibles en redes/métricas y detectar temas/eventos a los que la audiencia argentina esté reaccionando.
+- La actualidad no se agrega como decoración: debe modificar el diseño visual, el hook y la selección de audio.
+- Evaluar la serie longitudinalmente; repetición visual = identidad, actualidad = variación.
+- Ejemplo editorial inmediato: despedida de Lionel Messi de la Selección el martes 06/10/2026. Arco mínimo de tres días: lunes = volver al trabajo + anticipación emocional; martes = día de la despedida/último partido; miércoles = día después/ausencia. Adaptar el tono a lo que efectivamente ocurra y a las reacciones reales; no preescribir el miércoles antes de conocer el resultado y la conversación.
+- Para cada día, elegir hook y audio en función de señales observadas. No atribuir rendimiento a música/hook sin comparar datos.
