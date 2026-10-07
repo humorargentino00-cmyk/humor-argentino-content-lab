@@ -64,3 +64,28 @@ Después de guardar las 4 imágenes finales de cada corrida en `/Humor Argentino
 
 ## Aislamiento de líneas
 Esta línea guarda solamente su stock en `/Humor Argentino/Main/<temática>/`. Las otras líneas del repositorio tienen carpetas e inventarios propios: `/Humor Argentino/Branch 1 - Prompts Gemini` y `/Humor Argentino/Branch 2 - Secuencias`. No contar ni reclasificar archivos de esas líneas. Una sola tarea horaria activa invoca Main, Branch 1 y Branch 2; esta sección define únicamente el trabajo de Main. Cada línea conserva sus rutas y contadores propios.
+
+
+## Ventana editorial diaria 00:00-07:00 ART
+Esta sección reemplaza operativamente la corrida matinal fija de 06:30 cuando ambas entren en conflicto.
+
+### 00:00-06:00 — Radar
+- Observar actualidad argentina y conversación social hasta las 06:00 ART.
+- Cruzar eventos/noticias con reacciones visibles, temas repetidos y, cuando las herramientas lo permitan, hashtags y audios en circulación.
+- Metricool mide rendimiento propio; el radar externo aporta contexto. No confundir popularidad general con rendimiento demostrado en @humor.argentino97.
+- No inventar tendencias, audios ni hashtags. Marcar NO VERIFICADO cuando no pueda comprobarse.
+- A las 06:00 cerrar el corte y elegir un tema principal y, opcionalmente, un suplente.
+
+### 06:00-07:00 — Producción matinal
+- Analista entrega tema, señal observada y tono.
+- Creativo decide imagen fija, video corto o híbrido.
+- Formato preferente cuando sea viable: mantener la escena reconocible de Alarma negociada y usar la TV/pantalla del dormitorio como ventana de actualidad; puede mostrar imagen o video alusivo. El audio pertenece al video/publicación.
+- Mantener dormitorio, despertar, alarma 07:00 y repeticiones 07:05/07:10/07:15/07:20, día real y clima verificado de Ciudad Evita.
+- La actualidad debe cambiar emoción, puesta, TV/fondo y objetos secundarios; evitar repetir exactamente la composición del día anterior.
+- Antes de publicar definir en conjunto: hook breve, descripción/caption, hashtags relevantes realmente observados y audio alusivo. Audio sin nombre/creador verificable = AUDIO NO VERIFICADO.
+- Corrector y Validador revisan comprensión inmediata, actualidad, geometría, texto y coherencia entre pieza, hook, caption, hashtags y audio.
+- Objetivo: archivo final listo antes de las 07:00 ART y guardado individualmente en /Humor Argentino/Main con trazabilidad en GitHub.
+- Publicar requiere orden aparte.
+
+### Aprendizaje
+Medir durante el día alcance, likes, comentarios, shares y engagement. Separar tema, formato, hook y audio; no atribuir causalidad sin evidencia. El aprendizaje vuelve al radar siguiente.
